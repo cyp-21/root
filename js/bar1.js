@@ -1,4 +1,3 @@
-import OneCountData from "../../utils/data.js";
 (function(){
   const chartinstance = echarts.init(document.querySelector('.demo'))
   const useData = new Array
@@ -38,7 +37,7 @@ import OneCountData from "../../utils/data.js";
       {
         name:'CategoryOne',
         type: 'bar',
-        data:OneCountData()
+        data:useData
       }
     ]
   }
