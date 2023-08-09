@@ -4,15 +4,37 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="./CSS/child.css">
+  <title>个人博客封面</title>
+  <link rel="stylesheet" href="./CSS/index.css">
 </head>
 <body>
   <div class="mainbody">
-    <div class="demo"></div>
+    <video autoplay muted loop plays-inline poster class="backvideo">
+      <source src="./video/潮点网_请勿商用.mp4" type="video/mp4">
+    </video>
+    <div class="childmain">
+      <div class="topbody"></div>
+      <div class="bottombody">
+        <div class="leftbody">
+          <div class="titlebody">分享基于Echarts制作的可视化图表案例</div>
+          <div class="selectbody">
+            <div class="selectbuttona"></div>
+            <a href="./HTML/total.html" class="selectbutton">图表演示</a>
+            <a href="./ChartViews/index.html" class="selectbutton" id="bigchart">大屏可视化</a>
+          </div>
+          <div class="nobody"></div>
+        </div>
+        <div class="rightbody"></div>
+      </div>
+    </div>
   </div>
-  <a href="./html/1.html" style="position: absolute; left: 2%;top: 2%;">转到测试1</a>
 </body>
-  <script src="./utils/echarts.min.js"></script>
-  <script src="./js/bar1.js"></script>
+<script src="./js/echarts.min.js"></script>
+<script src="./js/index.js"></script>
+<script>
+  // const bigChart = document.querySelector('#bigchart')
+  // bigChart.addEventListener('click',()=>{
+  //   alert('还未开发，后续有空再更新...')
+  // })
+</script>
 </html>
