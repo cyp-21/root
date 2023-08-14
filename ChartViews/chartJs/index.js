@@ -5,12 +5,12 @@
   let yeartotalGmv = 0
   mzData.RECORDS.forEach(item=>{yeartotalGmv+=Number(item.totalGmv)})
   const endTotalGmv = yeartotalGmv > 100000000 ? Math.round(yeartotalGmv / 1000000) / 100 + "亿" : Math.round(yeartotalGmv / 1000) / 100 + "万"
-  yeartitleDom.innerHTML = "近一年市场体量为：" + endTotalGmv
+  yeartitleDom.innerHTML = "2022年至今市场体量为：" + endTotalGmv
 })();
 
 (function () {
   const domeId = ['#lefttop','#leftmiddle','#leftbottom']
-  barLinePieMixLeft(mzData.RECORDS,secData.RECORDS,domeId,'美妆行业抖音趋势图')
+  barLinePieMixLeft(mzData.RECORDS,secData.RECORDS,domeId,'运动健身行业抖音趋势图')
 })();
 
 (function () {
@@ -46,7 +46,7 @@
       left:'0%',
       top:'0%',
       textStyle:{
-        fontSize:16,
+        fontSize:14,
         fontWeight:'bolder'
       }
     },
@@ -55,9 +55,9 @@
       top: '3%',
     },
     grid:{
-      left:'5%',
+      left:'10%',
       top:'20%',
-      right:'5%',
+      right:'10%',
       bottom:'10%'
     },
     toolbox: {
@@ -141,9 +141,13 @@
 
   const optionG = {
     title:{
-      text:'▍面部护肤-品牌帕累托图',
+      text:'▍瑜伽服饰-品牌帕累托图',
       left:'0%',
-      top:'3%'
+      top:'3%',
+      textStyle:{
+        fontSize:14,
+        fontWeight:'bolder'
+      }
     },
     legend:{
       type:'plain',
@@ -151,9 +155,9 @@
       top:'3%'
     },
     grid:{
-      left:'5%',
+      left:'10%',
       top:'25%',
-      right:'5%',
+      right:'10%',
       bottom:'25%'
     },
     tooltip:{
@@ -175,12 +179,12 @@
     },
     xAxis: {
       type: 'category',
-      data: pltUseData(fourDataE,'面部护肤').map(item=>item.brandName)
+      data: pltUseData(fourDataE,'瑜伽服饰').map(item=>item.brandName)
     },
     yAxis: [
       {
         type: 'value',
-        name:'CategoryOne',
+        name:'brandName',
         position:'left',
         alignTick:true,
         axisLine:{
@@ -197,7 +201,7 @@
       },
       {
         type: 'value',
-        name:'PTL',
+        name:'PTLRatio',
         position:'right',
         alignTick:true,
         axisLine:{
@@ -224,7 +228,7 @@
     ],
     series: [
       {
-        name:'CategoryOne',
+        name:'brandName',
         type: 'bar',
         yAxisIndex:0,
         itemStyle:{
@@ -240,13 +244,13 @@
           ]),
           borderRadius:[33,33,0,0]
         },
-        data:pltUseData(fourDataE,'面部护肤').map(item=>item.totalGmv)
+        data:pltUseData(fourDataE,'瑜伽服饰').map(item=>item.totalGmv)
       },
       {
-        name:'PTL',
+        name:'PTLRatio',
         type: 'line',
         yAxisIndex:1,
-        data:pltUseData(fourDataE,'面部护肤').map(item=>item.pltRatio),
+        data:pltUseData(fourDataE,'瑜伽服饰').map(item=>item.pltRatio),
         smooth:true,
         symbol:"none",
         lineStyle:{

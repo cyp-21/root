@@ -1,16424 +1,11394 @@
 const fouData = {
   "RECORDS": [
     {
-      "thirdCategory": "T区护理",
-      "brandName": "RNW/如薇",
-      "totalGmv": "289306500"
+      "thirdCategory": "ems微电流穿戴健身仪",
+      "brandName": "VONMIE",
+      "totalGmv": "113930673"
     },
     {
-      "thirdCategory": "T区护理",
+      "thirdCategory": "ems微电流穿戴健身仪",
       "brandName": "其它",
-      "totalGmv": "28440000"
+      "totalGmv": "19762046"
     },
     {
-      "thirdCategory": "T区护理",
-      "brandName": "MIANJISHIGUANG/面玑时光",
-      "totalGmv": "25468250"
+      "thirdCategory": "ems微电流穿戴健身仪",
+      "brandName": "OAVE",
+      "totalGmv": "13337583"
     },
     {
-      "thirdCategory": "T区护理",
-      "brandName": "EIIO/奕沃",
-      "totalGmv": "4221750"
+      "thirdCategory": "ems微电流穿戴健身仪",
+      "brandName": "tout a coup",
+      "totalGmv": "4066159"
     },
     {
-      "thirdCategory": "T区护理",
-      "brandName": "仁和匠心",
-      "totalGmv": "3235000"
+      "thirdCategory": "ems微电流穿戴健身仪",
+      "brandName": "cafni",
+      "totalGmv": "4057231"
     },
     {
-      "thirdCategory": "T区护理",
-      "brandName": "auou/艾遇",
-      "totalGmv": "1705000"
+      "thirdCategory": "ems微电流穿戴健身仪",
+      "brandName": "iPerMove/你的随身康复师",
+      "totalGmv": "2616929"
     },
     {
-      "thirdCategory": "T区护理",
-      "brandName": "DPU/简初",
-      "totalGmv": "1691000"
+      "thirdCategory": "ems微电流穿戴健身仪",
+      "brandName": "北健",
+      "totalGmv": "1328225"
     },
     {
-      "thirdCategory": "T区护理",
-      "brandName": "修莱雅",
-      "totalGmv": "1623000"
-    },
-    {
-      "thirdCategory": "T区护理",
-      "brandName": "诺斯莉",
-      "totalGmv": "1554000"
-    },
-    {
-      "thirdCategory": "T区护理",
-      "brandName": "CIFILANS/丝菲兰斯",
-      "totalGmv": "1443000"
-    },
-    {
-      "thirdCategory": "T区护理",
-      "brandName": "黛莱颜",
-      "totalGmv": "1317000"
-    },
-    {
-      "thirdCategory": "T区护理",
-      "brandName": "Unny/悠宜",
-      "totalGmv": "1225500"
-    },
-    {
-      "thirdCategory": "体验装",
-      "brandName": "大内密探",
-      "totalGmv": "6146250"
-    },
-    {
-      "thirdCategory": "体验装",
-      "brandName": "纪梵希",
-      "totalGmv": "1782000"
-    },
-    {
-      "thirdCategory": "体验装",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "392750"
-    },
-    {
-      "thirdCategory": "体验装",
-      "brandName": "佩枪朱丽叶",
-      "totalGmv": "381000"
-    },
-    {
-      "thirdCategory": "体验装",
-      "brandName": "Florasis/花西子",
-      "totalGmv": "380750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "AlI Natural Advice/肌先知",
-      "totalGmv": "127269000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "其它",
-      "totalGmv": "54526250"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "简&搭",
-      "totalGmv": "32110250"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "28204500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "ZEESEA/滋色",
-      "totalGmv": "18504750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "迪奥",
-      "totalGmv": "10083250"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "若蘅",
-      "totalGmv": "8532750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "Dr.Yu/玉泽",
-      "totalGmv": "7331750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "DR.ARRIVO/宙斯",
-      "totalGmv": "7065000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "MARUBI/丸美",
-      "totalGmv": "6601750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "Flora natura",
-      "totalGmv": "6459750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "纪梵希",
-      "totalGmv": "5940750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "CASSIEY cosmetics",
-      "totalGmv": "5769500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "safeguard/舒肤佳",
-      "totalGmv": "5394250"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "blankme",
-      "totalGmv": "5299500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "FLORTTE/花洛莉亚",
-      "totalGmv": "5066350"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "SK-II",
-      "totalGmv": "4582000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "MRTX/摩蒂萱",
-      "totalGmv": "4362500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "LA MER/海蓝之谜",
-      "totalGmv": "4034250"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "FANSHIDI/梵诗笛",
-      "totalGmv": "3987500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "OULAIJIA/欧莱加",
-      "totalGmv": "3515000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "MGP/毛戈平",
-      "totalGmv": "3210000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "2924000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "Joocyee/酵色",
-      "totalGmv": "2409250"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "TIMAGE/彩棠",
-      "totalGmv": "2257750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "卡本纳梵高",
-      "totalGmv": "2005000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "Mistine/蜜丝婷",
-      "totalGmv": "1978500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "透色",
-      "totalGmv": "1941000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "HIH",
-      "totalGmv": "1940000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "colorkey/珂拉琪",
-      "totalGmv": "1898400"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "梦洁",
-      "totalGmv": "1795000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "Ladycare/洁婷",
-      "totalGmv": "1765000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "MVV/Mvv",
-      "totalGmv": "1749000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "沁雪艾仙",
-      "totalGmv": "1604000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "璃悦",
-      "totalGmv": "1545000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "TOM MARK/唐魅可",
-      "totalGmv": "1486000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "MEXCOCO",
-      "totalGmv": "1485000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "head&shoulders/海飞丝",
-      "totalGmv": "1412000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "OSM/欧诗漫",
-      "totalGmv": "1241000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "Vitavea",
-      "totalGmv": "1239000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "GUCCI/古驰",
-      "totalGmv": "1197000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "京东",
-      "totalGmv": "1185000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "TDL",
-      "totalGmv": "1179000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "银泰百货",
-      "totalGmv": "1160500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "ROMANTICBEAUTY",
-      "totalGmv": "1150500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "WOSADO/悦瞳",
-      "totalGmv": "1137000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "WINONA/薇诺娜",
-      "totalGmv": "1132500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "ERNO LASZLO/奥伦纳素",
-      "totalGmv": "878500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "GIORGIO ARMANI/阿玛尼",
-      "totalGmv": "820500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "YSL/圣罗兰",
-      "totalGmv": "812250"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "娅美乐",
-      "totalGmv": "807500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "奥斯赫",
-      "totalGmv": "790750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "麦尔卡伦",
-      "totalGmv": "787500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "AMORTALS/尔木萄",
-      "totalGmv": "784500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "姗那贝拉",
-      "totalGmv": "751500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "欧美莲",
-      "totalGmv": "749000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "HOLA/赫拉",
-      "totalGmv": "733500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "AMIRO/觅光",
-      "totalGmv": "552230"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "盖百霖",
-      "totalGmv": "441500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "COSME DECORTE/黛珂",
-      "totalGmv": "435750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "ITRIM",
-      "totalGmv": "431500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "KAHI",
-      "totalGmv": "424500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "醉鹅娘",
-      "totalGmv": "423500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "Mamonde/梦妆",
-      "totalGmv": "403500"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "KERASTASE/卡诗",
-      "totalGmv": "400750"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "386000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "3CE/三熹玉",
-      "totalGmv": "352000"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "ZHIRANMEI/植然魅",
-      "totalGmv": "168200"
-    },
-    {
-      "thirdCategory": "其他彩妆",
-      "brandName": "KRYOLAN",
-      "totalGmv": "145700"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "其它",
-      "totalGmv": "304235250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "INTO YOU",
-      "totalGmv": "275206300"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "colorkey/珂拉琪",
-      "totalGmv": "267254700"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "259551800"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Joocyee/酵色",
-      "totalGmv": "245723600"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "AKF",
-      "totalGmv": "209021550"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "167364250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "HINSOCHA/韩水仙",
-      "totalGmv": "153284000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "AGAG",
-      "totalGmv": "122892750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "CHIOTURE/稚优泉",
-      "totalGmv": "122323050"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "YSL/圣罗兰",
-      "totalGmv": "121510250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "3CE/三熹玉",
-      "totalGmv": "114931200"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "迪奥",
-      "totalGmv": "113457750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MAC/魅可",
-      "totalGmv": "111389100"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "PinkBear",
-      "totalGmv": "110491750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "CARSLAN/卡姿兰",
-      "totalGmv": "97382100"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "KIKO",
-      "totalGmv": "74318700"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MAYBELLINE/美宝莲",
-      "totalGmv": "72526000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "纪梵希",
-      "totalGmv": "68007750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Dancing up/舞动奇迹",
-      "totalGmv": "64708000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "LEGEND AGE/传奇今生",
-      "totalGmv": "61464750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "DHDH",
-      "totalGmv": "43315000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "魅颜堂",
-      "totalGmv": "42266000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "OULAIJIA/欧莱加",
-      "totalGmv": "41307250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "KALEIDOS/万花镜",
-      "totalGmv": "39318750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "GIORGIO ARMANI/阿玛尼",
-      "totalGmv": "39114300"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Florasis/花西子",
-      "totalGmv": "37955250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "OUT-OF-OFFICE",
-      "totalGmv": "34466250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "FLORTTE/花洛莉亚",
-      "totalGmv": "33983200"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "唯資(VEECCI)",
-      "totalGmv": "28550250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "RED CHAMBER/朱栈",
-      "totalGmv": "28289000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Flower Knows/花知晓",
-      "totalGmv": "25552750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "兰奕",
-      "totalGmv": "24170500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "puco",
-      "totalGmv": "23785000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "okayisyo/桜花抄",
-      "totalGmv": "21678700"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "OUKASANN/欧卡尚",
-      "totalGmv": "21392000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "NOVO",
-      "totalGmv": "20339400"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "CARMELA",
-      "totalGmv": "18886500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MARIE DALGAR/玛丽黛佳",
-      "totalGmv": "15961900"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "珂曼",
-      "totalGmv": "15877500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "汤姆.福特",
-      "totalGmv": "14469750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "米之莲",
-      "totalGmv": "14114000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MULANSHI/霂兰诗",
-      "totalGmv": "13631500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "琳妆",
-      "totalGmv": "13539250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "XIXI",
-      "totalGmv": "13160000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "JudydoLL/橘朵",
-      "totalGmv": "12596750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "GUCCI/古驰",
-      "totalGmv": "11547500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Didrika/鼎妆",
-      "totalGmv": "10424250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "VNK",
-      "totalGmv": "9182500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "韩芭莎",
-      "totalGmv": "8855500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "L ADORE COLORS/烙色",
-      "totalGmv": "8311000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "kobeleen/卡比郎",
-      "totalGmv": "7784500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "skinvape",
-      "totalGmv": "7315500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Miduola/咪朵拉",
-      "totalGmv": "6839750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "LEEINTO",
-      "totalGmv": "6725000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "PAYERBACH/佩耶巴",
-      "totalGmv": "6570500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "kakashow",
-      "totalGmv": "6015750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "美寇传奇",
-      "totalGmv": "5931500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "XiLa/夕拉",
-      "totalGmv": "5380500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "欧莱加",
-      "totalGmv": "5272750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Little Ondine/小奥汀",
-      "totalGmv": "5194250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "韩贝儿",
-      "totalGmv": "5091500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "PIPL",
-      "totalGmv": "4798000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "玛可蓝尼",
-      "totalGmv": "4796000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "佩兰诗",
-      "totalGmv": "4782550"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "银泰百货",
-      "totalGmv": "4611500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "里季",
-      "totalGmv": "4468000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "古驰",
-      "totalGmv": "4429600"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "C2U",
-      "totalGmv": "4060250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "girlcult",
-      "totalGmv": "3989000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "麦尔卡伦",
-      "totalGmv": "3880750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "ESTEE LAUDER/雅诗兰黛",
-      "totalGmv": "3863500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "HANGENEE/韩姬妮",
-      "totalGmv": "3435250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "uhue",
-      "totalGmv": "3299000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "site",
-      "totalGmv": "3248000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "REBL",
-      "totalGmv": "3206750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "WHOO/后",
-      "totalGmv": "2996000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "布兰黛",
-      "totalGmv": "2897000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Cappuvini/卡泡维妮",
-      "totalGmv": "2737600"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "小蜜坊",
-      "totalGmv": "2618500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "LANSUR/兰瑟",
-      "totalGmv": "2607500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "天使的诱惑",
-      "totalGmv": "2595000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "color fans/迷色粉丝",
-      "totalGmv": "2448500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "DAISHIAO/黛诗澳",
-      "totalGmv": "2369250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "CHERRY",
-      "totalGmv": "2352000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Mistine/蜜丝婷",
-      "totalGmv": "2286000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "戈戈舞",
-      "totalGmv": "2212500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "欧丽丝",
-      "totalGmv": "2178750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "THEBEAST/野兽派",
-      "totalGmv": "2048750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "和妆",
-      "totalGmv": "2046750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "roto",
-      "totalGmv": "2041250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "COCO STEAM",
-      "totalGmv": "2015000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Sephora/丝芙兰",
-      "totalGmv": "2008750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "WANBANWEIYAN",
-      "totalGmv": "1969250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "SK-II",
-      "totalGmv": "1907250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "露华浓",
-      "totalGmv": "1903250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "玖瑟",
-      "totalGmv": "1888500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Heir Cosmetics/赫艾迩",
-      "totalGmv": "1822250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "CLÉ DE PEAU BEAUTÉ/肌肤之钥",
-      "totalGmv": "1730000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "茂业百货",
-      "totalGmv": "1721750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "TOM MARK/唐魅可",
-      "totalGmv": "1715750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Christian Louboutin",
-      "totalGmv": "1632750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "美迪智",
-      "totalGmv": "1611750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "ADAD",
-      "totalGmv": "1607000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MACKANDY/玛可安迪",
-      "totalGmv": "1585500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "浮气",
-      "totalGmv": "1574500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Pink Bear",
-      "totalGmv": "1534250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Little Dream Garden/半亩花田",
-      "totalGmv": "1501000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "简&搭",
-      "totalGmv": "1462000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Sckiquen",
-      "totalGmv": "1398100"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "YUYING/御影",
-      "totalGmv": "1330500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "LA MER/海蓝之谜",
-      "totalGmv": "1306750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "HOURGLASS",
-      "totalGmv": "1304750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "FOCALLURE/菲鹿儿",
-      "totalGmv": "1283750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MIGIWINS/美肌卫士",
-      "totalGmv": "1265250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "泉兮",
-      "totalGmv": "1262250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "JUNG SAEM MOOL/郑瑄茉",
-      "totalGmv": "1256000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "璃悦",
-      "totalGmv": "1255250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "焕享童颜",
-      "totalGmv": "1254750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "1254000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "赫妍",
-      "totalGmv": "1232750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "俏芭莎",
-      "totalGmv": "1206750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "ONLY MINERALS",
-      "totalGmv": "1198250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "TREECHADA",
-      "totalGmv": "1179000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "HengFang/恒芳",
-      "totalGmv": "1175250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "漠小曼",
-      "totalGmv": "1166000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "DARANCA/黛兰卡",
-      "totalGmv": "1162000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "PETERSON'S LAB/毕生之研",
-      "totalGmv": "1140000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "罗娜",
-      "totalGmv": "1058750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "雅琪诺",
-      "totalGmv": "888500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "姞",
-      "totalGmv": "871000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "尤莉尤拉",
-      "totalGmv": "867750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "诗黛尔",
-      "totalGmv": "866250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "ELLE",
-      "totalGmv": "835250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Cloris Land/花皙蔻",
-      "totalGmv": "830000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "徐海莉",
-      "totalGmv": "828000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Unny/悠宜",
-      "totalGmv": "825250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "韩倩",
-      "totalGmv": "789000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "递欧",
-      "totalGmv": "775000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "珠兰莉蔻",
-      "totalGmv": "771000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "NonoNotes",
-      "totalGmv": "767500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "乐祺",
-      "totalGmv": "766500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MAKE UP FOR EVER/玫珂菲",
-      "totalGmv": "756500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "aztk",
-      "totalGmv": "750500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "荟林兮",
-      "totalGmv": "744000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "伴奏",
-      "totalGmv": "739000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "VENUSMARBLE",
-      "totalGmv": "732500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "SHEZI/奢姿",
-      "totalGmv": "729500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MVIP",
-      "totalGmv": "716500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "M'AYCREATE/健美创研",
-      "totalGmv": "711500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "LILIA",
-      "totalGmv": "447250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "SweetMint",
-      "totalGmv": "447250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "JERXUN/京选",
-      "totalGmv": "442750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "海洋日记",
-      "totalGmv": "440000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "绿毛怪怪",
-      "totalGmv": "435750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "ROMANTICBEAUTY",
-      "totalGmv": "433250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "OULISI/欧丽丝",
-      "totalGmv": "431000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "SHE LOVES",
-      "totalGmv": "430250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "suonzaoo/素煮",
-      "totalGmv": "430000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "蔓芝颜",
-      "totalGmv": "427250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "XL·S SOSO LABO",
-      "totalGmv": "425000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MIANJISHIGUANG/面玑时光",
-      "totalGmv": "424250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "fenty beauty",
-      "totalGmv": "419750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "GINBI/吟美",
-      "totalGmv": "419000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Fomomy",
-      "totalGmv": "415750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "FEIICO",
-      "totalGmv": "411250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "CODE MINT/纨素之肤",
-      "totalGmv": "410750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MIPOO/米扑",
-      "totalGmv": "410250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "LEEMEMBER/荔萌",
-      "totalGmv": "409750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "拉妃嫚",
-      "totalGmv": "408000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MEIKING/美康粉黛",
-      "totalGmv": "405500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "GUERLAIN/娇兰",
-      "totalGmv": "403750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "essence/艾森丝",
-      "totalGmv": "402750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "YACAISI/雅彩思",
-      "totalGmv": "401500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MAXFINE",
-      "totalGmv": "399500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "唯品会",
-      "totalGmv": "397750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MAZC",
-      "totalGmv": "395500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "菲丽菲拉",
-      "totalGmv": "395250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "ZENN.TH",
-      "totalGmv": "389750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "CHARLOTTE TILBURY/缇尔泊丽",
-      "totalGmv": "388500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "GALIMARD/嘉利玛",
-      "totalGmv": "386500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "HOLD LIVE",
-      "totalGmv": "386500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "the seam/得鲜",
-      "totalGmv": "384750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "Bqcover/佩翘封面",
-      "totalGmv": "382750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "TIMAGE/彩棠",
-      "totalGmv": "381000"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MKING PRETTY",
-      "totalGmv": "379250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "罗小曼",
-      "totalGmv": "371500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "HEDONE#FASHIONSNOBS",
-      "totalGmv": "371250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "贝玲娜",
-      "totalGmv": "369750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "韩妆主",
-      "totalGmv": "367250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "黑兎",
-      "totalGmv": "366750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "ACE STAGE",
-      "totalGmv": "360250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "SUNNIESFACE",
-      "totalGmv": "359500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "HIH",
-      "totalGmv": "358250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "MARYME",
-      "totalGmv": "353500"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "YZS",
-      "totalGmv": "353250"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "NYX PROFESSIONAL MAKEUP",
-      "totalGmv": "352750"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "UKISS/悠珂思",
-      "totalGmv": "173700"
-    },
-    {
-      "thirdCategory": "唇部彩妆",
-      "brandName": "AIGEYOUPING/爱格优品",
-      "totalGmv": "164100"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "PLIFT/本格派美容",
-      "totalGmv": "35188000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "CARSLAN/卡姿兰",
-      "totalGmv": "24574000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "Cistto/肤见",
-      "totalGmv": "13722750"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "Akasugu",
-      "totalGmv": "12899500"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "HINSOCHA/韩水仙",
-      "totalGmv": "8193000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "其它",
-      "totalGmv": "7794000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "INOHERB/相宜本草",
-      "totalGmv": "5384500"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "Florasis/花西子",
-      "totalGmv": "4533000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "Lanseral /蓝系",
-      "totalGmv": "3109000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "AKF",
-      "totalGmv": "2834750"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "TJE",
-      "totalGmv": "1757000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "迪奥",
-      "totalGmv": "1723000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "MedRepair/米蓓尔",
-      "totalGmv": "1617000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "3CE/三熹玉",
-      "totalGmv": "1507000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "YZS",
-      "totalGmv": "1464000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": " iapetus/小野拓司",
-      "totalGmv": "1408000"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "1138500"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "CIBIO'2",
-      "totalGmv": "1103250"
-    },
-    {
-      "thirdCategory": "唇部护理",
-      "brandName": "仁和匠心",
-      "totalGmv": "783500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "Florasis/花西子",
-      "totalGmv": "341269500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "YSL/圣罗兰",
-      "totalGmv": "125199000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "TIMAGE/彩棠",
-      "totalGmv": "95969850"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "3CE/三熹玉",
-      "totalGmv": "81725700"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "CARSLAN/卡姿兰",
-      "totalGmv": "51589250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "Flower Knows/花知晓",
-      "totalGmv": "48638500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "39377750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "BOBBI BROWN/芭比波朗",
-      "totalGmv": "32803700"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "其它",
-      "totalGmv": "31104000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "xixiaomei/兮小美",
-      "totalGmv": "26559750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "kourt",
-      "totalGmv": "20817250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "迪奥",
-      "totalGmv": "17808250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "MEIYU/每遇",
-      "totalGmv": "16532500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "纪梵希",
-      "totalGmv": "10978500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "雅莉",
-      "totalGmv": "10707000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "PinkBear",
-      "totalGmv": "10119000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "FUNNYELVES",
-      "totalGmv": "7673750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "KALEIDOS/万花镜",
-      "totalGmv": "7372500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "L'occitane/欧舒丹",
-      "totalGmv": "6991250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "6666750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "HLOFF/韩洛妃",
-      "totalGmv": "6315500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "迪卡露",
-      "totalGmv": "6032750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "语兮颜",
-      "totalGmv": "5999250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "Little Ondine/小奥汀",
-      "totalGmv": "5663500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "尤莉尤拉",
-      "totalGmv": "4855750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "MAC/魅可",
-      "totalGmv": "4555500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "伊菲丹",
-      "totalGmv": "3605750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "JudydoLL/橘朵",
-      "totalGmv": "3061750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "JUELREOU/朱莉欧",
-      "totalGmv": "3006500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "Joocyee/酵色",
-      "totalGmv": "3001500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "友嫦",
-      "totalGmv": "2750250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "Passional Lover",
-      "totalGmv": "2626250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "Miss Huang",
-      "totalGmv": "2318000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "美集",
-      "totalGmv": "2176250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "爱礼一万年",
-      "totalGmv": "2046250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "GUERLAIN/娇兰",
-      "totalGmv": "2026750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "YANCAICHEN/妍采臣",
-      "totalGmv": "1946000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "ERNO LASZLO/奥伦纳素",
-      "totalGmv": "1760000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "ETUDEHOUSE",
-      "totalGmv": "1738000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "FLORTTE/花洛莉亚",
-      "totalGmv": "1698000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "HIH",
-      "totalGmv": "1671000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "恋旅",
-      "totalGmv": "1552000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "CHARLOTTE TILBURY/缇尔泊丽",
-      "totalGmv": "1550500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "植村秀",
-      "totalGmv": "1540000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "SHWIN/夏诗文",
-      "totalGmv": "1308000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "NYX",
-      "totalGmv": "1296000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "1268000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "奈玑子",
-      "totalGmv": "1222000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "蝶恋肌",
-      "totalGmv": "1180250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "YANZI/妍兹",
-      "totalGmv": "1176000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "JIALIYIGE/佳礼怡個",
-      "totalGmv": "896000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "NYX PROFESSIONAL MAKEUP",
-      "totalGmv": "871000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "GEHOS/姬存希",
-      "totalGmv": "866500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "GUCCI/古驰",
-      "totalGmv": "853000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "JLIG",
-      "totalGmv": "828500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "CVZ",
-      "totalGmv": "808500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "韩熙贞",
-      "totalGmv": "781000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "贝玲妃",
-      "totalGmv": "734750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "彩娇妍",
-      "totalGmv": "449500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "blankme",
-      "totalGmv": "449500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "MECHJIO/梦婵娇",
-      "totalGmv": "398250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "NonoNotes",
-      "totalGmv": "396250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "MAYBELLINE/美宝莲",
-      "totalGmv": "393250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "DOOUCI",
-      "totalGmv": "383500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "Pink Bear",
-      "totalGmv": "373000"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "爱你一万年",
-      "totalGmv": "358750"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "珂曼",
-      "totalGmv": "354500"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "VOTF",
-      "totalGmv": "350250"
-    },
-    {
-      "thirdCategory": "彩妆套装",
-      "brandName": "ZELENS",
-      "totalGmv": "162900"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Moody",
-      "totalGmv": "228219326"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "kilala/可啦啦",
-      "totalGmv": "205239786"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "LaPeche/拉拜诗",
-      "totalGmv": "201179103"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "T-Garden",
-      "totalGmv": "82435056"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Lemonade/Lemonade",
-      "totalGmv": "67300831"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "COFANCY/可糖",
-      "totalGmv": "64270229"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "MOUCEE",
-      "totalGmv": "33733415"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "ACUVUE/安视优",
-      "totalGmv": "20631201"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "YIWAEYE/伊娃爱",
-      "totalGmv": "19438723"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "HYDRON/海昌",
-      "totalGmv": "13705532"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Utour",
-      "totalGmv": "8903120"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "INYX",
-      "totalGmv": "8430016"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "HORIEN/海俪恩",
-      "totalGmv": "6953223"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "MIUSOU/弥生",
-      "totalGmv": "5390319"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "EYEQUE/爱可优",
-      "totalGmv": "4686027"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Miacare/美若康",
-      "totalGmv": "4647692"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "POPMagic/流行魔法",
-      "totalGmv": "4013215"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "实瞳",
-      "totalGmv": "3679380"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "人鱼姬",
-      "totalGmv": "2845505"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "mitata/米塔塔",
-      "totalGmv": "2063866"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "4INLOOK/美目美佳",
-      "totalGmv": "1742881"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Pegavision/晶硕",
-      "totalGmv": "1031419"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "miomi/米欧米",
-      "totalGmv": "905196"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "米塔塔",
-      "totalGmv": "546181"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "SweetColor",
-      "totalGmv": "470041"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "博士伦",
-      "totalGmv": "466752"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Bubble Pop Laboratory/啵啵实验室",
-      "totalGmv": "430803"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "闪亮",
-      "totalGmv": "340005"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "175850"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "其它",
-      "totalGmv": "133762"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Bambi",
-      "totalGmv": "82050"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "4INLOOK",
-      "totalGmv": "77747"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "Hyper Size/大美目",
-      "totalGmv": "60998"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "LEMONADE",
-      "totalGmv": "44217"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "choli",
-      "totalGmv": "42227"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "YOUHOO",
-      "totalGmv": "23076"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "爱尔康",
-      "totalGmv": "21188"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "伊娃爱",
-      "totalGmv": "3253"
-    },
-    {
-      "thirdCategory": "彩色隐形眼镜",
-      "brandName": "流行魔法",
-      "totalGmv": "1793"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "爱尔康",
-      "totalGmv": "9326292"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "HYDRON/海昌",
-      "totalGmv": "2044627"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "HORIEN/海俪恩",
-      "totalGmv": "1947207"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "kilala/可啦啦",
-      "totalGmv": "555853"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "MIUSOU/弥生",
-      "totalGmv": "477691"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "博士伦",
-      "totalGmv": "443826"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "COFANCY/可糖",
-      "totalGmv": "378133"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "弥生",
-      "totalGmv": "369425"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "LaPeche/拉拜诗",
-      "totalGmv": "333475"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "优瞳",
-      "totalGmv": "304512"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "Moody",
-      "totalGmv": "194177"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "ACUVUE/安视优",
-      "totalGmv": "145329"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "4INLOOK",
-      "totalGmv": "127050"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "YIWAEYE/伊娃爱",
-      "totalGmv": "104289"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "其它",
-      "totalGmv": "67295"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "EYEQUE/爱可优",
-      "totalGmv": "43600"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "可啦啦",
-      "totalGmv": "43100"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "MOUCEE",
-      "totalGmv": "40204"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "闪亮",
-      "totalGmv": "23776"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "Miacare/美若康",
-      "totalGmv": "19585"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "人鱼姬",
-      "totalGmv": "15740"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "7695"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "YOUHOO",
-      "totalGmv": "6225"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "Lemonade/Lemonade",
-      "totalGmv": "3932"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "mitata/米塔塔",
-      "totalGmv": "1751"
-    },
-    {
-      "thirdCategory": "护理液",
-      "brandName": "POPMAGIC",
-      "totalGmv": "1597"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "其它",
-      "totalGmv": "167551500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "Miss Candy/糖果小姐",
-      "totalGmv": "27521500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "KaSi",
-      "totalGmv": "10602700"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "暮色罗格",
-      "totalGmv": "8108250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "missgooey/蜜糖小姐",
-      "totalGmv": "7915000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "恩妮诗",
-      "totalGmv": "7431500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "Orange Mood",
-      "totalGmv": "6313250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "kaniu/卡妞",
-      "totalGmv": "5783500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "GIRLPLUS",
-      "totalGmv": "4729600"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "perfectcolor",
-      "totalGmv": "3664500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "Yunzuan/云钻",
-      "totalGmv": "3276250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "Vcnd",
-      "totalGmv": "3196000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "欧琳汀",
-      "totalGmv": "3086750"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "MAGICCOLORNAIL",
-      "totalGmv": "2906500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "YSL/圣罗兰",
-      "totalGmv": "2794250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "AMDMG",
-      "totalGmv": "2763250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "NAILLOVE",
-      "totalGmv": "2760500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "初彩",
-      "totalGmv": "2522750"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "WOWLADY",
-      "totalGmv": "2493500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "致美艺",
-      "totalGmv": "2429000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "波菲尔",
-      "totalGmv": "2326500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "汉客",
-      "totalGmv": "2231000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "corttior/彩町",
-      "totalGmv": "2081250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "TAYE/她叶",
-      "totalGmv": "1590750"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "susu",
-      "totalGmv": "1581000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "罗曼蒂克",
-      "totalGmv": "1276500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "FUNIFUNI",
-      "totalGmv": "1139000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "度斯海娜",
-      "totalGmv": "847500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "DANZHIHE/丹指鹤",
-      "totalGmv": "841750"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "奈尔",
-      "totalGmv": "830500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "瑞卡迪",
-      "totalGmv": "818000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "海上麦田",
-      "totalGmv": "812000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "mona",
-      "totalGmv": "803000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "奕妃优选",
-      "totalGmv": "800500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "艾丝菲",
-      "totalGmv": "778000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "仙甲依",
-      "totalGmv": "769000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "RSI",
-      "totalGmv": "764250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "仁和闪亮",
-      "totalGmv": "755000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "MAXFINE",
-      "totalGmv": "746250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "Rainey/雷尼原创",
-      "totalGmv": "734250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "卓薇妮",
-      "totalGmv": "703000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "kainegel",
-      "totalGmv": "442500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "Diamerry",
-      "totalGmv": "430500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "R·S NAIL",
-      "totalGmv": "428000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "闪彩",
-      "totalGmv": "425000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "流行美",
-      "totalGmv": "422000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "蒂芙尼",
-      "totalGmv": "413750"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "CICK",
-      "totalGmv": "412750"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "谜甲",
-      "totalGmv": "407500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "DAIKAROU/黛卡柔",
-      "totalGmv": "392500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "粉蔻",
-      "totalGmv": "392000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "KGEG",
-      "totalGmv": "391000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "mrnail",
-      "totalGmv": "387750"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "透色",
-      "totalGmv": "377000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "甲帝",
-      "totalGmv": "371500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "莫兰迪",
-      "totalGmv": "370500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "HuaMicro",
-      "totalGmv": "365000"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "K9 Natural",
-      "totalGmv": "361500"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "哚溪婠",
-      "totalGmv": "361250"
-    },
-    {
-      "thirdCategory": "指甲油/美甲产品/美甲工具",
-      "brandName": "甄甄甲甲",
-      "totalGmv": "355000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "GALENIC/科兰黎",
-      "totalGmv": "11093500"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "其它",
-      "totalGmv": "4757500"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "BIOEFFECT/蓓欧菲",
-      "totalGmv": "4182500"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "4132000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "秘密时代",
-      "totalGmv": "3488000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "H/海洁娅",
-      "totalGmv": "3262000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "PROYA/珀莱雅",
-      "totalGmv": "3054000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "SK-II",
-      "totalGmv": "3039500"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "3007000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "Mageline/麦吉丽",
-      "totalGmv": "1826750"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "IEM/爱怡美",
-      "totalGmv": "1743000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "蔻密码",
-      "totalGmv": "1713000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "okayisyo/桜花抄",
-      "totalGmv": "1608000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "悦诗风吟",
-      "totalGmv": "1479000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "EveLom",
-      "totalGmv": "1458000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "MARUBI/丸美",
-      "totalGmv": "1452000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "Ositree/柳丝木",
-      "totalGmv": "1437000"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "ESTEE LAUDER/雅诗兰黛",
-      "totalGmv": "1172250"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "WHOO/后",
-      "totalGmv": "1166250"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "HFP",
-      "totalGmv": "1072500"
-    },
-    {
-      "thirdCategory": "旅行装/体验装",
-      "brandName": "欢薇",
-      "totalGmv": "900000"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "珂岸",
-      "totalGmv": "3603250"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "BUFFLAB/即山川",
-      "totalGmv": "3385000"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "酷男笔记",
-      "totalGmv": "2815250"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "其它",
-      "totalGmv": "2757250"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "Honey Snow/透蜜",
-      "totalGmv": "871500"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "Lilbetter",
-      "totalGmv": "829250"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "MAN BUFF",
-      "totalGmv": "439500"
-    },
-    {
-      "thirdCategory": "男士彩妆",
-      "brandName": "CODE MINT/纨素之肤",
-      "totalGmv": "355750"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "仁和匠心",
-      "totalGmv": "232910250"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "倾姿堂",
-      "totalGmv": "102979750"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "左颜右色",
-      "totalGmv": "26751500"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "其它",
-      "totalGmv": "21778000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "梦蔻",
-      "totalGmv": "17354500"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "润凰",
-      "totalGmv": "16793500"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "A.H.C/爱和纯",
-      "totalGmv": "13493000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": " KANS/韩束",
-      "totalGmv": "13084500"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "妮维雅男士",
-      "totalGmv": "12401000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "碧欧泉",
-      "totalGmv": "10860500"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "RNW/如薇",
-      "totalGmv": "8614750"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "7771000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "修正",
-      "totalGmv": "7525000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "AVGULOY/阿古丽娅",
-      "totalGmv": "3447000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "SOULMAN/极男",
-      "totalGmv": "3396000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "人仁和匠心",
-      "totalGmv": "3150000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "仁和",
-      "totalGmv": "2658750"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "Nivea/妮维雅",
-      "totalGmv": "1772000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "Rellet/颐莲",
-      "totalGmv": "1747000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "Kiehl's/科颜氏",
-      "totalGmv": "1743000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "OIU",
-      "totalGmv": "1658000"
-    },
-    {
-      "thirdCategory": "男士护肤",
-      "brandName": "仙花秀",
-      "totalGmv": "1605000"
-    },
-    {
-      "thirdCategory": "男士香水/香膏",
-      "brandName": "其它",
-      "totalGmv": "1531500"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "T-Garden",
-      "totalGmv": "98353"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "优瞳",
-      "totalGmv": "19891"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "人鱼姬",
-      "totalGmv": "17260"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "kilala/可啦啦",
-      "totalGmv": "11832"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "米塔塔",
-      "totalGmv": "11400"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "YIWAEYE/伊娃爱",
-      "totalGmv": "8015"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "LaPeche/拉拜诗",
-      "totalGmv": "7820"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "POPMAGIC",
-      "totalGmv": "3778"
-    },
-    {
-      "thirdCategory": "眼部保健",
-      "brandName": "ACUVUE/安视优",
-      "totalGmv": "1532"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "AKF",
-      "totalGmv": "364542000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "其它",
-      "totalGmv": "197876700"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "JudydoLL/橘朵",
-      "totalGmv": "161457800"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "DPI",
-      "totalGmv": "133530000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "BABREA/芭贝拉",
-      "totalGmv": "95983250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Dancing up/舞动奇迹",
-      "totalGmv": "90168550"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "PIARA/佩冉",
-      "totalGmv": "83366850"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Little Ondine/小奥汀",
-      "totalGmv": "68667500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "FLORTTE/花洛莉亚",
-      "totalGmv": "53836750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "XIXI",
-      "totalGmv": "53349250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "3CE/三熹玉",
-      "totalGmv": "50660500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Unny/悠宜",
-      "totalGmv": "48616000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MYONLY/麦欧丽",
-      "totalGmv": "46115250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "UKISS/悠珂思",
-      "totalGmv": "44307000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "衰败城市",
-      "totalGmv": "37805500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Samsea/圣希",
-      "totalGmv": "37559250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MKING PRETTY",
-      "totalGmv": "35384500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Joocyee/酵色",
-      "totalGmv": "34951750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "34866500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "罗娜",
-      "totalGmv": "33896250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Kaleilin/卡蕾琳",
-      "totalGmv": "30593750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "XIUSE/羞瑟",
-      "totalGmv": "30357000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "ME & U FOR COLORFUL LIFE/米约",
-      "totalGmv": "28961250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "colorkey/珂拉琪",
-      "totalGmv": "25622250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "OAC",
-      "totalGmv": "25411950"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "CHARM",
-      "totalGmv": "23125750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Mistine/蜜丝婷",
-      "totalGmv": "21529750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "RED CHAMBER/朱栈",
-      "totalGmv": "21269250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "XzMyQ",
-      "totalGmv": "20456750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "唯資(VEECCI)",
-      "totalGmv": "20362300"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "OUT-OF-OFFICE",
-      "totalGmv": "18078000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "everbab",
-      "totalGmv": "16872000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "INTO YOU",
-      "totalGmv": "15172500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "KALEIDOS/万花镜",
-      "totalGmv": "14987500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "ART SHOW/艾图秀",
-      "totalGmv": "14892250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "迪卡露",
-      "totalGmv": "12106500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MINSHZEE/茗希芝",
-      "totalGmv": "11819750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "海洋诗韵",
-      "totalGmv": "11738250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "五月季",
-      "totalGmv": "11625000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "roto",
-      "totalGmv": "10994250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "红人范",
-      "totalGmv": "10974250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MAYCHEER/美茜儿",
-      "totalGmv": "10572250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "艾杜纱",
-      "totalGmv": "10161250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Gracebabi",
-      "totalGmv": "9895250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "puco",
-      "totalGmv": "9470500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MAYBELLINE/美宝莲",
-      "totalGmv": "9382250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Hemi/赫秘",
-      "totalGmv": "9306500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "HOLD LIVE",
-      "totalGmv": "9225750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "GREAYA",
-      "totalGmv": "8873000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "CVZ",
-      "totalGmv": "8666500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MYHO",
-      "totalGmv": "8187000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "NNUEDWE",
-      "totalGmv": "7772750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "JEJO",
-      "totalGmv": "7457250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "格蒙",
-      "totalGmv": "7323750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "CHIOTURE/稚优泉",
-      "totalGmv": "6333750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "GlamColour/魔法色彩",
-      "totalGmv": "6260250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "缔葭",
-      "totalGmv": "6138800"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Insbaha",
-      "totalGmv": "6115000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "PinkBear",
-      "totalGmv": "5630750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Focus Go",
-      "totalGmv": "5397250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "VitaBloom/植之璨",
-      "totalGmv": "5289250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "NYX PROFESSIONAL MAKEUP",
-      "totalGmv": "5005500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "色娜娜",
-      "totalGmv": "4797500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "漫野",
-      "totalGmv": "4722750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MAXFINE",
-      "totalGmv": "4530750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "维妮小熊",
-      "totalGmv": "4518500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Honey Snow/透蜜",
-      "totalGmv": "4236500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "sweet mint",
-      "totalGmv": "4216750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "昙雅",
-      "totalGmv": "4194000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "CHUNONG/初浓",
-      "totalGmv": "3989250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MISIERWEN/蜜思尔文",
-      "totalGmv": "3721250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "ARTSHOW",
-      "totalGmv": "3628500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "LIANGNISHI/靓妮诗",
-      "totalGmv": "3567500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "玫苏",
-      "totalGmv": "3524750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "AGAG",
-      "totalGmv": "3445000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MENOW/美诺",
-      "totalGmv": "3411000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "KISS ME/奇士美",
-      "totalGmv": "3358250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Flower Knows/花知晓",
-      "totalGmv": "3350250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "ALOBON/雅邦",
-      "totalGmv": "3166750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Kemelo",
-      "totalGmv": "3081250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "黛莊(DEZONE)",
-      "totalGmv": "3049000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "NYX",
-      "totalGmv": "3033500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "涵赞",
-      "totalGmv": "2915500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "FV",
-      "totalGmv": "2881000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "AMORTALS/尔木萄",
-      "totalGmv": "2680500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "SweetMint",
-      "totalGmv": "2600250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "aztk",
-      "totalGmv": "2492250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "ROOBOO",
-      "totalGmv": "2415750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MSMEESHU/蜜束",
-      "totalGmv": "2340500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "NOVO",
-      "totalGmv": "1981000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "美俏画眉神器",
-      "totalGmv": "1956750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "KAXIER",
-      "totalGmv": "1903250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MEIKING/美康粉黛",
-      "totalGmv": "1887500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "KATO/加藤",
-      "totalGmv": "1882500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "HANXI/韩熙",
-      "totalGmv": "1641250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "向日花",
-      "totalGmv": "1620000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "格蕾雅",
-      "totalGmv": "1619750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "琳妆",
-      "totalGmv": "1609000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "莱索兔",
-      "totalGmv": "1606000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Cappuvini/卡泡维妮",
-      "totalGmv": "1589250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "FOMIX",
-      "totalGmv": "1566000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "WEINIXIAOXIONG/维妮小熊",
-      "totalGmv": "1549500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Florasis/花西子",
-      "totalGmv": "1531750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Clio/珂莱欧",
-      "totalGmv": "1257000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "DEEJONS/黛妆之谜",
-      "totalGmv": "1240250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "GEMSHO/睫美秀",
-      "totalGmv": "1180500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "CARSLAN/卡姿兰",
-      "totalGmv": "1173750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "递欧",
-      "totalGmv": "1172750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "JERXUN/京选",
-      "totalGmv": "1171500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Arrebol/桃又野",
-      "totalGmv": "1159750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "CHARLOTTE TILBURY/缇尔泊丽",
-      "totalGmv": "1143750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "妍菲妮",
-      "totalGmv": "1119750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "亮晶晶",
-      "totalGmv": "883500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "C2U",
-      "totalGmv": "856000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Heir Cosmetics/赫艾迩",
-      "totalGmv": "834750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "卡维拉",
-      "totalGmv": "830750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "leezi/莉兹",
-      "totalGmv": "811500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "SUSANFANG",
-      "totalGmv": "786500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "PRAMY/柏瑞美",
-      "totalGmv": "767250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MUGE LEEN",
-      "totalGmv": "766250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "O.TWO.O",
-      "totalGmv": "765750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "灵美皙",
-      "totalGmv": "760750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "TATIBEAUTY",
-      "totalGmv": "752750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "井田",
-      "totalGmv": "741000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "形象美",
-      "totalGmv": "449500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "N°600/N°600",
-      "totalGmv": "448000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "KRYOLAN",
-      "totalGmv": "448000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Narmer.Veg/Narmer.Veg",
-      "totalGmv": "447000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "汤姆.福特",
-      "totalGmv": "443000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "丛臻",
-      "totalGmv": "443000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Symblue",
-      "totalGmv": "441750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "知相印",
-      "totalGmv": "434500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "HERORANGE",
-      "totalGmv": "426250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "曼诗丽",
-      "totalGmv": "425250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Febble",
-      "totalGmv": "424750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "PEGGYLIN",
-      "totalGmv": "424500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "DilSefromtheheart",
-      "totalGmv": "422750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "MKK RONTA/MKK RONTA",
-      "totalGmv": "421500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "CARMELA",
-      "totalGmv": "416000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "YUHUABAN/御花伴",
-      "totalGmv": "412750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "伴奏",
-      "totalGmv": "406750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "芮妮卡",
-      "totalGmv": "405500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "YUYING/御影",
-      "totalGmv": "404750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "曼雪菲",
-      "totalGmv": "400500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "名韩",
-      "totalGmv": "400000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Paul Frank/大嘴猴",
-      "totalGmv": "397500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "意塑",
-      "totalGmv": "397000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "VEECCI/唯資",
-      "totalGmv": "396750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "亨丝",
-      "totalGmv": "392750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "QIC/琦妮彩",
-      "totalGmv": "388250"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "贝玲妃",
-      "totalGmv": "384000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "发植语",
-      "totalGmv": "380000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "绮诗凯莉",
-      "totalGmv": "375750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "火烈鸟",
-      "totalGmv": "375750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "Sunsetbeauty",
-      "totalGmv": "372750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "卡其缤纷",
-      "totalGmv": "370500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "戈戈舞",
-      "totalGmv": "364750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "凯朵",
-      "totalGmv": "364500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "luck plus",
-      "totalGmv": "364500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "完美闺蜜",
-      "totalGmv": "364000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "TIMAGE/彩棠",
-      "totalGmv": "363750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "SONGZHIXIAYUAN/宋知夏苑",
-      "totalGmv": "363500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "妃琳卡",
-      "totalGmv": "358000"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "babaoou/芭宝欧",
-      "totalGmv": "355500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "卞卡",
-      "totalGmv": "354750"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "菁之",
-      "totalGmv": "162500"
-    },
-    {
-      "thirdCategory": "眼部彩妆",
-      "brandName": "susee/束皙",
-      "totalGmv": "153400"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "ESTEE LAUDER/雅诗兰黛",
-      "totalGmv": "431255750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "其它",
-      "totalGmv": "399357000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "素说美丽",
-      "totalGmv": "335056250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "鄭明明",
-      "totalGmv": "140678000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "WORLD HOLLME/后美国际",
-      "totalGmv": "135574000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "UNISKIN/优时颜",
-      "totalGmv": "113541250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "MARUBI/丸美",
-      "totalGmv": "109805500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "伊诗兰顿",
-      "totalGmv": "101538000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "BIO-MESO肌活",
-      "totalGmv": "76994250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "佩兰诗",
-      "totalGmv": "72976250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "FOR FUN/肤梵",
-      "totalGmv": "58350000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "58219750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "温博士",
-      "totalGmv": "55769250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "46447500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "COBOR/可贝尔",
-      "totalGmv": "43631250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "DNLNXIR/黛莱皙",
-      "totalGmv": "42164000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "MIANJISHIGUANG/面玑时光",
-      "totalGmv": "41918250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "ERNO LASZLO/奥伦纳素",
-      "totalGmv": "40523250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "帅楠",
-      "totalGmv": "36941750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "轻氧",
-      "totalGmv": "33693500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Fonce/梵西",
-      "totalGmv": "32939500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "海蓝朵",
-      "totalGmv": "30975750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "沪美",
-      "totalGmv": "30602500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "珂纯",
-      "totalGmv": "26534500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "SHINING CODE/思凝蔻",
-      "totalGmv": "24276250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "修正",
-      "totalGmv": "23664250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "碧泉の花",
-      "totalGmv": "22219000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "repacell/瑞铂希",
-      "totalGmv": "21781500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "SEYYER/皙玥",
-      "totalGmv": "20720000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "蒂洛薇",
-      "totalGmv": "19575250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "可卡莉",
-      "totalGmv": "19300500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "植贝",
-      "totalGmv": "16453000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "LANTERN/兰亭",
-      "totalGmv": "15874750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "美颜坊",
-      "totalGmv": "15794500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "CEMOY",
-      "totalGmv": "15561000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "VENDOME AOYAMA",
-      "totalGmv": "14825500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "仁和匠心",
-      "totalGmv": "14804000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "雅琪诺",
-      "totalGmv": "13844250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "MIUNICO",
-      "totalGmv": "13462000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "漠小曼",
-      "totalGmv": "13235500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "FOCUS&FEMME/专妍",
-      "totalGmv": "11971000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "BIO LAB/听研",
-      "totalGmv": "11665500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "茂业百货",
-      "totalGmv": "11140000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "茜如娇",
-      "totalGmv": "10708500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "IYIY",
-      "totalGmv": "10620000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "黄金眼",
-      "totalGmv": "10374000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "法莫娜",
-      "totalGmv": "9738000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "CORLAINY/珂莱妮",
-      "totalGmv": "8297000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "YECFORKOU/伊芙蔻",
-      "totalGmv": "8263750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "AlI Natural Advice/肌先知",
-      "totalGmv": "8100500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "奢莱谜",
-      "totalGmv": "7930000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "AOPOLI/奥珀丽",
-      "totalGmv": "7907000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "MEYRUEiS/玫瑞艾诗",
-      "totalGmv": "7685000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "AXXZIA/晓姿",
-      "totalGmv": "7294500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "若蘅",
-      "totalGmv": "7153500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "桑德丽",
-      "totalGmv": "7064000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "LA MER/海蓝之谜",
-      "totalGmv": "7009500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "胜诗美妍",
-      "totalGmv": "6992500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "DCEXPORT",
-      "totalGmv": "6874000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "PROYA/珀莱雅",
-      "totalGmv": "6753000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "张小娘子",
-      "totalGmv": "5988500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Betty Bonnie",
-      "totalGmv": "5930500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "sepai",
-      "totalGmv": "5921500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "布兰黛",
-      "totalGmv": "5815500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "奥色木",
-      "totalGmv": "5586000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "里子面子",
-      "totalGmv": "5518500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "里季",
-      "totalGmv": "5488500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": " KANS/韩束",
-      "totalGmv": "5433250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "HBN",
-      "totalGmv": "5379500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "SAL-VENTO/莎雯",
-      "totalGmv": "5373500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "银泰百货",
-      "totalGmv": "5226000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "YUTI/羽媞",
-      "totalGmv": "4925000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "万物秀",
-      "totalGmv": "4771750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "兰肌",
-      "totalGmv": "4725000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "LANEIGE/兰芝",
-      "totalGmv": "4714250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "BMBM",
-      "totalGmv": "4665000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "丽普司肽",
-      "totalGmv": "4559000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "LECURER",
-      "totalGmv": "4435750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Perlyco/珀丽康",
-      "totalGmv": "4337500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Sephora/丝芙兰",
-      "totalGmv": "3483000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "QuadHA/夸迪",
-      "totalGmv": "3244000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "芈茵美",
-      "totalGmv": "3113000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "JOEGOK/乔丝蔻",
-      "totalGmv": "3110000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "沭念",
-      "totalGmv": "3090000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Bojiyuan/泊肌原",
-      "totalGmv": "3085000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "CLARINS/娇韵诗",
-      "totalGmv": "3076000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "DERMASENSA DS",
-      "totalGmv": "2898000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "凡草沐心",
-      "totalGmv": "2896000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "净芙哲学",
-      "totalGmv": "2687750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "EBG",
-      "totalGmv": "2607500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "LA BIOSTHETIQUE/贝伊丝",
-      "totalGmv": "2517750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "兰奈儿",
-      "totalGmv": "1791000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "BIOEFFECT/蓓欧菲",
-      "totalGmv": "1790000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "REVERSE/逆龄",
-      "totalGmv": "1790000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "珂诗媞",
-      "totalGmv": "1787000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "川奈之汀",
-      "totalGmv": "1782000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "milkomeda/迷卡迷",
-      "totalGmv": "1782000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "ZHIYOUMEI/植由美",
-      "totalGmv": "1766000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "OUDILIAN/欧蒂莲",
-      "totalGmv": "1750000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "SRD",
-      "totalGmv": "1712000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Filorga/菲洛嘉",
-      "totalGmv": "1711000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "ZHUANGDI/妆笛",
-      "totalGmv": "1707000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "百奈子",
-      "totalGmv": "1705000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "BIOHYALUX/润百颜",
-      "totalGmv": "1693000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "WHOO/后",
-      "totalGmv": "1686000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "DIZINY/媂姿尼",
-      "totalGmv": "1677000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "AUPRES/欧珀莱",
-      "totalGmv": "1672000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "QUANIS/克奥妮斯",
-      "totalGmv": "1657000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "DHCO",
-      "totalGmv": "1653000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "cellcosmet/瑞妍",
-      "totalGmv": "1616000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "可可星",
-      "totalGmv": "1578000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "柯琳妮尔",
-      "totalGmv": "1577000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "AB.LAB",
-      "totalGmv": "1576000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "徐海莉",
-      "totalGmv": "1574000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Simply This/诗肤理",
-      "totalGmv": "1558000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Intime department store/银泰百货",
-      "totalGmv": "1555000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "仁和",
-      "totalGmv": "1555000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Spa treatment/的葩",
-      "totalGmv": "1551000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "柔乐美",
-      "totalGmv": "1532000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "SPAMASTER",
-      "totalGmv": "1530000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "柏晶",
-      "totalGmv": "1522000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "瑞斐时",
-      "totalGmv": "1510000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "凯伊秀",
-      "totalGmv": "1507000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "CLNR",
-      "totalGmv": "1502000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "名美人",
-      "totalGmv": "1493000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "HOLA/赫拉",
-      "totalGmv": "1489000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "PETERSON'S LAB/毕生之研",
-      "totalGmv": "1464000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "欧束菲",
-      "totalGmv": "1462000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "GIOE",
-      "totalGmv": "1425000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "OSM/欧诗漫",
-      "totalGmv": "1415000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "爱丽斯赫本",
-      "totalGmv": "1410000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "十五元素",
-      "totalGmv": "1338750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "XiuSe/秀瑟",
-      "totalGmv": "1333500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "LUCYOMILMAR/露西密码",
-      "totalGmv": "1324500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Hopkinslab",
-      "totalGmv": "1308000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "ZUOFUQUAN/佐芙泉",
-      "totalGmv": "1303500"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "递欧",
-      "totalGmv": "1226250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "蒂阿茉",
-      "totalGmv": "1178250"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "雪然",
-      "totalGmv": "1131000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "Lanseral /蓝系",
-      "totalGmv": "1113000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "THEORDINARY",
-      "totalGmv": "1080750"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": " iapetus/小野拓司",
-      "totalGmv": "832000"
-    },
-    {
-      "thirdCategory": "眼部护理",
-      "brandName": "远大购物中心",
-      "totalGmv": "412000"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Ulike",
-      "totalGmv": "308380859"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "AMIRO/觅光",
-      "totalGmv": "101202358"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Jmoon/极萌",
-      "totalGmv": "46757271"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "其它",
-      "totalGmv": "40251537"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "MESMOOTH/慕苏",
-      "totalGmv": "40047281"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "GEMO/金茉",
-      "totalGmv": "28156858"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "NOTIME",
-      "totalGmv": "27586725"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "JOVS",
-      "totalGmv": "25002975"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Kitty Annie/小猫安妮",
-      "totalGmv": "22683109"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "寻秋",
-      "totalGmv": "21940429"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "beautigo",
-      "totalGmv": "9684288"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "magitech美技",
-      "totalGmv": "8575215"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "belega/比黎加",
-      "totalGmv": "8298750"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "ELLKII",
-      "totalGmv": "6697127"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "femooi/飞莫",
-      "totalGmv": "5751813"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "iluminage",
-      "totalGmv": "5353427"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "CURRENTBODY",
-      "totalGmv": "4462500"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "NOWMI",
-      "totalGmv": "4397650"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "AUX/奥克斯",
-      "totalGmv": "3596839"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "BoSidin/博思迪",
-      "totalGmv": "3214833"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "YA-MAN/雅萌",
-      "totalGmv": "1776420"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "smoothskin/慕金",
-      "totalGmv": "1718143"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "MYONE/美悟",
-      "totalGmv": "1460275"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "KONKA/康佳",
-      "totalGmv": "1415683"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Me Smooth",
-      "totalGmv": "1322125"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "才妃",
-      "totalGmv": "1057565"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "薇婷",
-      "totalGmv": "975608"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "MOLIAO/摩立奥",
-      "totalGmv": "916600"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "MIOR",
-      "totalGmv": "631725"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Schick",
-      "totalGmv": "527999"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "TriPollar/初普",
-      "totalGmv": "410150"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "DR.ARRIVO/宙斯",
-      "totalGmv": "303932"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "NEXTBEAUTY",
-      "totalGmv": "285890"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "KOLI",
-      "totalGmv": "225777"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "博朗",
-      "totalGmv": "185427"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "BEQUEEN",
-      "totalGmv": "183140"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "J-STYLE",
-      "totalGmv": "180207"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "kasolly/珂诗黎",
-      "totalGmv": "173550"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "nanoTime/娜蜜丝",
-      "totalGmv": "147238"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "志高",
-      "totalGmv": "111134"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Newa/妞娃",
-      "totalGmv": "106070"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Panasonic/松下",
-      "totalGmv": "100900"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Aijofi",
-      "totalGmv": "78556"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "KINGDOM/金稻",
-      "totalGmv": "78051"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Deerma/德尔玛",
-      "totalGmv": "73558"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "侨城里",
-      "totalGmv": "64855"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Philips/飞利浦",
-      "totalGmv": "63029"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "OSD",
-      "totalGmv": "60280"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "VLVEE",
-      "totalGmv": "49786"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "昕友",
-      "totalGmv": "41800"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Effectim/玑妍之光",
-      "totalGmv": "40630"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "MYWIN",
-      "totalGmv": "38521"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "OUFELIME/欧菲丽美",
-      "totalGmv": "35050"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "UAGOS/尤加西",
-      "totalGmv": "33323"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "BOXURY/伯奢",
-      "totalGmv": "23727"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "silk'n",
-      "totalGmv": "22655"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Sensica",
-      "totalGmv": "20095"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "智感",
-      "totalGmv": "18425"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "ERIMOTA",
-      "totalGmv": "15995"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "添悦",
-      "totalGmv": "15280"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "V.ONE",
-      "totalGmv": "14350"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "扬子电器",
-      "totalGmv": "13342"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Wahson/华生",
-      "totalGmv": "12300"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "荃美嘉",
-      "totalGmv": "10672"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "RORA",
-      "totalGmv": "7848"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "MELING/美菱",
-      "totalGmv": "7770"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "唯品会",
-      "totalGmv": "5855"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "MSN/美森",
-      "totalGmv": "4438"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "RIX",
-      "totalGmv": "4418"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "HYUNDAI/现代",
-      "totalGmv": "4358"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "Seemagic",
-      "totalGmv": "4292"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "颜羊",
-      "totalGmv": "3752"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "万利达",
-      "totalGmv": "1658"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "即境",
-      "totalGmv": "1621"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "OVL",
-      "totalGmv": "1612"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "AUAU",
-      "totalGmv": "1481"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "JUJY",
-      "totalGmv": "1468"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "SEAYEO",
-      "totalGmv": "1417"
-    },
-    {
-      "thirdCategory": "美体仪器",
-      "brandName": "HABEN/哈本",
-      "totalGmv": "1414"
-    },
-    {
-      "thirdCategory": "美体工具",
-      "brandName": "其它",
-      "totalGmv": "7634300"
-    },
-    {
-      "thirdCategory": "美体工具",
-      "brandName": "YuMe Beauty",
-      "totalGmv": "3107000"
-    },
-    {
-      "thirdCategory": "美体工具",
-      "brandName": "奥斯赫",
-      "totalGmv": "2925250"
-    },
-    {
-      "thirdCategory": "美体工具",
-      "brandName": "XUEMARY/雪玛丽",
-      "totalGmv": "2311000"
-    },
-    {
-      "thirdCategory": "美体工具",
-      "brandName": "Sensica",
-      "totalGmv": "421000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "其它",
-      "totalGmv": "452448500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "AMORTALS/尔木萄",
-      "totalGmv": "410552850"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "WOSADO/悦瞳",
-      "totalGmv": "351822500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "心愿先生",
-      "totalGmv": "186277750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "美丽味道",
-      "totalGmv": "61894250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Unny/悠宜",
-      "totalGmv": "61134500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "荔树",
-      "totalGmv": "55422250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Arrebol/桃又野",
-      "totalGmv": "54483750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "REVERSE/逆龄",
-      "totalGmv": "54239250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "医束美",
-      "totalGmv": "50849000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MOTONOZEN",
-      "totalGmv": "39772500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "魅丝蔻",
-      "totalGmv": "36953500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "蓝蒂丝",
-      "totalGmv": "36373800"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "plantpro/plantpro",
-      "totalGmv": "33263000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Ulike",
-      "totalGmv": "31315500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MineTook",
-      "totalGmv": "27636150"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "NABAOBEI/纳葆蓓",
-      "totalGmv": "26982250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "可祺",
-      "totalGmv": "24194750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Eiffeou/艾菲欧",
-      "totalGmv": "23822500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Momoelegant",
-      "totalGmv": "22867750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "靓睫美目",
-      "totalGmv": "20806032"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "GUOXIAONIU",
-      "totalGmv": "18314000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MLEN DIARY/米兰日记",
-      "totalGmv": "18258500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "HANGENEE/韩姬妮",
-      "totalGmv": "17329000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MSMEESHU/蜜束",
-      "totalGmv": "16783250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "FANGWORD/芳语",
-      "totalGmv": "14757750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Eyecurl",
-      "totalGmv": "14033850"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "萌睫尚品",
-      "totalGmv": "13572250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "ReFa MIST",
-      "totalGmv": "12940750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "炎禹",
-      "totalGmv": "12791250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "睫毛湾湾",
-      "totalGmv": "11725600"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MLEN DIARY",
-      "totalGmv": "11720500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "十九匠",
-      "totalGmv": "11213000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "cinno/沁诺",
-      "totalGmv": "11177750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "everbab",
-      "totalGmv": "10835150"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "SAMANLI/莎曼莉",
-      "totalGmv": "10781500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "黛慕诗",
-      "totalGmv": "10132250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "茉语",
-      "totalGmv": "9166100"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "魔眼",
-      "totalGmv": "8860000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "睫丽睐",
-      "totalGmv": "8628250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "阿林达",
-      "totalGmv": "7780000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "OTW/美",
-      "totalGmv": "7248000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "kuimei/魁美",
-      "totalGmv": "6949250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Wanxinghe/万星河",
-      "totalGmv": "6861750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "赛雅姿",
-      "totalGmv": "6780750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "BLJ",
-      "totalGmv": "6452750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "OVL",
-      "totalGmv": "6400500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "TUNLU/豚鹿",
-      "totalGmv": "6297250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Miss Diamond/蝶梦小姐",
-      "totalGmv": "6066250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "素肌",
-      "totalGmv": "5770250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "KAINALI",
-      "totalGmv": "5721250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "SEVENCHIC",
-      "totalGmv": "5642500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "柏兰",
-      "totalGmv": "5425000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "AKF",
-      "totalGmv": "5347500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "吉祥草",
-      "totalGmv": "5332250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "资美妍",
-      "totalGmv": "5229750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "KDK",
-      "totalGmv": "5036500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Shrmeil/闪美",
-      "totalGmv": "4957250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "WEINIDE/维妮德",
-      "totalGmv": "4686750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "美利然",
-      "totalGmv": "4641500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "YOULA/柚啦",
-      "totalGmv": "4599000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "幂拉",
-      "totalGmv": "4218250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Honey Snow/透蜜",
-      "totalGmv": "4215000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "DPU/简初",
-      "totalGmv": "4043600"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "格蒙",
-      "totalGmv": "4033500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "TriPollar/初普",
-      "totalGmv": "3980500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "朵小棉",
-      "totalGmv": "3928000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "easehold",
-      "totalGmv": "3835000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "SEEHA",
-      "totalGmv": "3807400"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "AKK/AKK",
-      "totalGmv": "3721000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Passional Lover/恋火",
-      "totalGmv": "3707500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "blankme",
-      "totalGmv": "3576750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Share Zee",
-      "totalGmv": "3461000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MEI ZHI XIU/美知秀",
-      "totalGmv": "3439000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "韩吻",
-      "totalGmv": "3409250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "DIEPPE/迪耶普",
-      "totalGmv": "3251750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "YYD",
-      "totalGmv": "3216250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "XUEMARY/雪玛丽",
-      "totalGmv": "2825000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "YZYaozhi/妖制",
-      "totalGmv": "2788500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "GALIMARD/嘉利玛",
-      "totalGmv": "2783500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "RealTechniques",
-      "totalGmv": "2766500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "刷刷公子",
-      "totalGmv": "2761250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "医束美/医束美",
-      "totalGmv": "2746750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "LHWA",
-      "totalGmv": "2741750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MAKE UP FOR EVER/玫珂菲",
-      "totalGmv": "2632000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "ABAY",
-      "totalGmv": "2613000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "雅姿",
-      "totalGmv": "2560500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "FLOS EGG",
-      "totalGmv": "2499750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MINSHZEE/茗希芝",
-      "totalGmv": "2472750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "月儿公主",
-      "totalGmv": "2468250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Heir Cosmetics/赫艾迩",
-      "totalGmv": "2360250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "M'AYCREATE/健美创研",
-      "totalGmv": "2299750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "悦瞳",
-      "totalGmv": "2234500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "魅女郎",
-      "totalGmv": "2167750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "ONE U/唯你",
-      "totalGmv": "2081250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "雅莉康",
-      "totalGmv": "2028000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "make up show/魅卡秀",
-      "totalGmv": "2019500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "COACH/蔻驰",
-      "totalGmv": "1995000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "STRIDEX",
-      "totalGmv": "1989000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "魔睫丝",
-      "totalGmv": "1988750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "露薇雅",
-      "totalGmv": "1967500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Vinesime",
-      "totalGmv": "1770000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "TOM MARK/唐魅可",
-      "totalGmv": "1753000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "欧束菲",
-      "totalGmv": "1714500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "UMBRACELLA",
-      "totalGmv": "1684500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "DCEXPORT",
-      "totalGmv": "1674250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "川奈社",
-      "totalGmv": "1637500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "橘稚可萌",
-      "totalGmv": "1606000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "可伶可俐",
-      "totalGmv": "1577000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "古迪",
-      "totalGmv": "1562250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "HIH",
-      "totalGmv": "1543000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "DR+LAB/德莱博",
-      "totalGmv": "1532500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "BH/必艾奇",
-      "totalGmv": "1529500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "WINONA/薇诺娜",
-      "totalGmv": "1518250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "可妍奢",
-      "totalGmv": "1472500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "素说美丽",
-      "totalGmv": "1471500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "柳希",
-      "totalGmv": "1292250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "matsuzaki/松崎",
-      "totalGmv": "1255750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "YUANJI/原己",
-      "totalGmv": "1217750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "贝姿茹",
-      "totalGmv": "1196250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "爱闻珑",
-      "totalGmv": "1190250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MR.MER/先生之谜",
-      "totalGmv": "1190000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "睫美恋",
-      "totalGmv": "1170500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "magitech美技",
-      "totalGmv": "1157250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "FLOSSOM/花至",
-      "totalGmv": "1146750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "RED CHAMBER/朱栈",
-      "totalGmv": "1143000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "摇一夏",
-      "totalGmv": "1086500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "ESTEE LAUDER/雅诗兰黛",
-      "totalGmv": "1082000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "棉可",
-      "totalGmv": "1063500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "ENERGY/艾诺琪",
-      "totalGmv": "1035100"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "邹秀美睫",
-      "totalGmv": "977900"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "Yi Dai Fei Zi/一代妃子",
-      "totalGmv": "883500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "雅斯娜",
-      "totalGmv": "882500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "auou/艾遇",
-      "totalGmv": "876000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "非凡颜",
-      "totalGmv": "871500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "PEI SI/裴诗",
-      "totalGmv": "869000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "艺研奈",
-      "totalGmv": "844500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "PRAMY/柏瑞美",
-      "totalGmv": "827000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "古欧",
-      "totalGmv": "823500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "DEARRY/黛尔雅",
-      "totalGmv": "811000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "奥斯赫",
-      "totalGmv": "809000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "SHOYO",
-      "totalGmv": "804000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "BEAUTY COTTAGE NATURAL CRAFTED BEAUTY",
-      "totalGmv": "797500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "other",
-      "totalGmv": "782500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "eSpoir/艾丝珀",
-      "totalGmv": "769500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MYONLY/麦欧丽",
-      "totalGmv": "760500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "LIU JUN",
-      "totalGmv": "731250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "BEAUTYJUNKO/淳睫",
-      "totalGmv": "722000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "XiLa/夕拉",
-      "totalGmv": "448750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "拉美拉",
-      "totalGmv": "447750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "糯壹",
-      "totalGmv": "446750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "樊先森",
-      "totalGmv": "442000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "芘芘薇莎",
-      "totalGmv": "441500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "一盟",
-      "totalGmv": "438250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "睫天使",
-      "totalGmv": "430500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "mark my soul/慕色",
-      "totalGmv": "426250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "卞卡",
-      "totalGmv": "426000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "千妍",
-      "totalGmv": "425500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "法拉塔",
-      "totalGmv": "423500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "DIPIC DEAR·PURE·CARE",
-      "totalGmv": "420000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "TIMAGE/彩棠",
-      "totalGmv": "419250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "AMIRO/觅光",
-      "totalGmv": "417750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "plamine",
-      "totalGmv": "411000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "PCL",
-      "totalGmv": "408750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "芝美优品",
-      "totalGmv": "407000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "FOCALLURE/菲鹿儿",
-      "totalGmv": "406500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "SHUDELI/淑德力",
-      "totalGmv": "404000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "阿拉慧",
-      "totalGmv": "401000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "美彤",
-      "totalGmv": "401000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "SIMER/斯美睿",
-      "totalGmv": "391750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "欧亿姿",
-      "totalGmv": "391500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "FV",
-      "totalGmv": "387500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "3CE/三熹玉",
-      "totalGmv": "385250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MYONE/美悟",
-      "totalGmv": "383250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "玄极",
-      "totalGmv": "382750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "AN CHEN MEI NUO/安宸美诺",
-      "totalGmv": "381250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "poem sea/万诗之海",
-      "totalGmv": "380250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "UNEGRS/悠妮丝",
-      "totalGmv": "376250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "巴斯夫",
-      "totalGmv": "375750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "BAIZISHENG/百姿胜",
-      "totalGmv": "374750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "UODO/优沃朵",
-      "totalGmv": "370750"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "GIORGIO ARMANI/阿玛尼",
-      "totalGmv": "368250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "MRBONNIE",
-      "totalGmv": "367250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "梦鹿",
-      "totalGmv": "363250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "LA MER/海蓝之谜",
-      "totalGmv": "362250"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "魔女妖妖",
-      "totalGmv": "358000"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "倾雪世颜",
-      "totalGmv": "354500"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "TAOHUAYOUPIN",
-      "totalGmv": "171700"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "HANLISHABAI/韩丽莎白",
-      "totalGmv": "171700"
-    },
-    {
-      "thirdCategory": "美妆工具",
-      "brandName": "法伊秀",
-      "totalGmv": "148000"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "Ulike",
-      "totalGmv": "462031898"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "Jmoon/极萌",
-      "totalGmv": "34893590"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "beautigo",
-      "totalGmv": "14708530"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "NOTIME",
-      "totalGmv": "7713135"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "JOVS",
-      "totalGmv": "7447561"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "Kitty Annie/小猫安妮",
-      "totalGmv": "5086287"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "ELLKII",
-      "totalGmv": "2059670"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "KONKA/康佳",
-      "totalGmv": "1069908"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "iluminage",
-      "totalGmv": "1001486"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "BoSidin/博思迪",
-      "totalGmv": "29455"
-    },
-    {
-      "thirdCategory": "美容美体护理仪（器械）",
-      "brandName": "侨城里",
-      "totalGmv": "7685"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Mistine/蜜丝婷",
-      "totalGmv": "279322750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "MEIKING/美康粉黛",
-      "totalGmv": "254230000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Florasis/花西子",
-      "totalGmv": "252772750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "ANESSA/安耐晒",
-      "totalGmv": "184890250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "TOUZHIMI/透之谜",
-      "totalGmv": "137808750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "其它",
-      "totalGmv": "84283250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "AUTUMN&CA./秋蔻",
-      "totalGmv": "75693500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Elta MD",
-      "totalGmv": "74015000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "A.H.C/爱和纯",
-      "totalGmv": "52166000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "YALGET/雅丽洁",
-      "totalGmv": "47366000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Unny/悠宜",
-      "totalGmv": "43550750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "RE:CIPE/玥之秘",
-      "totalGmv": "41271500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "LP La Pulovce",
-      "totalGmv": "33701500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "苾莱宝",
-      "totalGmv": "31251250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Latery/蓝特莉",
-      "totalGmv": "30615500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "geoskincare/纽西之谜",
-      "totalGmv": "28248000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Ositree/柳丝木",
-      "totalGmv": "27898500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "21575000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "白白日记",
-      "totalGmv": "20792000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "FV",
-      "totalGmv": "20333500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "MEKINE/美姿媛",
-      "totalGmv": "20307000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "19941000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "TJE",
-      "totalGmv": "19583000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "BodyAid/博滴",
-      "totalGmv": "16940500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Maigoole",
-      "totalGmv": "16036500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "blankme",
-      "totalGmv": "15411500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "AUPRES/欧珀莱",
-      "totalGmv": "14330750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "欧敏肤",
-      "totalGmv": "13774750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "LANCS",
-      "totalGmv": "13774500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "娜丽丝",
-      "totalGmv": "12250250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "秀肤生",
-      "totalGmv": "11923500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "COGI/高姿",
-      "totalGmv": "11474250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "拉普瑞斯",
-      "totalGmv": "11196250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "蒂洛薇",
-      "totalGmv": "9906500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "伊菲丹",
-      "totalGmv": "8729000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "SHISEIDO/资生堂",
-      "totalGmv": "7147750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Skinceuticals/修丽可",
-      "totalGmv": "6530000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "LEOERMXEY/零系",
-      "totalGmv": "6441000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "CEMOY",
-      "totalGmv": "6425000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "asprriy/艾诗普蕊",
-      "totalGmv": "5857500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "vita bloom",
-      "totalGmv": "5776000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "LA ROCHE-POSAY/理肤泉",
-      "totalGmv": "5513000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "梦希蓝",
-      "totalGmv": "5433000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Lancer King",
-      "totalGmv": "5216000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "934",
-      "totalGmv": "5100000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "HANLEES/韩莉诗",
-      "totalGmv": "5038000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "MEIFUBAO/美肤宝",
-      "totalGmv": "4783000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "DNLNXIR/黛莱皙",
-      "totalGmv": "4722500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "MIANJISHIGUANG/面玑时光",
-      "totalGmv": "4524000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "COSME DECORTE/黛珂",
-      "totalGmv": "4296750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "WINONA/薇诺娜",
-      "totalGmv": "4263750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "amy/安美",
-      "totalGmv": "4160000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "CHANDO/自然堂",
-      "totalGmv": "4090000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Hi!papa/海龟爸爸",
-      "totalGmv": "4042500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "AILISIMENGLU/爱丽斯梦露",
-      "totalGmv": "3880000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "CASSIEY cosmetics",
-      "totalGmv": "3707500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Olay/玉兰油",
-      "totalGmv": "3582500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "IYIY",
-      "totalGmv": "3445000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "菲古思",
-      "totalGmv": "3337000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "爱丽斯赫本",
-      "totalGmv": "3330000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "水蔻妍",
-      "totalGmv": "3268000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "漠小曼",
-      "totalGmv": "3215000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "MINON/蜜浓",
-      "totalGmv": "3168000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "VENDOME AOYAMA",
-      "totalGmv": "3125000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "OSM/欧诗漫",
-      "totalGmv": "3110000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "CLARINS/娇韵诗",
-      "totalGmv": "3044000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "CO-E/韩伊",
-      "totalGmv": "2844250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "HUNMUI\\韩伦美羽",
-      "totalGmv": "2596000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "JMsolution/肌司研",
-      "totalGmv": "2203500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "诗黛尔",
-      "totalGmv": "1794000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Watsons/屈臣氏",
-      "totalGmv": "1759000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "U.YI/尤一",
-      "totalGmv": "1730000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "茂业百货",
-      "totalGmv": "1679000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "ORGINESE",
-      "totalGmv": "1636000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "XIAO/晓笛",
-      "totalGmv": "1633000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "牛尔",
-      "totalGmv": "1614000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "TVLV",
-      "totalGmv": "1595000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Honey Snow/透蜜",
-      "totalGmv": "1582000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Bovey/珀薇",
-      "totalGmv": "1576000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "里季",
-      "totalGmv": "1574000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "泊安丝娜",
-      "totalGmv": "1540000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "ESTEE LAUDER/雅诗兰黛",
-      "totalGmv": "1535000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "SHE LOG/稀物集",
-      "totalGmv": "1529000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "ZKYO",
-      "totalGmv": "1480000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "CHAIRN/婵润",
-      "totalGmv": "1462000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "贝雅欧若拉",
-      "totalGmv": "1447000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "浅草川",
-      "totalGmv": "1431000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "一叶子",
-      "totalGmv": "1418000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "CLÉ DE PEAU BEAUTÉ/肌肤之钥",
-      "totalGmv": "1417000"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "DITI/迪缇",
-      "totalGmv": "1335750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "COLOUR DIARY/色彩日记",
-      "totalGmv": "1302750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "VitaBloom/植之璨",
-      "totalGmv": "1293750"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "奥札",
-      "totalGmv": "1268250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "艾茜",
-      "totalGmv": "1232250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "渡美",
-      "totalGmv": "1198500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "珀奈菲",
-      "totalGmv": "1147500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "Nivea/妮维雅",
-      "totalGmv": "1145250"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "LANYAN/兰研",
-      "totalGmv": "1093500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "SEYYER/皙玥",
-      "totalGmv": "1084500"
-    },
-    {
-      "thirdCategory": "防晒",
-      "brandName": "ALLIE/皑丽",
-      "totalGmv": "733500"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "优瞳",
-      "totalGmv": "43643811"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "LaPeche/拉拜诗",
-      "totalGmv": "35718289"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "Moody",
-      "totalGmv": "11010123"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "HYDRON/海昌",
-      "totalGmv": "3593287"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "ACUVUE/安视优",
-      "totalGmv": "3193551"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "kilala/可啦啦",
-      "totalGmv": "2374662"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "COFANCY/可糖",
-      "totalGmv": "1589797"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "爱尔康",
-      "totalGmv": "1065894"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "Miacare/美若康",
-      "totalGmv": "526119"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "博士伦",
-      "totalGmv": "493467"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "HORIEN/海俪恩",
-      "totalGmv": "466835"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "T-Garden",
-      "totalGmv": "256551"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "FOMOMY/芙欧蜜",
-      "totalGmv": "189525"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "ENVIE",
-      "totalGmv": "77620"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "实瞳",
-      "totalGmv": "15334"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "其它",
-      "totalGmv": "14970"
-    },
-    {
-      "thirdCategory": "隐形眼镜",
-      "brandName": "YIWAEYE/伊娃爱",
-      "totalGmv": "12280"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Florasis/花西子",
-      "totalGmv": "937456050"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FV",
-      "totalGmv": "722785250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JUELREOU/朱莉欧",
-      "totalGmv": "650863500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PRAMY/柏瑞美",
-      "totalGmv": "420733500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "其它",
-      "totalGmv": "354222050"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CARSLAN/卡姿兰",
-      "totalGmv": "346748100"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TFIT/媞妃特",
-      "totalGmv": "333246150"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AEKYUNG/爱敬",
-      "totalGmv": "328448500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Passional Lover/恋火",
-      "totalGmv": "314906700"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MGP/毛戈平",
-      "totalGmv": "284881500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KATO/加藤",
-      "totalGmv": "277453850"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TIMAGE/彩棠",
-      "totalGmv": "271721150"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FUNNYELVES",
-      "totalGmv": "262947250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AKF",
-      "totalGmv": "247714500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Honey Snow/透蜜",
-      "totalGmv": "235546500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JudydoLL/橘朵",
-      "totalGmv": "222169000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Ositree/柳丝木",
-      "totalGmv": "211988000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "UODO/优沃朵",
-      "totalGmv": "199726400"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CLÉ DE PEAU BEAUTÉ/肌肤之钥",
-      "totalGmv": "198588700"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TOM MARK/唐魅可",
-      "totalGmv": "178399350"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ZEESEA/滋色",
-      "totalGmv": "155765000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "姬芮",
-      "totalGmv": "155449500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Mistine/蜜丝婷",
-      "totalGmv": "141898200"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "娜涟",
-      "totalGmv": "138109000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "3CE/三熹玉",
-      "totalGmv": "112136750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MIANJISHIGUANG/面玑时光",
-      "totalGmv": "109429100"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MARIE DALGAR/玛丽黛佳",
-      "totalGmv": "102847250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JOVISSE",
-      "totalGmv": "102082950"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BABI",
-      "totalGmv": "101955250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ESTEE LAUDER/雅诗兰黛",
-      "totalGmv": "93586800"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "纪梵希",
-      "totalGmv": "92945250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MENOW/美诺",
-      "totalGmv": "92782250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "德妃",
-      "totalGmv": "91743000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "blankme",
-      "totalGmv": "88580500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "YSL/圣罗兰",
-      "totalGmv": "84460250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TOUZHIMI/透之谜",
-      "totalGmv": "76529000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "forever key",
-      "totalGmv": "73275500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "红地球",
-      "totalGmv": "71033000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DIFUMAN/缔芙曼",
-      "totalGmv": "68762500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "GALIMARD/嘉利玛",
-      "totalGmv": "68420250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BH/必艾奇",
-      "totalGmv": "60907000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KIKO",
-      "totalGmv": "59605300"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "里季",
-      "totalGmv": "59089000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "VC",
-      "totalGmv": "58927000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "IYIY",
-      "totalGmv": "57874250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LANEIGE/兰芝",
-      "totalGmv": "57472750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "美迪智",
-      "totalGmv": "56724250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Little Ondine/小奥汀",
-      "totalGmv": "56617600"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "左颜右色",
-      "totalGmv": "55008250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "54144600"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MissVnine",
-      "totalGmv": "53765250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "OUT-OF-OFFICE",
-      "totalGmv": "46273500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "GIORGIO ARMANI/阿玛尼",
-      "totalGmv": "46094050"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Mageline/麦吉丽",
-      "totalGmv": "42873500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SOCORSKIN/修可芙",
-      "totalGmv": "41444500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "38448750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MAKE UP FOR EVER/玫珂菲",
-      "totalGmv": "37895150"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "卞卡",
-      "totalGmv": "34593550"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BOBBI BROWN/芭比波朗",
-      "totalGmv": "34247000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HERESB2UTY/赫瑞丝",
-      "totalGmv": "32827400"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "诗黛尔",
-      "totalGmv": "32636750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "伊思芙",
-      "totalGmv": "32050500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AMORTALS/尔木萄",
-      "totalGmv": "31851600"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "步啦步啦",
-      "totalGmv": "31577250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ACE STAGE",
-      "totalGmv": "31318750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Dr.zi",
-      "totalGmv": "29028750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Fabloox",
-      "totalGmv": "28527350"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "赫妍",
-      "totalGmv": "27504500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Joocyee/酵色",
-      "totalGmv": "26972300"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "迪奥",
-      "totalGmv": "26807500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "colorkey/珂拉琪",
-      "totalGmv": "25660800"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "L ADORE COLORS/烙色",
-      "totalGmv": "24440500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SHOWCIRCLE/秀界",
-      "totalGmv": "22706750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "RED CHAMBER/朱栈",
-      "totalGmv": "22153400"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "银泰百货",
-      "totalGmv": "20659750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "玖瑟",
-      "totalGmv": "19835000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LUOESVTEN/露伊薇丹",
-      "totalGmv": "19818750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ZELENS",
-      "totalGmv": "19689000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CHUXIATANG/初夏堂",
-      "totalGmv": "19260750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "海洋日记",
-      "totalGmv": "19130500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Sulwhasoo/雪花秀",
-      "totalGmv": "18653750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DNLNXIR/黛莱皙",
-      "totalGmv": "18577500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MAC/魅可",
-      "totalGmv": "18427500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "geoskincare/纽西之谜",
-      "totalGmv": "18424750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "伴奏",
-      "totalGmv": "18353250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CHARLOTTE TILBURY/缇尔泊丽",
-      "totalGmv": "18229750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MACKANDY/玛可安迪",
-      "totalGmv": "18192750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "欧美莲",
-      "totalGmv": "18159500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "素玳",
-      "totalGmv": "18117000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CHANDO/自然堂",
-      "totalGmv": "17954500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "可卡莉",
-      "totalGmv": "17881500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "向日花",
-      "totalGmv": "17839500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "GUERLAIN/娇兰",
-      "totalGmv": "17468250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Flower Knows/花知晓",
-      "totalGmv": "17406250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "漠小曼",
-      "totalGmv": "17265250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LEAVOLU",
-      "totalGmv": "17036000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LILIA",
-      "totalGmv": "16870000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "修图师",
-      "totalGmv": "16719250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "贝玲妃",
-      "totalGmv": "16661000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MEIKING/美康粉黛",
-      "totalGmv": "16413250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Heir Cosmetics/赫艾迩",
-      "totalGmv": "16255750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "feotznw/法汀妮",
-      "totalGmv": "16210000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Samsea/圣希",
-      "totalGmv": "16138750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MAYBELLINE/美宝莲",
-      "totalGmv": "16042500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "苏小安妮",
-      "totalGmv": "15896250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ROMANTICBEAUTY",
-      "totalGmv": "15574750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "玛丽安保莱",
-      "totalGmv": "15127000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "俏艳",
-      "totalGmv": "14809000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "VC美妆",
-      "totalGmv": "14622000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "蜜丝佛陀",
-      "totalGmv": "14185750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "奥尔滨",
-      "totalGmv": "13723250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ELLE",
-      "totalGmv": "13257000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "A.IERVOLINO/艾伊维诺",
-      "totalGmv": "12991000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "安若花集",
-      "totalGmv": "12885000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "递欧",
-      "totalGmv": "12647500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "柯琳妮尔",
-      "totalGmv": "12523800"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "INTO YOU",
-      "totalGmv": "12297000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LANTERN/兰亭",
-      "totalGmv": "12279250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AOLANSU/奥兰素",
-      "totalGmv": "11868000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "臻羞",
-      "totalGmv": "11782000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MAKE ESSENSE/理然",
-      "totalGmv": "11569500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "川奈之汀",
-      "totalGmv": "11537000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "巧迪尚惠",
-      "totalGmv": "11311000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AILISIMENGLU/爱丽斯梦露",
-      "totalGmv": "10739500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SweetMint",
-      "totalGmv": "10538500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HOURGLASS",
-      "totalGmv": "10395500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "INOHERB/相宜本草",
-      "totalGmv": "10390250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "宝贝蕾",
-      "totalGmv": "10244750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LORD & BERRY",
-      "totalGmv": "10151000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "朱莉欧",
-      "totalGmv": "10112350"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "魅卡露",
-      "totalGmv": "9745250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "XiLa/夕拉",
-      "totalGmv": "9714000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BABREA/芭贝拉",
-      "totalGmv": "9674750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SALMON",
-      "totalGmv": "9636750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CODE MINT/纨素之肤",
-      "totalGmv": "9510500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "点妍",
-      "totalGmv": "9454250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KALEIDOS/万花镜",
-      "totalGmv": "9358000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "韩昱",
-      "totalGmv": "9274000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "芮客",
-      "totalGmv": "9228500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "NFCS/纳菲诗",
-      "totalGmv": "8947000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LANYAN/兰研",
-      "totalGmv": "8826000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MEIFUBAO/美肤宝",
-      "totalGmv": "8620500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "珀兰娜",
-      "totalGmv": "8595150"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MUSE FAIRY",
-      "totalGmv": "8574450"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PERFECT DIARY/完美日记",
-      "totalGmv": "8570000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FOREVER·KEY",
-      "totalGmv": "8476000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MINSHZEE/茗希芝",
-      "totalGmv": "8434750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "淂意",
-      "totalGmv": "8420750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "IEM/爱怡美",
-      "totalGmv": "8280250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "NARS/纳斯",
-      "totalGmv": "8224500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KATELYN",
-      "totalGmv": "8167000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "COLOUR DIARY/色彩日记",
-      "totalGmv": "8030500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SK-II",
-      "totalGmv": "7970250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "moonshot",
-      "totalGmv": "7637500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "YUNJAC/然作",
-      "totalGmv": "7624500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Unny/悠宜",
-      "totalGmv": "7525000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PIPL",
-      "totalGmv": "7520000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Crown QunFang/冠群芳",
-      "totalGmv": "7510500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JUNG SAEM MOOL/郑瑄茉",
-      "totalGmv": "7236000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "优肌源",
-      "totalGmv": "7150000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "雅莉格丝",
-      "totalGmv": "7120500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "诺薇雅",
-      "totalGmv": "7100000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "森迷",
-      "totalGmv": "6770900"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "GIMONGLY/吉梦俪",
-      "totalGmv": "6714750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ZFB",
-      "totalGmv": "6644250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "柔色",
-      "totalGmv": "6457000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "GUCCI/古驰",
-      "totalGmv": "6257500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SPRING&SUMMER",
-      "totalGmv": "6063250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "WANLI BUTTERFLY/蝶婉丽",
-      "totalGmv": "6058000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TAOYANG淘漾",
-      "totalGmv": "5986250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "颜素",
-      "totalGmv": "5904000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "蕾琪",
-      "totalGmv": "5758550"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AUU",
-      "totalGmv": "5737750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "苏小甜甜",
-      "totalGmv": "5719500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "格蒙",
-      "totalGmv": "5677250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "奥蜜思",
-      "totalGmv": "5645750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TDL",
-      "totalGmv": "5630250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "诺蔓琦",
-      "totalGmv": "5474250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "URCCI/悠姿",
-      "totalGmv": "5398500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "W.LAB",
-      "totalGmv": "5397750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "秘密时代",
-      "totalGmv": "5353750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "涂酷",
-      "totalGmv": "5334800"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "韩熙贞",
-      "totalGmv": "5301500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "巴黎草莓",
-      "totalGmv": "5165250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "徐海莉",
-      "totalGmv": "5000750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "润颜",
-      "totalGmv": "4933000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HANLEES/韩莉诗",
-      "totalGmv": "4717250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ROSETIMES",
-      "totalGmv": "4658400"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "艾瑟诗",
-      "totalGmv": "4639250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "VNK",
-      "totalGmv": "4611250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DAANMEIJI/达安美玑",
-      "totalGmv": "4603750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "植村秀",
-      "totalGmv": "4583500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "tommark/唐魅可",
-      "totalGmv": "4568750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DCEXPORT",
-      "totalGmv": "4553750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "珂曼",
-      "totalGmv": "4537600"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SHEZI/奢姿",
-      "totalGmv": "4457450"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "essence/艾森丝",
-      "totalGmv": "4276000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FOMIX",
-      "totalGmv": "4262250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AGAG",
-      "totalGmv": "4161750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "完美意境",
-      "totalGmv": "4071750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "凯朵",
-      "totalGmv": "4040750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "沭念",
-      "totalGmv": "3983000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Napoleon Perdis",
-      "totalGmv": "3949500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "茂业百货",
-      "totalGmv": "3945750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "姬斯汀",
-      "totalGmv": "3931000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HANGENEE/韩姬妮",
-      "totalGmv": "3896000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "NOVO",
-      "totalGmv": "3848500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PIARA/佩冉",
-      "totalGmv": "3847250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "绿毛怪怪",
-      "totalGmv": "3804850"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HANSKIN",
-      "totalGmv": "3764250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "梦希蓝",
-      "totalGmv": "3761500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "UMT",
-      "totalGmv": "3739000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "kayse/琦色",
-      "totalGmv": "3660750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AZIMER/阿姿美尔",
-      "totalGmv": "3628250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Clio/珂莱欧",
-      "totalGmv": "3605500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Hince/蕙思",
-      "totalGmv": "3574750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "EUSTACE",
-      "totalGmv": "3568750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BEINIDAR",
-      "totalGmv": "3539750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "泊美",
-      "totalGmv": "3517750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "娜丽丝",
-      "totalGmv": "3452000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "GUERNISS/娇妮诗",
-      "totalGmv": "3330000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KAFELLON",
-      "totalGmv": "3299250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Maigoole",
-      "totalGmv": "3294600"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PhysiciansFormula",
-      "totalGmv": "3253000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JAVIN/姿彬",
-      "totalGmv": "3069750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "minilab:",
-      "totalGmv": "2977500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LANSUR/兰瑟",
-      "totalGmv": "2934750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "庆翠堂",
-      "totalGmv": "2891750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Aekyung Age 20's/爱敬20秒",
-      "totalGmv": "2848500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CHANTECAILLE",
-      "totalGmv": "2815750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ONLY MINERALS",
-      "totalGmv": "2799500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "YUYING/御影",
-      "totalGmv": "2723250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ZKYO",
-      "totalGmv": "2709750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LA MER/海蓝之谜",
-      "totalGmv": "2688750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "茜如娇",
-      "totalGmv": "2684250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "名美人",
-      "totalGmv": "2678000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "leezi/莉兹",
-      "totalGmv": "2677250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LUCENBASE/透真",
-      "totalGmv": "2632500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MR /",
-      "totalGmv": "2621750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ALLPAIR119",
-      "totalGmv": "2549000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "美蒂秋芙",
-      "totalGmv": "2529250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "亮达",
-      "totalGmv": "2506000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "三月兔",
-      "totalGmv": "2475000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ALOBON/雅邦",
-      "totalGmv": "2440000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "M3",
-      "totalGmv": "2409000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "衰败城市",
-      "totalGmv": "2403500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "YZS",
-      "totalGmv": "2396000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "谜尚",
-      "totalGmv": "2375250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PROYA/珀莱雅",
-      "totalGmv": "2374750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KDK",
-      "totalGmv": "2372750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BIODERMA/贝德玛",
-      "totalGmv": "2342500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "罗小曼",
-      "totalGmv": "2325750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ZFC",
-      "totalGmv": "2281750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "okayisyo/桜花抄",
-      "totalGmv": "2268750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JAVIN DE SEOUL",
-      "totalGmv": "2232000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FAITH/妃颐思",
-      "totalGmv": "2186500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CARMELA",
-      "totalGmv": "2149950"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MUYAN/目颜",
-      "totalGmv": "2114500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KRYOLAN",
-      "totalGmv": "2095500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DR.LREAN ERAS/独特艾琳",
-      "totalGmv": "2085750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Boke.Ruer/博卡瑞尔",
-      "totalGmv": "2085250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Cloris Land/花皙蔻",
-      "totalGmv": "2082250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Spenny/诗佩妮",
-      "totalGmv": "2055000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PonyEffect",
-      "totalGmv": "2044500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AELY",
-      "totalGmv": "2044250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MELLESH/益若翼",
-      "totalGmv": "2032750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "mecafour/蜜卡佛",
-      "totalGmv": "2019500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DilSefromtheheart",
-      "totalGmv": "2018250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "zeff",
-      "totalGmv": "2009250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "奇拉美琦",
-      "totalGmv": "1960250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DPU/简初",
-      "totalGmv": "1945250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "C2U",
-      "totalGmv": "1898500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Eaoron/澳容",
-      "totalGmv": "1854500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SEVEN·JULY",
-      "totalGmv": "1824750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "WOYIMAY/沃因美",
-      "totalGmv": "1742000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AMPLEUR",
-      "totalGmv": "1741000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Syrinx/希芸",
-      "totalGmv": "1732000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HSHS/绘声绘色",
-      "totalGmv": "1711000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FENTINY/芬缇妮",
-      "totalGmv": "1699000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "宫芙",
-      "totalGmv": "1685250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "KISMILE",
-      "totalGmv": "1670000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "瓷雅",
-      "totalGmv": "1666500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SUQQU",
-      "totalGmv": "1665200"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "茵芙莎",
-      "totalGmv": "1658500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PUGEE",
-      "totalGmv": "1625250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SHE LOVES",
-      "totalGmv": "1619500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "精心",
-      "totalGmv": "1612250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TiMEE/恺普氏",
-      "totalGmv": "1591000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LA ROCHE-POSAY/理肤泉",
-      "totalGmv": "1575000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MEIYVMEIZHUANG/美誉美妆",
-      "totalGmv": "1565500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "kirameki",
-      "totalGmv": "1562750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "缔葭",
-      "totalGmv": "1553500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "唯魅秀",
-      "totalGmv": "1538000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "COSME DECORTE/黛珂",
-      "totalGmv": "1533500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "gushiyuta/故事与她",
-      "totalGmv": "1532750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CODE8",
-      "totalGmv": "1527250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "水蔻妍",
-      "totalGmv": "1524000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MLB/美国职棒大联盟",
-      "totalGmv": "1518000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "柔蜜舒",
-      "totalGmv": "1504000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "海蓝朵",
-      "totalGmv": "1493000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Beauty Seeds",
-      "totalGmv": "1489250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "麦尔卡伦",
-      "totalGmv": "1484500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "suonzaoo/素煮",
-      "totalGmv": "1476000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Daera",
-      "totalGmv": "1463000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DR.COSSET",
-      "totalGmv": "1444000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "明彩",
-      "totalGmv": "1433000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TAKEOKA",
-      "totalGmv": "1333500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "佩兰诗",
-      "totalGmv": "1315250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "U.YI/尤一",
-      "totalGmv": "1290250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Vaseline/凡士林",
-      "totalGmv": "1289250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "YAJI/娅即",
-      "totalGmv": "1285750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CERLINSE NEREIS",
-      "totalGmv": "1272000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FCX",
-      "totalGmv": "1271250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "WONDERBEIGE",
-      "totalGmv": "1265250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "蜜诗汀",
-      "totalGmv": "1263250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TIRTIR/媞乐媞乐",
-      "totalGmv": "1261250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Kiehl's/科颜氏",
-      "totalGmv": "1260000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "佰珍堂",
-      "totalGmv": "1218250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MAFFICK",
-      "totalGmv": "1203500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "VONJOLI/-",
-      "totalGmv": "1201750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Tatcha/她姹",
-      "totalGmv": "1188000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "彩娇妍",
-      "totalGmv": "1178250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "RONGYAO/容耀",
-      "totalGmv": "1170750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "奇帝",
-      "totalGmv": "1162500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FANSHIDI/梵诗笛",
-      "totalGmv": "1138250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BAJI/芭集",
-      "totalGmv": "1094750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DT",
-      "totalGmv": "1068000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HUKO/乎刻",
-      "totalGmv": "1065250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FOR FUN/肤梵",
-      "totalGmv": "1051500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "洛韵诗",
-      "totalGmv": "1050750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "UNQ JAPAN",
-      "totalGmv": "898500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "婷美",
-      "totalGmv": "898350"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "艾诺碧",
-      "totalGmv": "884000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "京东",
-      "totalGmv": "883500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Cover Monster/封面精灵",
-      "totalGmv": "879500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AHUWNW",
-      "totalGmv": "871500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ITRIM",
-      "totalGmv": "870500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "森小婕",
-      "totalGmv": "868250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "莱珀妮",
-      "totalGmv": "867500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MIKIPLUM",
-      "totalGmv": "865500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DIPIC DEAR·PURE·CARE",
-      "totalGmv": "862500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "aztk",
-      "totalGmv": "856000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "LE VENT/乐梵觅",
-      "totalGmv": "852000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "焕享童颜",
-      "totalGmv": "849750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "奢钻",
-      "totalGmv": "847500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "XiuSe/秀瑟",
-      "totalGmv": "847000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CROXX",
-      "totalGmv": "843000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SV",
-      "totalGmv": "840500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MCOM/眸珂",
-      "totalGmv": "835000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "鑫荟",
-      "totalGmv": "832500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "luara",
-      "totalGmv": "829750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "girlcult",
-      "totalGmv": "823000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "梦幻日记",
-      "totalGmv": "821750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MEISHE/每奢",
-      "totalGmv": "817000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "致美",
-      "totalGmv": "811500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "WANBANWEIYAN",
-      "totalGmv": "804000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "VAA",
-      "totalGmv": "799500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TREECHADA",
-      "totalGmv": "793250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "アールエムケーRMK",
-      "totalGmv": "791000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HIH",
-      "totalGmv": "791000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "索菲亚",
-      "totalGmv": "791000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "OSM/欧诗漫",
-      "totalGmv": "789500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "瓷妆",
-      "totalGmv": "789500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "芮妮卡",
-      "totalGmv": "786000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "宝兰汀",
-      "totalGmv": "783000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TWG",
-      "totalGmv": "780250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "思露兰",
-      "totalGmv": "778000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "狄娃的秘密",
-      "totalGmv": "771500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "amy/安美",
-      "totalGmv": "766750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MSMEESHU/蜜束",
-      "totalGmv": "764750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PIBAMY/比芭美\t",
-      "totalGmv": "750250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HERASHAW",
-      "totalGmv": "747000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "everbab",
-      "totalGmv": "745250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "唯資(VEECCI)",
-      "totalGmv": "731500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "千妍",
-      "totalGmv": "721500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "WANBI/丸碧",
-      "totalGmv": "720500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "VENZEN/梵贞",
-      "totalGmv": "720500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JIAOCHAN/娇婵",
-      "totalGmv": "715000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "非凡颜",
-      "totalGmv": "713000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MAYCHEER/美茜儿",
-      "totalGmv": "710000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "倾龄",
-      "totalGmv": "704000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "BEVNAIVZ/蓓奈姿",
-      "totalGmv": "562600"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "PinkBear",
-      "totalGmv": "449000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ONLYWISH",
-      "totalGmv": "448500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DAISENNI/黛森妮",
-      "totalGmv": "447250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "YINMAN",
-      "totalGmv": "446750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "芦丹氏",
-      "totalGmv": "446750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "爱丽莎酷伊",
-      "totalGmv": "446500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "珂尼娜",
-      "totalGmv": "445750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Kanebo/嘉娜宝",
-      "totalGmv": "444750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "iub",
-      "totalGmv": "443000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "雪柔雅",
-      "totalGmv": "442750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Baldauren",
-      "totalGmv": "439500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "parkson/百盛",
-      "totalGmv": "438750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "拉美拉",
-      "totalGmv": "438500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Insbaha",
-      "totalGmv": "438250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "IYOUB I'M YOUR BEAUTY",
-      "totalGmv": "434000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "穆穆美啦",
-      "totalGmv": "434000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "韩纪",
-      "totalGmv": "432500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "心愿先生",
-      "totalGmv": "425250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "cheryl",
-      "totalGmv": "424500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MALU WILZ",
-      "totalGmv": "424000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AXXZIA/晓姿",
-      "totalGmv": "422750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "贝诗佳",
-      "totalGmv": "422750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ALPHA SOLUTION",
-      "totalGmv": "421750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "niyanxue/尼妍雪",
-      "totalGmv": "418250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "正宫御品",
-      "totalGmv": "418000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "CASSIEY cosmetics",
-      "totalGmv": "417500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "eSpoir/艾丝珀",
-      "totalGmv": "417250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "米小可",
-      "totalGmv": "415250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DRAWSHE/玖皙",
-      "totalGmv": "414750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JEJO",
-      "totalGmv": "414250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "奥美大师",
-      "totalGmv": "413000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "思尚",
-      "totalGmv": "411500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "古驰",
-      "totalGmv": "411250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "RNW/如薇",
-      "totalGmv": "409250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "la Bestcare",
-      "totalGmv": "408500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SONGZHIXIAYUAN/宋知夏苑",
-      "totalGmv": "407250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "DIVECOKE/蒂妃珂",
-      "totalGmv": "407250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "臻萃",
-      "totalGmv": "405000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "美墨",
-      "totalGmv": "404000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "本肤堂",
-      "totalGmv": "402250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "芭妮兰",
-      "totalGmv": "402000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "自然肌理",
-      "totalGmv": "401500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SEYYER/皙玥",
-      "totalGmv": "400250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "罗拉如炬",
-      "totalGmv": "399500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "STAGE Q",
-      "totalGmv": "398500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MZV",
-      "totalGmv": "397250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SMILEY/微笑宝贝",
-      "totalGmv": "395750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FERLUNA",
-      "totalGmv": "394750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "欧束菲",
-      "totalGmv": "394000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "AMIIR/艾米尔",
-      "totalGmv": "393250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "进化论",
-      "totalGmv": "393250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Pony Effect",
-      "totalGmv": "392750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "THANWINSH/仙韵诗",
-      "totalGmv": "392000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "和妆",
-      "totalGmv": "391250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "丽普司肽",
-      "totalGmv": "391000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "澳美肤佳",
-      "totalGmv": "389000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "TJE",
-      "totalGmv": "388250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "奈玑子",
-      "totalGmv": "386250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "九美子",
-      "totalGmv": "386250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "COLORCANDY",
-      "totalGmv": "386000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Bovey/珀薇",
-      "totalGmv": "385750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "寻溪",
-      "totalGmv": "384250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "伊妍",
-      "totalGmv": "381250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "柏润芙龄",
-      "totalGmv": "377750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "蝶莲娜",
-      "totalGmv": "377500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MedRepair/米蓓尔",
-      "totalGmv": "377000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "斯黛娜",
-      "totalGmv": "376000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "XingQue/星阙",
-      "totalGmv": "375250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "joajota",
-      "totalGmv": "374500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MISEYOU/谜色优",
-      "totalGmv": "373500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "希恩派",
-      "totalGmv": "371250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "SISLEY/希思黎",
-      "totalGmv": "371250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "贵族绣梦",
-      "totalGmv": "370250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "GIVERNY/姿泊兰伊",
-      "totalGmv": "369500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FNP care",
-      "totalGmv": "369250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "WINONA/薇诺娜",
-      "totalGmv": "368250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "XIXI",
-      "totalGmv": "368250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "光希",
-      "totalGmv": "367500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "FLORTTE/花洛莉亚",
-      "totalGmv": "367000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MEILUNI/美露妮",
-      "totalGmv": "366250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "心机",
-      "totalGmv": "363500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "Mayddei",
-      "totalGmv": "362000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "MUHFARI",
-      "totalGmv": "357000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "圣卓雅",
-      "totalGmv": "357000"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "泉兮",
-      "totalGmv": "355750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "ZHIQI/致奇",
-      "totalGmv": "353250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "江原道",
-      "totalGmv": "353250"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "wo-wo",
-      "totalGmv": "351750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "凯莱兰",
-      "totalGmv": "351500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "JEEVOO/婕芙",
-      "totalGmv": "350750"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "HOLD LIVE",
-      "totalGmv": "312400"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "fastb.",
-      "totalGmv": "169500"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "EIIO/奕沃",
-      "totalGmv": "155400"
-    },
-    {
-      "thirdCategory": "面部彩妆",
-      "brandName": "VitaBloom/植之璨",
-      "totalGmv": "140600"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "H/海洁娅",
-      "totalGmv": "7264821000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "其它",
-      "totalGmv": "5776403000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": " KANS/韩束",
-      "totalGmv": "3934398500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WHOO/后",
-      "totalGmv": "2855296750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "悠纪",
-      "totalGmv": "1814303500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PROYA/珀莱雅",
-      "totalGmv": "1588657250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "1408782250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ESTEE LAUDER/雅诗兰黛",
-      "totalGmv": "1054913500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SK-II",
-      "totalGmv": "1002906000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "OSM/欧诗漫",
-      "totalGmv": "945970500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LA MER/海蓝之谜",
-      "totalGmv": "868614000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "谷雨",
-      "totalGmv": "779788750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Olay/玉兰油",
-      "totalGmv": "772489500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HBN",
-      "totalGmv": "696647250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CHANDO/自然堂",
-      "totalGmv": "695704500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Helena Rubinstein/赫莲娜",
-      "totalGmv": "679103000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ERNO LASZLO/奥伦纳素",
-      "totalGmv": "663648000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "可复美",
-      "totalGmv": "524132500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "505013500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "+WIS+",
-      "totalGmv": "441747250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BIOHYALUX/润百颜",
-      "totalGmv": "439696500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CASSIEY cosmetics",
-      "totalGmv": "397836750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WINONA/薇诺娜",
-      "totalGmv": "383599750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PMPM/环球配方",
-      "totalGmv": "379298000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GALENIC/科兰黎",
-      "totalGmv": "352362000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CORLAINY/珂莱妮",
-      "totalGmv": "333743250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZHUBEN/逐本",
-      "totalGmv": "329137750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JEAND'ESTREES/让缇丝",
-      "totalGmv": "324531750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MARUBI/丸美",
-      "totalGmv": "309875000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MIANJISHIGUANG/面玑时光",
-      "totalGmv": "308316250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DNLNXIR/黛莱皙",
-      "totalGmv": "269389500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BIO-MESO肌活",
-      "totalGmv": "268484500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GUERLAIN/娇兰",
-      "totalGmv": "268227000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Dr.Alva/瑷尔博士",
-      "totalGmv": "267213250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "非凡颜",
-      "totalGmv": "265589750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "沭念",
-      "totalGmv": "263293500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EIIO/奕沃",
-      "totalGmv": "263064500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "仁和匠心",
-      "totalGmv": "260064000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "QuadHA/夸迪",
-      "totalGmv": "258468750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JOVISSE",
-      "totalGmv": "253492250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "云滋泉",
-      "totalGmv": "253311750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HFP",
-      "totalGmv": "251530750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZHIYOUMEI/植由美",
-      "totalGmv": "248875500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "A.IERVOLINO/艾伊维诺",
-      "totalGmv": "242393000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "植美馥予",
-      "totalGmv": "242279500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DERMABELL/德玛贝尔",
-      "totalGmv": "241012750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Betty Bonnie",
-      "totalGmv": "238697500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "素说美丽",
-      "totalGmv": "235611500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CLARINS/娇韵诗",
-      "totalGmv": "233480000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Hanhoo/韩后",
-      "totalGmv": "232073250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MedRepair/米蓓尔",
-      "totalGmv": "231614500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "IYIY",
-      "totalGmv": "231097250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YOU&PURE/羽素",
-      "totalGmv": "218298750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SHE LOG/稀物集",
-      "totalGmv": "214884250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PROF.LING/凌博士",
-      "totalGmv": "213098750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "肌肤未来",
-      "totalGmv": "212145750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Sulwhasoo/雪花秀",
-      "totalGmv": "207910500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "里季",
-      "totalGmv": "207229500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Voolga/敷尔佳",
-      "totalGmv": "205882250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "梦希蓝",
-      "totalGmv": "205440750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SHOYO",
-      "totalGmv": "204722250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Kiehl's/科颜氏",
-      "totalGmv": "200031000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "漠小曼",
-      "totalGmv": "197070750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柯琳妮尔",
-      "totalGmv": "195638500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DR.WU/达尔肤",
-      "totalGmv": "195349250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FRANIC/法兰琳卡",
-      "totalGmv": "192450500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LANTERN/兰亭",
-      "totalGmv": "180032000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "S MPCARE/溪木源",
-      "totalGmv": "176610000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AIJIFU/艾肌芙",
-      "totalGmv": "174975500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "OUDILIAN/欧蒂莲",
-      "totalGmv": "165952500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "塑醒",
-      "totalGmv": "162074500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "伊菲丹",
-      "totalGmv": "161989000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "修正",
-      "totalGmv": "159065500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "伊思芙",
-      "totalGmv": "157812500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UNIFON/御泥坊",
-      "totalGmv": "157683250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "雪柔雅",
-      "totalGmv": "156362250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "RNW/如薇",
-      "totalGmv": "154390000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MIGUHARA/咪咕哈啦",
-      "totalGmv": "153601000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AFU/阿芙",
-      "totalGmv": "153107000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奥兰芝",
-      "totalGmv": "151983000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Rellet/颐莲",
-      "totalGmv": "151261000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "C咖",
-      "totalGmv": "149902500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "芙清",
-      "totalGmv": "147946000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "普纤娜",
-      "totalGmv": "145186500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "bLaomyun/不老谜语",
-      "totalGmv": "141336000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HOLA/赫拉",
-      "totalGmv": "141076750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "富勒烯",
-      "totalGmv": "137888250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ABSOLUTE ROSE/玫瑰颂",
-      "totalGmv": "133262500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BIO LAB/听研",
-      "totalGmv": "132014250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "海蓝朵",
-      "totalGmv": "129685000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "轻氧",
-      "totalGmv": "126321000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SEYYER/皙玥",
-      "totalGmv": "126225750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LAN蘭",
-      "totalGmv": "124785000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FRASUXY/法素茜",
-      "totalGmv": "123833500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "迷奇",
-      "totalGmv": "123791000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Mignon maimai/米加",
-      "totalGmv": "121550500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "弥玥泉",
-      "totalGmv": "120039500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "焕享童颜",
-      "totalGmv": "119404000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GOOBEN/果本",
-      "totalGmv": "118837500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "瑜然美",
-      "totalGmv": "118260250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SHISEIDO/资生堂",
-      "totalGmv": "116402250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VILLA DECO'S/维娜氏",
-      "totalGmv": "115886750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LA ROCHE-POSAY/理肤泉",
-      "totalGmv": "114093250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Bojiyuan/泊肌原",
-      "totalGmv": "113557250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "水蔻妍",
-      "totalGmv": "112425750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Mask Family 1908/膜法世家",
-      "totalGmv": "110194500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BUV",
-      "totalGmv": "108099750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Hapsode/悦芙媞",
-      "totalGmv": "107702500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Elizabeth Arden/伊丽莎白雅顿",
-      "totalGmv": "107368750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GLOWSIS/光言",
-      "totalGmv": "106804000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "佩兰诗",
-      "totalGmv": "106117250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZIKE Up For L'Or/姿珂莱",
-      "totalGmv": "105103500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "COCOCHICOSME",
-      "totalGmv": "105103500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DK",
-      "totalGmv": "104082250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "苏小安妮",
-      "totalGmv": "103879500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SISLEY/希思黎",
-      "totalGmv": "102698750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AOPOLI/奥珀丽",
-      "totalGmv": "102341750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DCEXPORT",
-      "totalGmv": "101714000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "净芙哲学",
-      "totalGmv": "98150750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "银泰百货",
-      "totalGmv": "96807000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NACO",
-      "totalGmv": "96588750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "green farm/绿色农场",
-      "totalGmv": "96388750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FanBeautyDiary",
-      "totalGmv": "94250000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AlI Natural Advice/肌先知",
-      "totalGmv": "92878500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEICHIC/美诗",
-      "totalGmv": "91335000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Dr.zi",
-      "totalGmv": "91215750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PETERSON'S LAB/毕生之研",
-      "totalGmv": "89853000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "茜如娇",
-      "totalGmv": "89262000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美丽赞",
-      "totalGmv": "87470000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MGP/毛戈平",
-      "totalGmv": "86841500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "霸王",
-      "totalGmv": "85473500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "RUNXIQUAN/润熙泉",
-      "totalGmv": "85231500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WORLD HOLLME/后美国际",
-      "totalGmv": "85229000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Dr.Jart+/蒂佳婷",
-      "totalGmv": "84955000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "forest cabin/林清轩",
-      "totalGmv": "84259250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "丝塔芙",
-      "totalGmv": "83769000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Mistine/蜜丝婷",
-      "totalGmv": "83490000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "春日来信",
-      "totalGmv": "83458500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "恋姬",
-      "totalGmv": "81499000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GIK",
-      "totalGmv": "80998750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VENDOME AOYAMA",
-      "totalGmv": "80649250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TJE",
-      "totalGmv": "80151000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CEMOY",
-      "totalGmv": "80030000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "有美博士",
-      "totalGmv": "79116750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "娅芝",
-      "totalGmv": "79033000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "达肤妍",
-      "totalGmv": "77800000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JOYRUQO/娇润泉",
-      "totalGmv": "77427000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Ositree/柳丝木",
-      "totalGmv": "76412000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BIODERMA/贝德玛",
-      "totalGmv": "74383000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "mysteydoctor/神秘博士",
-      "totalGmv": "74204750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "德美乐嘉",
-      "totalGmv": "73401250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "纯妆",
-      "totalGmv": "73300000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "蔓奢",
-      "totalGmv": "72267000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "INOHERB/相宜本草",
-      "totalGmv": "72168250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Filorga/菲洛嘉",
-      "totalGmv": "71550500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "A.H.C/爱和纯",
-      "totalGmv": "71257250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "德妃",
-      "totalGmv": "70610500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WETHERM/温碧泉",
-      "totalGmv": "69839250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AUPRES/欧珀莱",
-      "totalGmv": "69507750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CLÉ DE PEAU BEAUTÉ/肌肤之钥",
-      "totalGmv": "68850500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "auou/艾遇",
-      "totalGmv": "67971000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CocoBrownie",
-      "totalGmv": "67586500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "可丽金",
-      "totalGmv": "67530000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Cloris Land/花皙蔻",
-      "totalGmv": "67039000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FanBeautySecret",
-      "totalGmv": "66981750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "XIANFEIGE/仙妃格",
-      "totalGmv": "66634500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "轻龄大师",
-      "totalGmv": "66517250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "kangaroo mommy/袋鼠妈妈",
-      "totalGmv": "65790000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BEYOANE/必扬",
-      "totalGmv": "64232750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "可卡莉",
-      "totalGmv": "63999750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "温博士",
-      "totalGmv": "63678000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DAANMEIJI/达安美玑",
-      "totalGmv": "62832000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LA BIOSTHETIQUE/贝伊丝",
-      "totalGmv": "62412500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ARgENTUM/欧臻廷",
-      "totalGmv": "60969250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "cosmetic/希妍萃",
-      "totalGmv": "60835000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "法莫娜",
-      "totalGmv": "60624250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "素玳",
-      "totalGmv": "60191500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珂纯",
-      "totalGmv": "59431250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WETCODE/水密码",
-      "totalGmv": "59271000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UNISKIN/优时颜",
-      "totalGmv": "58492500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "碧泉之花",
-      "totalGmv": "57129500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Thanmelin/梵蜜琳",
-      "totalGmv": "56947000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "植物医生",
-      "totalGmv": "56601750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Freeplus/芙丽芳丝",
-      "totalGmv": "56283250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Skinceuticals/修丽可",
-      "totalGmv": "56234250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WATERKYAH/水蔻妍",
-      "totalGmv": "54968000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YA-MAN/雅萌",
-      "totalGmv": "54029000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "水微记",
-      "totalGmv": "53868500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CeraVe/适乐肤",
-      "totalGmv": "53824500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": " iapetus/小野拓司",
-      "totalGmv": "53718000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VENZEN/梵贞",
-      "totalGmv": "53619000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JYVI/真怡美",
-      "totalGmv": "53322250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SNEFE/雪玲妃",
-      "totalGmv": "53203250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "今尚美",
-      "totalGmv": "50773000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WANBANWEIYAN",
-      "totalGmv": "50709500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Dr.Yu/玉泽",
-      "totalGmv": "50472000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "泉兮",
-      "totalGmv": "50377500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Fan Beauty Diary/美黎汎",
-      "totalGmv": "50357250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "茂业百货",
-      "totalGmv": "50308000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEIFUBAO/美肤宝",
-      "totalGmv": "49025250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "pulchra",
-      "totalGmv": "47988750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HUNGCHI/红之",
-      "totalGmv": "47647250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "大水滴",
-      "totalGmv": "47311250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Elixir/怡丽丝尔",
-      "totalGmv": "46485000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "La Estephe/瑞斯美",
-      "totalGmv": "45485500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UZU",
-      "totalGmv": "45231000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PIBAMY/比芭美\t",
-      "totalGmv": "45037500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AOEO",
-      "totalGmv": "44845500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EAU THERMALE AVENE/雅漾",
-      "totalGmv": "44810250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "兰奈儿",
-      "totalGmv": "44610000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AVGULOY/阿古丽娅",
-      "totalGmv": "43874500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "KIMTRUE/且初",
-      "totalGmv": "43699750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FANSHIDI/梵诗笛",
-      "totalGmv": "43225000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SPAMASTER",
-      "totalGmv": "43045750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧佩",
-      "totalGmv": "42003750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "uluka",
-      "totalGmv": "41976500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Casmara",
-      "totalGmv": "41614750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "C2U",
-      "totalGmv": "41159250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "斯内普",
-      "totalGmv": "40402500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HERCODO/草安堂",
-      "totalGmv": "40258000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DR.CI:LABO/城野医生",
-      "totalGmv": "39556500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "倾姿堂",
-      "totalGmv": "38884250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "贝诗佳",
-      "totalGmv": "38762500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "徐海莉",
-      "totalGmv": "37866500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WEI EAST/蔚伊思",
-      "totalGmv": "37711750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "geoskincare/纽西之谜",
-      "totalGmv": "37269750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Hanfu Cellion/韩夫生",
-      "totalGmv": "37032500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "OGM",
-      "totalGmv": "36799250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "boben/泊本",
-      "totalGmv": "36472750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "花恩诗",
-      "totalGmv": "36114000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "一叶子",
-      "totalGmv": "35936750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柏晶",
-      "totalGmv": "35920500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "COGI/高姿",
-      "totalGmv": "35890250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YAN CHUN TANG/研春堂",
-      "totalGmv": "35688500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "RUIDU/芮度",
-      "totalGmv": "35553500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Honey Snow/透蜜",
-      "totalGmv": "34980250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "臻羞",
-      "totalGmv": "34625500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEYRUEiS/玫瑞艾诗",
-      "totalGmv": "34221250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "俏芭莎",
-      "totalGmv": "34158500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "孚登",
-      "totalGmv": "33708000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BANI/芭妮",
-      "totalGmv": "33610250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Moritek/魔丽黛珂",
-      "totalGmv": "33572000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SKINO/肌漾",
-      "totalGmv": "33558250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奢莱谜",
-      "totalGmv": "33393000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "润颜",
-      "totalGmv": "33067500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LANEIGE/兰芝",
-      "totalGmv": "32771500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "森迷",
-      "totalGmv": "32757500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "优理氏",
-      "totalGmv": "32562250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Farmacy",
-      "totalGmv": "32412500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "RIBeCS/伊贝诗",
-      "totalGmv": "32090750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MELLESH/益若翼",
-      "totalGmv": "31935000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZIBOXI/姿铂希",
-      "totalGmv": "31548500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ROCKING ZOO/摇滚动物园",
-      "totalGmv": "30938000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "趣乐活",
-      "totalGmv": "30545000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "秘菲伊",
-      "totalGmv": "30315500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YaMaLiSha/亚玛莉莎",
-      "totalGmv": "30147500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "森珂",
-      "totalGmv": "29801750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SIKN",
-      "totalGmv": "29771500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MissVnine",
-      "totalGmv": "29617750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "创福康",
-      "totalGmv": "29375000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DT",
-      "totalGmv": "29269750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YSL/圣罗兰",
-      "totalGmv": "29235750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "芸香树",
-      "totalGmv": "29056500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WANMEITINA/完美缇娜",
-      "totalGmv": "28310750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Ble de Fonty/枫缇",
-      "totalGmv": "28270000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "万物秀",
-      "totalGmv": "28207750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "诗黛尔",
-      "totalGmv": "28044750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ECOOKING/依蔻庭",
-      "totalGmv": "27483000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "芙清密钥",
-      "totalGmv": "26873000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VT/薇缔",
-      "totalGmv": "26777250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DR+LAB/德莱博",
-      "totalGmv": "26052500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "IEM/爱怡美",
-      "totalGmv": "25980000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YOUNGMAY/样美",
-      "totalGmv": "25785250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GENLESE/真丽斯",
-      "totalGmv": "25640750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "茵芙莎",
-      "totalGmv": "25610750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Mageline/麦吉丽",
-      "totalGmv": "25515750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "潘达",
-      "totalGmv": "25308500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HANXI/韩熙",
-      "totalGmv": "24776500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "贝润",
-      "totalGmv": "24510000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "香娜露儿",
-      "totalGmv": "24161000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JUELREOU/朱莉欧",
-      "totalGmv": "24069500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "月明微露",
-      "totalGmv": "23814750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MIDFLOWER/午花",
-      "totalGmv": "23627000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MONSTER CODE/野兽代码",
-      "totalGmv": "23540250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "POLA/宝丽",
-      "totalGmv": "23203500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Boke.Ruer/博卡瑞尔",
-      "totalGmv": "23178000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珂润",
-      "totalGmv": "23094000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LANYAN/兰研",
-      "totalGmv": "23026500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "INNOAESTHETICS",
-      "totalGmv": "22788500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "utin/予田",
-      "totalGmv": "22690000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "婷美",
-      "totalGmv": "22662500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VAA",
-      "totalGmv": "22390250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEDATURE",
-      "totalGmv": "22026250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Little Dream Garden/半亩花田",
-      "totalGmv": "22002000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "臻雅小铺",
-      "totalGmv": "21942000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "悦薇",
-      "totalGmv": "21858500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ONCUR/安修泽",
-      "totalGmv": "21805500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "倾龄",
-      "totalGmv": "21729000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EVE CHARM/伊肤泉",
-      "totalGmv": "21566500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SHREDA/诠润",
-      "totalGmv": "21454250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "索诗蔻",
-      "totalGmv": "21366500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Herborist/佰草集",
-      "totalGmv": "21222750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "repacell/瑞铂希",
-      "totalGmv": "21153000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "花月情",
-      "totalGmv": "21090500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LVZ",
-      "totalGmv": "20824250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "凯诗薇",
-      "totalGmv": "20732000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DEEP-BIO",
-      "totalGmv": "20719500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "递欧",
-      "totalGmv": "20666000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LAHCFITE",
-      "totalGmv": "20225000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "L’ANUOR/兰诺儿",
-      "totalGmv": "19975500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FENTINY/芬缇妮",
-      "totalGmv": "19794000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "悦木之源",
-      "totalGmv": "19735000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Cedor Facial/皙岛",
-      "totalGmv": "19457000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "艾小菲",
-      "totalGmv": "19277000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Cistto/肤见",
-      "totalGmv": "19190000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "泊妮",
-      "totalGmv": "19164500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "REPECHAGE/瑞波琴",
-      "totalGmv": "19076000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柳希",
-      "totalGmv": "18957500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "934",
-      "totalGmv": "18818000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "春雨",
-      "totalGmv": "18802000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "菜鸟和配方师",
-      "totalGmv": "18771750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珀丽兰",
-      "totalGmv": "18749500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CILIAN/瓷恋",
-      "totalGmv": "18681500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "迪奥",
-      "totalGmv": "18658000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "spring summer",
-      "totalGmv": "18613500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DAI AN DI/黛安蒂",
-      "totalGmv": "18429000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SANSHI",
-      "totalGmv": "18156000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "唯品会",
-      "totalGmv": "17994000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DERRPHA/黛尔法",
-      "totalGmv": "17988000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MIORIO/米澳拉",
-      "totalGmv": "17894750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "花田玑密",
-      "totalGmv": "17819500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CERLINSE NEREIS",
-      "totalGmv": "17808000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "丸蜜",
-      "totalGmv": "17673500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "德国O家",
-      "totalGmv": "17420000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "REAM",
-      "totalGmv": "17416000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "luara",
-      "totalGmv": "17393250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Clinique/倩碧",
-      "totalGmv": "17370750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "joajota",
-      "totalGmv": "17339250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "修莱雅",
-      "totalGmv": "17251250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MAGEC/芊茗草",
-      "totalGmv": "17224000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEDIHEAL/美迪惠尔",
-      "totalGmv": "17212000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MAYBELLINE/美宝莲",
-      "totalGmv": "17209750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "里子面子",
-      "totalGmv": "17191500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "保加利亚玫瑰",
-      "totalGmv": "16773500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AROMATHERAPY/小尼芳香",
-      "totalGmv": "16556500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "绿毛怪怪",
-      "totalGmv": "16538000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "斐丽",
-      "totalGmv": "16488000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EUCERIN/优色林",
-      "totalGmv": "16217500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AILISIMENGLU/爱丽斯梦露",
-      "totalGmv": "16174000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "高夫",
-      "totalGmv": "16163500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GIOE",
-      "totalGmv": "16054500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WUYU/无语",
-      "totalGmv": "16009250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珂尼娜",
-      "totalGmv": "15967500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DR.LPX",
-      "totalGmv": "15916500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "华科美妍",
-      "totalGmv": "15850000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LANZHAUNG/兰妆",
-      "totalGmv": "15632250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DAISY SKY/雏菊的天空",
-      "totalGmv": "15538250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UNIMAKE",
-      "totalGmv": "15353500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "KAHI",
-      "totalGmv": "15256250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BMBM",
-      "totalGmv": "15195000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "优姿婷",
-      "totalGmv": "14750250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "水之印",
-      "totalGmv": "14492500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "光希",
-      "totalGmv": "14433250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "露皙兰",
-      "totalGmv": "14429750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EPRHAN/伊帕尔汗",
-      "totalGmv": "14424750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "荷诺",
-      "totalGmv": "14318000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "佰欧美",
-      "totalGmv": "14021250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Eaoron/澳容",
-      "totalGmv": "13993500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NULAITE/纽莱伊美\t",
-      "totalGmv": "13852250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HUNMUI\\韩伦美羽",
-      "totalGmv": "13820500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "长发小寨",
-      "totalGmv": "13746000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BIOEFFECT/蓓欧菲",
-      "totalGmv": "13660500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YECFORKOU/伊芙蔻",
-      "totalGmv": "13470000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "menglijiao/梦莉娇",
-      "totalGmv": "13426500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "薇姿",
-      "totalGmv": "13424000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "海洋日记",
-      "totalGmv": "13332000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "白云山",
-      "totalGmv": "13297000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "凯膜",
-      "totalGmv": "13218750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Gillette/吉列",
-      "totalGmv": "13201750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "本肤堂",
-      "totalGmv": "13151250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "龄丹",
-      "totalGmv": "13059750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "优肌源",
-      "totalGmv": "13019500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Schnaphil+/施奈芙",
-      "totalGmv": "12969250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JIAOCHAN/娇婵",
-      "totalGmv": "12909000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HÉRAIR",
-      "totalGmv": "12829750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CQRZEN",
-      "totalGmv": "12827000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "露得清",
-      "totalGmv": "12812000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Biocyte",
-      "totalGmv": "12783750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "黑秀芳",
-      "totalGmv": "12750500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "维艾",
-      "totalGmv": "12600000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "川奈之汀",
-      "totalGmv": "12515000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TOOJA/玳珈",
-      "totalGmv": "12479500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "澳雯丽",
-      "totalGmv": "12469500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "形象美",
-      "totalGmv": "12428000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "苾莱宝",
-      "totalGmv": "12272000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LUCENBASE/透真",
-      "totalGmv": "12261500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SiLiLAN/斯丽兰",
-      "totalGmv": "12231250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "片仔癀",
-      "totalGmv": "12104500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "透丽可",
-      "totalGmv": "12103750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "大曾",
-      "totalGmv": "12059000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "百奈子",
-      "totalGmv": "11988000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Shiyating/诗雅婷",
-      "totalGmv": "11804000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "郭文英",
-      "totalGmv": "11757000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PMPM",
-      "totalGmv": "11748500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DIZINY/媂姿尼",
-      "totalGmv": "11669500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "一盟",
-      "totalGmv": "11646750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EITIKO",
-      "totalGmv": "11566750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Fresh/馥蕾诗",
-      "totalGmv": "11558500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Fonce/梵西",
-      "totalGmv": "11526000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "纯妈",
-      "totalGmv": "11444500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CLNR",
-      "totalGmv": "11430000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "莱菲思",
-      "totalGmv": "11420000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "RILASTIL/俪纳斯",
-      "totalGmv": "11415000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LADYOU",
-      "totalGmv": "11407000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SAL-VENTO/莎雯",
-      "totalGmv": "11405000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HCC",
-      "totalGmv": "11259500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧邦琪",
-      "totalGmv": "11062000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Geboline/歌宝莲",
-      "totalGmv": "11057000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Sephora/丝芙兰",
-      "totalGmv": "10963750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PURID",
-      "totalGmv": "10902250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧美莲",
-      "totalGmv": "10841048"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EveLom",
-      "totalGmv": "10657250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡夫哲",
-      "totalGmv": "10618250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Nivea/妮维雅",
-      "totalGmv": "10511000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "沫润",
-      "totalGmv": "10415500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "医肌颜",
-      "totalGmv": "10394500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VIRIDIS/薇芮氏",
-      "totalGmv": "10357250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "雅琴",
-      "totalGmv": "10350000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DAISENNI/黛森妮",
-      "totalGmv": "10324250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JAYJUN/捷俊",
-      "totalGmv": "10301750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "sepai",
-      "totalGmv": "10296000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "艾天然",
-      "totalGmv": "10060750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ALLL BEAUTY",
-      "totalGmv": "9938500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "韩昱",
-      "totalGmv": "9921000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DYZ",
-      "totalGmv": "9861000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "罗美诗",
-      "totalGmv": "9857000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FCX",
-      "totalGmv": "9777250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BOTECACH/宝缇卡",
-      "totalGmv": "9760000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DPU/简初",
-      "totalGmv": "9756000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美其肤",
-      "totalGmv": "9730250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "红地球",
-      "totalGmv": "9669750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "质润",
-      "totalGmv": "9613750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MIUNICO",
-      "totalGmv": "9537500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "COCOCHI",
-      "totalGmv": "9431000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ICEGROUND",
-      "totalGmv": "9427500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "IDFAN/伊蒂凡",
-      "totalGmv": "9419500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JMsolution/肌司研",
-      "totalGmv": "9415250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "一期一会",
-      "totalGmv": "9372500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "XiLa/夕拉",
-      "totalGmv": "9272500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LIFUSHA/黎芙莎",
-      "totalGmv": "9265000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奥格",
-      "totalGmv": "9223500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZUASHA/妆上",
-      "totalGmv": "9148000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "契尔氏",
-      "totalGmv": "9042000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Éclat du teint/艾克拉迪丹",
-      "totalGmv": "9002000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "悉诗",
-      "totalGmv": "8886500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奇丽乙",
-      "totalGmv": "8833000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NEWASPECT",
-      "totalGmv": "8785000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "名美人",
-      "totalGmv": "8738000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "gushiyuta/故事与她",
-      "totalGmv": "8686000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Latery/蓝特莉",
-      "totalGmv": "8668500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TWG",
-      "totalGmv": "8627500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SEOMOU/施逅",
-      "totalGmv": "8518250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ETAT PUR/艾达璞",
-      "totalGmv": "8470000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "cellcosmet/瑞妍",
-      "totalGmv": "8467000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珀澜",
-      "totalGmv": "8355000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SONGZHIXIAYUAN/宋知夏苑",
-      "totalGmv": "8323750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VITREGEN/芮生",
-      "totalGmv": "8255750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GN Pearl/京润珍珠",
-      "totalGmv": "8249000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BrLab/蓓安亲研",
-      "totalGmv": "8191500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "白白日记",
-      "totalGmv": "8187500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "庆翠堂",
-      "totalGmv": "8065000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "COSME DECORTE/黛珂",
-      "totalGmv": "7998250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Elizabeth Jane",
-      "totalGmv": "7995000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "REVERSE/逆龄",
-      "totalGmv": "7989000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "娅莹",
-      "totalGmv": "7987000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "蝶莲娜",
-      "totalGmv": "7930000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "KIBONCY",
-      "totalGmv": "7875000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "飞天牡丹",
-      "totalGmv": "7867500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Greenfield Fairy/绿野芳踪",
-      "totalGmv": "7843000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MORRISBELLA/慕诗贝拉",
-      "totalGmv": "7843000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TQDAN/天气丹",
-      "totalGmv": "7837500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FV",
-      "totalGmv": "7812500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Romasin/若美欣",
-      "totalGmv": "7747000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DR.COSSET",
-      "totalGmv": "7704500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美蒂菲",
-      "totalGmv": "7639000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ULY",
-      "totalGmv": "7628000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "L ADORE COLORS/烙色",
-      "totalGmv": "7603000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "济仁堂",
-      "totalGmv": "7593750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Leiws/贝维诗",
-      "totalGmv": "7562500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AB.LAB",
-      "totalGmv": "7560000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "原生密码",
-      "totalGmv": "7500000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "慕特博士",
-      "totalGmv": "7448000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ROYAL.SWIFT",
-      "totalGmv": "7436750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "仪禾生物",
-      "totalGmv": "7417250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "妍绮",
-      "totalGmv": "7386250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BELNATUR/贝纳杜",
-      "totalGmv": "7310500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡芙漫",
-      "totalGmv": "7291000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "赫宝仙媞",
-      "totalGmv": "7231000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "赫妮雅",
-      "totalGmv": "7190000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "龙哥说",
-      "totalGmv": "7180000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DXV/定效维",
-      "totalGmv": "7170000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MDB",
-      "totalGmv": "7150000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "OPEN CARE",
-      "totalGmv": "7130000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "碧欧泉",
-      "totalGmv": "7118500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NIANCE",
-      "totalGmv": "7103500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CHAEYFULLY/沁芙丽",
-      "totalGmv": "7046000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "贝玲美",
-      "totalGmv": "7035250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EVE LOM",
-      "totalGmv": "6967000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AUGUSTINUS BADER/奥古斯汀·巴德",
-      "totalGmv": "6960000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Intime department store/银泰百货",
-      "totalGmv": "6917750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Longrich/隆力奇",
-      "totalGmv": "6863000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "maplebio/枫萃",
-      "totalGmv": "6856500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "水钻白",
-      "totalGmv": "6819000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡尔曼尼",
-      "totalGmv": "6776000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美颜坊",
-      "totalGmv": "6748000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "倾颜",
-      "totalGmv": "6720000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "皮宝",
-      "totalGmv": "6714500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Leaf Simple/简单叶子",
-      "totalGmv": "6700000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GELLE FRERES/婕珞芙",
-      "totalGmv": "6695250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ARMIYO/安敏优",
-      "totalGmv": "6628000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奥尔滨",
-      "totalGmv": "6621000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UNEGRS/悠妮丝",
-      "totalGmv": "6556000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "梦蔻",
-      "totalGmv": "6552000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "芭妮兰",
-      "totalGmv": "6549000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TDICI/天地慈",
-      "totalGmv": "6523500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "佩妮",
-      "totalGmv": "6423000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HARUKI",
-      "totalGmv": "6407000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PROTVEAGA/护肤龄",
-      "totalGmv": "6400250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CODE MINT/纨素之肤",
-      "totalGmv": "6397750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "云南本草",
-      "totalGmv": "6374000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "okayisyo/桜花抄",
-      "totalGmv": "6351500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Binarix/悦慕心情",
-      "totalGmv": "6327500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MAORENTANG/茅仁堂",
-      "totalGmv": "6282750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "致己新颜",
-      "totalGmv": "6246000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "肽润",
-      "totalGmv": "6184000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "fanbeauty",
-      "totalGmv": "6183500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Hi!papa/海龟爸爸",
-      "totalGmv": "6178500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "unlabel/恩蕾柏",
-      "totalGmv": "6131000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奥蜜思",
-      "totalGmv": "6127500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "羽西",
-      "totalGmv": "6065750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NFX/纳芳香",
-      "totalGmv": "6055250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "绽媄娅",
-      "totalGmv": "6040000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AMIIR/艾米尔",
-      "totalGmv": "6035500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "拉普瑞斯",
-      "totalGmv": "6025500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HETN",
-      "totalGmv": "5995000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧敏肤",
-      "totalGmv": "5951250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "旁氏",
-      "totalGmv": "5940500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YINBA/茵芭",
-      "totalGmv": "5890500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VANESSA MATTIA",
-      "totalGmv": "5890250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "甄然",
-      "totalGmv": "5872000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SHUNZITANG/舜姿堂",
-      "totalGmv": "5871000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "玫源",
-      "totalGmv": "5828750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "科蕴兰",
-      "totalGmv": "5772000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Epson/爱普生",
-      "totalGmv": "5687500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "丽得姿",
-      "totalGmv": "5618500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "嫒碧知",
-      "totalGmv": "5599250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "博乐达",
-      "totalGmv": "5576000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VSH/薇氏赫尔",
-      "totalGmv": "5524000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VIDIVICI",
-      "totalGmv": "5504250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "植由美",
-      "totalGmv": "5497000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "书呆子",
-      "totalGmv": "5486000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "安芝秀",
-      "totalGmv": "5450500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FAN BEAUTY SECRET",
-      "totalGmv": "5407000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CHAIRN/婵润",
-      "totalGmv": "5260000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Dr.Hiseki",
-      "totalGmv": "5132500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MixXlaboratory",
-      "totalGmv": "5078000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "芙芙",
-      "totalGmv": "5075000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美丽音符",
-      "totalGmv": "5050000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LUOESVTEN/露伊薇丹",
-      "totalGmv": "5040000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LABORATOIREDERMATOLOGIQUEACM",
-      "totalGmv": "4964000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "臻萃",
-      "totalGmv": "4920000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Chapter VII/第七章",
-      "totalGmv": "4870000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NIHPLOD",
-      "totalGmv": "4864000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "百洛",
-      "totalGmv": "4832000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HIH",
-      "totalGmv": "4793000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ReFa MIST",
-      "totalGmv": "4786500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AIFUBAO/艾肤宝",
-      "totalGmv": "4759000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "水言",
-      "totalGmv": "4729000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "澳斯莱卡",
-      "totalGmv": "4688000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Stee Hill/溯华",
-      "totalGmv": "4643500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Heir Cosmetics/赫艾迩",
-      "totalGmv": "4596250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "御萃泉",
-      "totalGmv": "4594500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "品绣玫瑰",
-      "totalGmv": "4570000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DT/DT",
-      "totalGmv": "4555000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LUCYOMILMAR/露西密码",
-      "totalGmv": "4472500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "自然之名",
-      "totalGmv": "4442500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡秀",
-      "totalGmv": "4427500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卓菲亚",
-      "totalGmv": "4407500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "古缇娜",
-      "totalGmv": "4400500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VOLAYON/沃拉勇",
-      "totalGmv": "4397500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "瓷雅",
-      "totalGmv": "4360000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HeBiQuan/赫·碧·泉",
-      "totalGmv": "4347500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BOLIYAN/泊丽颜",
-      "totalGmv": "4330000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "倾纯",
-      "totalGmv": "4327500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "安瓶博士",
-      "totalGmv": "4321000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "今升有你",
-      "totalGmv": "4291000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "芝碧",
-      "totalGmv": "4277750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ticify",
-      "totalGmv": "4247500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "久韵",
-      "totalGmv": "4245000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "拾颜",
-      "totalGmv": "4200000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BOTEX/泊蝶",
-      "totalGmv": "4170000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "N°26",
-      "totalGmv": "4162500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Reveda/悦肤达",
-      "totalGmv": "4142500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "露丝年华",
-      "totalGmv": "4070000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DC EXPORT",
-      "totalGmv": "4057000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MUYAN/目颜",
-      "totalGmv": "4047000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "天芮",
-      "totalGmv": "4027500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DR.CHUNYANG",
-      "totalGmv": "4012500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YANCHUNXI/颜纯皙",
-      "totalGmv": "3927500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ME XIXI/美夕夕",
-      "totalGmv": "3925500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VOGYJM/永九美",
-      "totalGmv": "3914250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TIMIERMAGIC",
-      "totalGmv": "3911000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FOR FUN/肤梵",
-      "totalGmv": "3870000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "萃然美",
-      "totalGmv": "3830500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "芊小白",
-      "totalGmv": "3792500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "悦诗风吟",
-      "totalGmv": "3766500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "贝雅欧若拉",
-      "totalGmv": "3765000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珂诗媞",
-      "totalGmv": "3705750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MDB化妆品",
-      "totalGmv": "3664500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "IntoBeauty",
-      "totalGmv": "3615000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "慕拉得",
-      "totalGmv": "3555000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YUYING/御影",
-      "totalGmv": "3544500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "花印",
-      "totalGmv": "3522000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "婷美小屋",
-      "totalGmv": "3500000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GIORGIO ARMANI/阿玛尼",
-      "totalGmv": "3482000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GESCAS",
-      "totalGmv": "3481000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "皙活",
-      "totalGmv": "3438000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "安素可",
-      "totalGmv": "3419000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "E'CLOT",
-      "totalGmv": "3407000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "莱姿妍",
-      "totalGmv": "3403000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "臻享",
-      "totalGmv": "3366000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Farberly/法伯丽",
-      "totalGmv": "3329000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "多姿琳",
-      "totalGmv": "3311000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SALMON",
-      "totalGmv": "3311000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "GEEZCI",
-      "totalGmv": "3286000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "XICIQUEEN/茜茜王妃",
-      "totalGmv": "3281000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TJOY/丁家宜",
-      "totalGmv": "3275000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "URBANEST TO BE A PART OF NATURE",
-      "totalGmv": "3266000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ontop",
-      "totalGmv": "3244000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "黛莱颜",
-      "totalGmv": "3242000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Perfect One/帕妃雯",
-      "totalGmv": "3242000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "安多可",
-      "totalGmv": "3228000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZKYO",
-      "totalGmv": "3218000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "云微冠",
-      "totalGmv": "3213000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "森龄日志",
-      "totalGmv": "3208000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "绽妍",
-      "totalGmv": "3196000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "蔻花妍",
-      "totalGmv": "3179000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "境生之源",
-      "totalGmv": "3177000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "U牌",
-      "totalGmv": "3176000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HAA",
-      "totalGmv": "3176000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MIZIYA/谜姿雅",
-      "totalGmv": "3161000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Cassiey",
-      "totalGmv": "3153000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BAIYANSHI/柏妍士",
-      "totalGmv": "3151000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CASSIEY COSMETICE",
-      "totalGmv": "3145000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "春露",
-      "totalGmv": "3126000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Shinyakoso/新谷酵素",
-      "totalGmv": "3110000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "秘祝",
-      "totalGmv": "3073000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Spa treatment/的葩",
-      "totalGmv": "3056000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奢婷 RALUXET",
-      "totalGmv": "3046000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SAMANLI/莎曼莉",
-      "totalGmv": "3044000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "魅伶纱",
-      "totalGmv": "3038000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美迪智",
-      "totalGmv": "3032500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TUNEMAKERS",
-      "totalGmv": "3031750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "仙花秀",
-      "totalGmv": "3026500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DHC/蝶翠诗",
-      "totalGmv": "3005000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "善草纪",
-      "totalGmv": "2996000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PEHCHAOLIN/百雀羚",
-      "totalGmv": "2989250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "法朗丝",
-      "totalGmv": "2988000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CMFM",
-      "totalGmv": "2985000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "梨花",
-      "totalGmv": "2977000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Clio/珂莱欧",
-      "totalGmv": "2975000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "葆玛之谜",
-      "totalGmv": "2972000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Daera",
-      "totalGmv": "2965750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZFB",
-      "totalGmv": "2963250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "自然之谜",
-      "totalGmv": "2961750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "biocyte/碧维斯",
-      "totalGmv": "2931000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BEVNAIVZ/蓓奈姿",
-      "totalGmv": "2854000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "安捷莉娜",
-      "totalGmv": "2848250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柏瑞特",
-      "totalGmv": "2846500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "宫廷印象",
-      "totalGmv": "2835000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "秘造",
-      "totalGmv": "2828500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珂蒂丝",
-      "totalGmv": "2825000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Ms.Su/蜜愫",
-      "totalGmv": "2808500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "B Barij/巴莉哲",
-      "totalGmv": "2800000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "REAL FARMASI",
-      "totalGmv": "2772250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "蒂安纳",
-      "totalGmv": "2771500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MPOP",
-      "totalGmv": "2769500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "瑞珂",
-      "totalGmv": "2755500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "享简单",
-      "totalGmv": "2753750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柏资兰",
-      "totalGmv": "2723750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FACIPHER/研译",
-      "totalGmv": "2713000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BAIFUMARY/白芙美",
-      "totalGmv": "2701750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Cel Plenty",
-      "totalGmv": "2681750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "coco brownie/可莱尼",
-      "totalGmv": "2677750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Anbarry/安蓓芮",
-      "totalGmv": "2675000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "魅弋",
-      "totalGmv": "2662750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧春秀",
-      "totalGmv": "2661750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "STGERNAN/圣歌娜",
-      "totalGmv": "2659750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "叶仙妍",
-      "totalGmv": "2648250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "英树",
-      "totalGmv": "2640000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "植村秀",
-      "totalGmv": "2629750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HOTREND",
-      "totalGmv": "2590500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "泊安丝娜",
-      "totalGmv": "2574500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JACOB HOOY/雅歌布",
-      "totalGmv": "2566250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NHFOUYOU",
-      "totalGmv": "2560000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YOSEIDO/养生堂",
-      "totalGmv": "2523500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "伊露莹",
-      "totalGmv": "2505000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "仁和",
-      "totalGmv": "2503000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Let's Ting/黎施汀",
-      "totalGmv": "2475000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SOLIZI/索丽姿",
-      "totalGmv": "2457500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "L'occitane/欧舒丹",
-      "totalGmv": "2445000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UIR",
-      "totalGmv": "2401500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "急救美人",
-      "totalGmv": "2329500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "雅歌",
-      "totalGmv": "2308500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "牛尔",
-      "totalGmv": "1953000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "肌盈",
-      "totalGmv": "1882000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "泉之映",
-      "totalGmv": "1800000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "OGP/时光肌",
-      "totalGmv": "1798000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "焕颜计",
-      "totalGmv": "1797000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "倾凡",
-      "totalGmv": "1787000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ATHURKIN/肤瑟",
-      "totalGmv": "1782000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MIRIAM QUEVEDO/迷莲卡薇",
-      "totalGmv": "1774000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧束菲",
-      "totalGmv": "1774000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "宝拉珍选",
-      "totalGmv": "1772000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "健养时佳",
-      "totalGmv": "1758000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CHOUOHC",
-      "totalGmv": "1758000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UWHITE",
-      "totalGmv": "1756000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "草安堂",
-      "totalGmv": "1746000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "寻荟记",
-      "totalGmv": "1745000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "艾薇柯",
-      "totalGmv": "1740000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AIVI",
-      "totalGmv": "1737000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "THE GINZA",
-      "totalGmv": "1730000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CC/茜茜焕颜",
-      "totalGmv": "1726000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FERLUNA",
-      "totalGmv": "1726000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "野菜",
-      "totalGmv": "1722000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MAPUTI/玛朴缇",
-      "totalGmv": "1721000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CLAUDIUS/珂洛帝斯",
-      "totalGmv": "1713000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEKINE/美姿媛",
-      "totalGmv": "1713000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "树予",
-      "totalGmv": "1712000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PUGEE",
-      "totalGmv": "1709000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "潘婷",
-      "totalGmv": "1707000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "阿底提",
-      "totalGmv": "1699000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DIVECOKE/蒂妃珂",
-      "totalGmv": "1699000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "life share/爱熙",
-      "totalGmv": "1698000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BROLAMEN",
-      "totalGmv": "1696000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ITRIM",
-      "totalGmv": "1696000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "药都仁和",
-      "totalGmv": "1695000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "颜安堂",
-      "totalGmv": "1690000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "sovz/圣欧威",
-      "totalGmv": "1687000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AOLANSU/奥兰素",
-      "totalGmv": "1685000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NOWLOVE/惜玥",
-      "totalGmv": "1676000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "玛俪雅顿",
-      "totalGmv": "1672500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "思薇婷",
-      "totalGmv": "1670000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZetianEmpress/则天女皇 专注精致生活",
-      "totalGmv": "1665000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CHIOTURE/稚优泉",
-      "totalGmv": "1665000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧贝姿",
-      "totalGmv": "1664000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Vliland",
-      "totalGmv": "1663000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "HUAZHIMEI/花之玫",
-      "totalGmv": "1663000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Beauty Charge",
-      "totalGmv": "1662000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "欧曼芬",
-      "totalGmv": "1657000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "miss pudding/布丁小姐",
-      "totalGmv": "1653000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "天纵易康益肤",
-      "totalGmv": "1648000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FELEE/斐丽",
-      "totalGmv": "1646000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡夫",
-      "totalGmv": "1645000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AISUANIS/艾酸氏",
-      "totalGmv": "1645000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TAKAMI",
-      "totalGmv": "1643000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ONLYRAN/奥洛颜",
-      "totalGmv": "1640000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PILLBOX",
-      "totalGmv": "1640000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YOUNCY/云锦熙",
-      "totalGmv": "1639000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JOEGOK/乔丝蔻",
-      "totalGmv": "1637000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FLORA'S SECRET",
-      "totalGmv": "1635000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "瑞沛",
-      "totalGmv": "1631000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Jo Kari/喬凱麗",
-      "totalGmv": "1630000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "珀芙研",
-      "totalGmv": "1629000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "冰露",
-      "totalGmv": "1628000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "兰肌",
-      "totalGmv": "1628000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DERMAFIX",
-      "totalGmv": "1627000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "mingqian/名茜",
-      "totalGmv": "1622000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "自然个性",
-      "totalGmv": "1622000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "allcura",
-      "totalGmv": "1617000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BIAOQUAN/碧奥泉",
-      "totalGmv": "1614000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "韩泰美",
-      "totalGmv": "1612000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ELEVATIONE",
-      "totalGmv": "1611000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AHAVA",
-      "totalGmv": "1611000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡芙兰",
-      "totalGmv": "1609000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JIESI/婕斯",
-      "totalGmv": "1607000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WANGELINNA/万格琳娜",
-      "totalGmv": "1604000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "点妍",
-      "totalGmv": "1602500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "kayse/琦色",
-      "totalGmv": "1601000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柏姬泉",
-      "totalGmv": "1600000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "元气倾城",
-      "totalGmv": "1599000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "泊肌原",
-      "totalGmv": "1596000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "WONJINEFFECT",
-      "totalGmv": "1584000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Scupin",
-      "totalGmv": "1581000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "京东超市",
-      "totalGmv": "1574000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "千·莎",
-      "totalGmv": "1567000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "dermistry+/肌本科",
-      "totalGmv": "1565000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AOSILAIKA",
-      "totalGmv": "1564000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Mini List",
-      "totalGmv": "1564000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "百花萃",
-      "totalGmv": "1562000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DONGINBI/彤人秘",
-      "totalGmv": "1561000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "半仓芳华",
-      "totalGmv": "1561000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BIOSSANCE",
-      "totalGmv": "1559000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ALICEHEBN/爱丽斯赫本",
-      "totalGmv": "1558000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "正彩",
-      "totalGmv": "1552000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "云端",
-      "totalGmv": "1544000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "花酿",
-      "totalGmv": "1543000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡丝",
-      "totalGmv": "1541000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "QualityFirst",
-      "totalGmv": "1540000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "碧泉の花",
-      "totalGmv": "1539000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "bluebabybunny/蓝贝兔",
-      "totalGmv": "1536000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NATURA BISSE/悦碧施",
-      "totalGmv": "1535000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JOXIC",
-      "totalGmv": "1534000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BOBBI BROWN/芭比波朗",
-      "totalGmv": "1533000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EBG",
-      "totalGmv": "1533000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "啵卟哔嘀啵",
-      "totalGmv": "1531000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "EMYA",
-      "totalGmv": "1530000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZHIFANXI/植梵熙",
-      "totalGmv": "1529000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "悦容蜜坊",
-      "totalGmv": "1528000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "女神之美",
-      "totalGmv": "1526000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "花夏红",
-      "totalGmv": "1524000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Biowell",
-      "totalGmv": "1522000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "植朵",
-      "totalGmv": "1519000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "伊特露",
-      "totalGmv": "1519000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "3LAB",
-      "totalGmv": "1518000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "姿美蒂",
-      "totalGmv": "1516000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Vaseline/凡士林",
-      "totalGmv": "1514000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "other",
-      "totalGmv": "1512000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MARY COHR/玛莉格",
-      "totalGmv": "1511000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JOLLYONE",
-      "totalGmv": "1509000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Laboratorios Vinas",
-      "totalGmv": "1501000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BECKBEKA/贝克贝卡",
-      "totalGmv": "1500000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Galancur",
-      "totalGmv": "1500000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "胜诗美妍",
-      "totalGmv": "1498000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "万紫千红",
-      "totalGmv": "1497000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "BISUTANG/碧素堂",
-      "totalGmv": "1491000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NEW ANGANCE/心仙格",
-      "totalGmv": "1488000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "OPEZ",
-      "totalGmv": "1487000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "蝶安娜",
-      "totalGmv": "1486000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "D&18",
-      "totalGmv": "1485000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Crown QunFang/冠群芳",
-      "totalGmv": "1481000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "weilanzi/薇兰姿",
-      "totalGmv": "1475000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "FVE",
-      "totalGmv": "1474000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PREMIER ByDeadSeaPremier/普蜜儿",
-      "totalGmv": "1472000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Huawei/华为",
-      "totalGmv": "1469000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "AiBiShang/艾碧尚",
-      "totalGmv": "1466000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VANESSAMATTIA",
-      "totalGmv": "1465000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "活碧泉",
-      "totalGmv": "1455000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美即",
-      "totalGmv": "1446000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Topix Replenix",
-      "totalGmv": "1445000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奥洛菲",
-      "totalGmv": "1444000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "町采儿",
-      "totalGmv": "1442000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "佰珍堂",
-      "totalGmv": "1438000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "婀卡菲娅老奶奶",
-      "totalGmv": "1436000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SOULMAN/极男",
-      "totalGmv": "1434000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Dr.JE",
-      "totalGmv": "1428000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YOUNG XCELL",
-      "totalGmv": "1426000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "hph",
-      "totalGmv": "1424000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Ratio X/时献",
-      "totalGmv": "1418000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Augeido",
-      "totalGmv": "1410000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "泉能公式",
-      "totalGmv": "1409000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "初诺一生",
-      "totalGmv": "1406000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "美颜笔记",
-      "totalGmv": "1404000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "UAU",
-      "totalGmv": "1404000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "肌琳莎",
-      "totalGmv": "1402000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DUODAI/朵黛",
-      "totalGmv": "1347750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Diary",
-      "totalGmv": "1343250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "邦薇",
-      "totalGmv": "1338750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "迪卡茜",
-      "totalGmv": "1333500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "林香玉",
-      "totalGmv": "1330500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "伊诺梵",
-      "totalGmv": "1328250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "JERXUN/京选",
-      "totalGmv": "1316250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "丽普司肽",
-      "totalGmv": "1310250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CHIHUANG/赤煌",
-      "totalGmv": "1302750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SHISEIDOREVITAL",
-      "totalGmv": "1293000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "TISO/迪奢",
-      "totalGmv": "1290750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LECURER",
-      "totalGmv": "1288500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "陌草肌",
-      "totalGmv": "1275000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "YRSP/丫奢",
-      "totalGmv": "1273500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Elemis/艾丽美",
-      "totalGmv": "1273500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "清扬",
-      "totalGmv": "1272000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "三月理",
-      "totalGmv": "1263000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Bio-E/佰欧意",
-      "totalGmv": "1259250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CENTELIAN 24/森特莲",
-      "totalGmv": "1252500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "LABOSMETIC/佰花方",
+      "thirdCategory": "ems微电流穿戴健身仪",
+      "brandName": "ABCFIT",
       "totalGmv": "1245750"
     },
     {
-      "thirdCategory": "面部护肤",
-      "brandName": "胜姿",
-      "totalGmv": "1241250"
+      "thirdCategory": "UNO牌",
+      "brandName": "符象",
+      "totalGmv": "186257"
     },
     {
-      "thirdCategory": "面部护肤",
-      "brandName": "妙仙堂",
-      "totalGmv": "1238250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DROMANTIC",
-      "totalGmv": "1238250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "fsyr/菲诗伊人",
-      "totalGmv": "1236750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柒树",
-      "totalGmv": "1236000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "daralis/笛爱儿",
-      "totalGmv": "1233750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Fossula/馥舒娜",
-      "totalGmv": "1227750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "康肌茵",
-      "totalGmv": "1220250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "QUESTION SOUL/问题灵魂",
-      "totalGmv": "1213500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "宫佩",
-      "totalGmv": "1210500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "集千姿",
-      "totalGmv": "1207500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "澳芙黛",
-      "totalGmv": "1206000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DR ENERGY/黛优佳",
-      "totalGmv": "1204500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "柔蜜舒",
-      "totalGmv": "1203750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Ourlab",
-      "totalGmv": "1197750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "NEOSTRATA/芯丝翠",
-      "totalGmv": "1185000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SIRCUIT",
-      "totalGmv": "1182000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "出梅",
-      "totalGmv": "1176750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "小蜜坊",
-      "totalGmv": "1176000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Mamonde/梦妆",
-      "totalGmv": "1167000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Yetake/尹也",
-      "totalGmv": "1156500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Muse & Narcissus/缪斯水仙",
-      "totalGmv": "1145250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "肤梵",
-      "totalGmv": "1141500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CLOT",
-      "totalGmv": "1139250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "透象",
-      "totalGmv": "1135500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZTU",
-      "totalGmv": "1120500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "swanna",
-      "totalGmv": "1119750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MOSY",
-      "totalGmv": "1116750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "zeff",
-      "totalGmv": "1110750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "zaoxun/早寻",
-      "totalGmv": "1097250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "梦佩妮",
-      "totalGmv": "1096500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "活泉",
-      "totalGmv": "1094250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ENERVITE SINCE 1983/澳乐维他",
-      "totalGmv": "1080750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "元妮",
-      "totalGmv": "1077750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Hakase Beaute",
-      "totalGmv": "1074000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEIKUP",
-      "totalGmv": "1074000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MECMOR/名膜壹号",
-      "totalGmv": "1073250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "德德维芙",
-      "totalGmv": "1072500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "roseface",
-      "totalGmv": "1066500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "MEDIKELAS/美迪可莱丝",
-      "totalGmv": "1065000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "提拉多",
-      "totalGmv": "1062000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "奇拉美琦",
-      "totalGmv": "1062000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "赫蔓倪",
-      "totalGmv": "1059750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "玛蒂德肤",
-      "totalGmv": "1053750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "卡蔓",
-      "totalGmv": "1053750"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "ZHIRANMEI/植然魅",
-      "totalGmv": "1053000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Elta MD",
-      "totalGmv": "1052250"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SOSOLEE",
-      "totalGmv": "887000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "SHELL LAURENT/贝罗兰",
-      "totalGmv": "833000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "思妍丽",
-      "totalGmv": "824500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "米纳",
-      "totalGmv": "797500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Saimdang/师任堂",
-      "totalGmv": "796500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "XIGE/皙阁",
-      "totalGmv": "789000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CORRECTORS",
-      "totalGmv": "787000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "DRVE",
-      "totalGmv": "782500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "宝兰汀",
-      "totalGmv": "762000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "cheryl",
-      "totalGmv": "760500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "智美",
-      "totalGmv": "716500"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "韩瑟",
-      "totalGmv": "703000"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "CURRENTBODY",
-      "totalGmv": "374175"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "PE PERFECT ESSENCE",
-      "totalGmv": "200692"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Ulike",
-      "totalGmv": "155210"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "科施佳",
-      "totalGmv": "15970"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "Jmoon/极萌",
-      "totalGmv": "12570"
-    },
-    {
-      "thirdCategory": "面部护肤",
-      "brandName": "VC美妆",
-      "totalGmv": "3900"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "AMIRO/觅光",
-      "totalGmv": "1851938521"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YA-MAN/雅萌",
-      "totalGmv": "1294120848"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Jmoon/极萌",
-      "totalGmv": "729883109"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NOWMI",
-      "totalGmv": "586268546"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "JOVS",
-      "totalGmv": "405357151"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BIO LAB/听研",
-      "totalGmv": "355437398"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "TriPollar/初普",
-      "totalGmv": "313439763"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "OGP/时光肌",
-      "totalGmv": "263474045"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "FLOSSOM/花至",
-      "totalGmv": "214214643"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
+      "thirdCategory": "三节甩棍/伸缩棍",
       "brandName": "其它",
-      "totalGmv": "211650781"
+      "totalGmv": "62913292"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "DR.ARRIVO/宙斯",
-      "totalGmv": "204486103"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "Suppress",
+      "totalGmv": "8046062"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "科施佳",
-      "totalGmv": "197894710"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "狼迹",
+      "totalGmv": "2770484"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "CHOUOHC",
-      "totalGmv": "174383798"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "芙珂姿",
+      "totalGmv": "2134730"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NUNA by Premier Dead Sea",
-      "totalGmv": "168107905"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "战术悍马",
+      "totalGmv": "857790"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MESMOOTH/慕苏",
-      "totalGmv": "139588141"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "龙脊",
+      "totalGmv": "610354"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "DJM",
-      "totalGmv": "126987774"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "NEXTORCH/纳丽德",
+      "totalGmv": "516341"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "silk'n",
-      "totalGmv": "122299091"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "炽狐",
+      "totalGmv": "471507"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "femooi/飞莫",
-      "totalGmv": "79330343"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "战术黑客",
+      "totalGmv": "398071"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ydunvie/易科美",
-      "totalGmv": "71338529"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "BEIMUXING/北牧星",
+      "totalGmv": "176734"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Kosiim",
-      "totalGmv": "66904183"
+      "thirdCategory": "三节甩棍/伸缩棍",
+      "brandName": "欣怡万嘉",
+      "totalGmv": "159961"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "FEIHAI/菲海",
-      "totalGmv": "65840878"
+      "thirdCategory": "中国古典舞",
+      "brandName": "菲梵舞后",
+      "totalGmv": "8560148"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SEAYEO",
-      "totalGmv": "64845983"
+      "thirdCategory": "中国古典舞",
+      "brandName": "其它",
+      "totalGmv": "940964"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ERIMOTA",
-      "totalGmv": "63650005"
+      "thirdCategory": "中国古典舞",
+      "brandName": "衡美",
+      "totalGmv": "859696"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "GEMO/金茉",
-      "totalGmv": "60214594"
+      "thirdCategory": "中国古典舞",
+      "brandName": "qiya/琪亚",
+      "totalGmv": "640561"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Sensica",
-      "totalGmv": "50476260"
+      "thirdCategory": "中国古典舞",
+      "brandName": "古旗皇",
+      "totalGmv": "232441"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "玖瑟",
-      "totalGmv": "49770752"
+      "thirdCategory": "中国古典舞",
+      "brandName": "梵之舞",
+      "totalGmv": "231195"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美杜莎",
-      "totalGmv": "48360179"
+      "thirdCategory": "中国象棋",
+      "brandName": "其它",
+      "totalGmv": "3295293"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "V.ONE",
-      "totalGmv": "42616326"
+      "thirdCategory": "中国象棋",
+      "brandName": "许银川",
+      "totalGmv": "999791"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "iluminage",
-      "totalGmv": "40671585"
+      "thirdCategory": "中国象棋",
+      "brandName": "棋魂",
+      "totalGmv": "38140"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ELLKII",
-      "totalGmv": "37327056"
+      "thirdCategory": "中小型健身器材配件区",
+      "brandName": "SMOOKY",
+      "totalGmv": "11054445"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "PerfectioX",
-      "totalGmv": "33382704"
+      "thirdCategory": "中小型健身器材配件区",
+      "brandName": "其它",
+      "totalGmv": "6618321"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "STSM",
-      "totalGmv": "27446163"
+      "thirdCategory": "中小型健身器材配件区",
+      "brandName": "捷英飞",
+      "totalGmv": "2210125"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KOYO MIRACLE K II",
-      "totalGmv": "25849085"
+      "thirdCategory": "中小型健身器材配件区",
+      "brandName": "劳拉之星",
+      "totalGmv": "558947"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SPAMASTER",
-      "totalGmv": "25765222"
+      "thirdCategory": "中小型健身器材配件区",
+      "brandName": "欧健",
+      "totalGmv": "102240"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "CURRENTBODY",
-      "totalGmv": "23366730"
+      "thirdCategory": "中小型健身器材配件区",
+      "brandName": "捷斐",
+      "totalGmv": "93489"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "七色光",
-      "totalGmv": "19393400"
+      "thirdCategory": "举重床/卧推器",
+      "brandName": "crystal/水晶",
+      "totalGmv": "309801"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Newa/妞娃",
-      "totalGmv": "18965634"
+      "thirdCategory": "举重床/卧推器",
+      "brandName": "其它",
+      "totalGmv": "95936"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "PYR KNIGHT/派骑特",
-      "totalGmv": "18952239"
+      "thirdCategory": "乒乓套胶/海绵/单胶片",
+      "brandName": "其它",
+      "totalGmv": "1313423"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "belega/比黎加",
-      "totalGmv": "17842595"
+      "thirdCategory": "乒乓套胶/海绵/单胶片",
+      "brandName": "-/定天",
+      "totalGmv": "1278608"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MOON SEEM/极地之悦",
-      "totalGmv": "16037345"
+      "thirdCategory": "乒乓套胶/海绵/单胶片",
+      "brandName": "红双喜",
+      "totalGmv": "1201932"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Kitty Annie/小猫安妮",
-      "totalGmv": "15865067"
+      "thirdCategory": "乒乓套胶/海绵/单胶片",
+      "brandName": "RIZY/瑞姿",
+      "totalGmv": "284562"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "cfcf",
-      "totalGmv": "15678950"
+      "thirdCategory": "乒乓套胶/海绵/单胶片",
+      "brandName": "全世爆",
+      "totalGmv": "263819"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NOTIME",
-      "totalGmv": "15026260"
+      "thirdCategory": "乒乓套胶/海绵/单胶片",
+      "brandName": "YINHE",
+      "totalGmv": "79086"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "CELLRETURN",
-      "totalGmv": "13850613"
+      "thirdCategory": "乒乓底板",
+      "brandName": "其它",
+      "totalGmv": "31541949"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ATTPRI/ATTPRI",
-      "totalGmv": "13232678"
+      "thirdCategory": "乒乓底板",
+      "brandName": "729",
+      "totalGmv": "5182130"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "GX·Diffuser/谷心",
-      "totalGmv": "12467179"
+      "thirdCategory": "乒乓底板",
+      "brandName": "全世爆",
+      "totalGmv": "3073852"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美蒂秋芙",
-      "totalGmv": "12031981"
+      "thirdCategory": "乒乓底板",
+      "brandName": "-/定天",
+      "totalGmv": "1562851"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Rokkado/六花堂",
-      "totalGmv": "11447645"
+      "thirdCategory": "乒乓底板",
+      "brandName": "RIZY/瑞姿",
+      "totalGmv": "1458538"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HIH",
-      "totalGmv": "11285387"
+      "thirdCategory": "乒乓底板",
+      "brandName": "盖亚",
+      "totalGmv": "1127872"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Wennil/维莉",
-      "totalGmv": "10665730"
+      "thirdCategory": "乒乓底板",
+      "brandName": "YINHE",
+      "totalGmv": "945524"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "VLVEE",
-      "totalGmv": "9148969"
+      "thirdCategory": "乒乓底板",
+      "brandName": "远剑",
+      "totalGmv": "937280"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Me Smooth",
-      "totalGmv": "9076694"
+      "thirdCategory": "乒乓底板",
+      "brandName": "LOKI",
+      "totalGmv": "616058"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MARY FAIRY/玛丽仙",
-      "totalGmv": "8472300"
+      "thirdCategory": "乒乓底板",
+      "brandName": "Soderhamn/Soderhamn",
+      "totalGmv": "500190"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "comper/康铂",
-      "totalGmv": "7909249"
+      "thirdCategory": "乒乓底板",
+      "brandName": "dr.arrivo",
+      "totalGmv": "482624"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Miss.Arrivo/缪斯",
-      "totalGmv": "7723635"
+      "thirdCategory": "乒乓底板",
+      "brandName": "亚萨卡",
+      "totalGmv": "373563"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KINGDOM/金稻",
-      "totalGmv": "7389487"
+      "thirdCategory": "乒乓底板",
+      "brandName": "水星",
+      "totalGmv": "228337"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "伊丽容",
-      "totalGmv": "6859475"
+      "thirdCategory": "乒乓底板",
+      "brandName": "YANJIANG/䶮匠",
+      "totalGmv": "185439"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Effectim/玑妍之光",
-      "totalGmv": "6778068"
+      "thirdCategory": "乒乓底板",
+      "brandName": "ATACCK",
+      "totalGmv": "177982"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "magitech美技",
-      "totalGmv": "6596910"
+      "thirdCategory": "乒乓底板",
+      "brandName": "郭跃华",
+      "totalGmv": "120694"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SOULINK/宣伊",
-      "totalGmv": "6353176"
+      "thirdCategory": "乒乓底板",
+      "brandName": "洁霸",
+      "totalGmv": "82678"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "UBelle",
-      "totalGmv": "6307713"
+      "thirdCategory": "乒乓底板",
+      "brandName": "蝴蝶",
+      "totalGmv": "36861"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "听研",
-      "totalGmv": "6142585"
+      "thirdCategory": "乒乓球",
+      "brandName": "其它",
+      "totalGmv": "3438099"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "plamine",
-      "totalGmv": "5937182"
+      "thirdCategory": "乒乓球",
+      "brandName": "卡利亚",
+      "totalGmv": "337128"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "启邦",
-      "totalGmv": "5554388"
+      "thirdCategory": "乒乓球",
+      "brandName": "Soderhamn/Soderhamn",
+      "totalGmv": "163336"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "零重力",
-      "totalGmv": "5503050"
+      "thirdCategory": "乒乓球发球机",
+      "brandName": "PongBot/庞伯特",
+      "totalGmv": "1511194"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "贝米诗",
-      "totalGmv": "5350298"
+      "thirdCategory": "乒乓球发球机",
+      "brandName": "其它",
+      "totalGmv": "742864"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "the vzusa",
-      "totalGmv": "5179145"
+      "thirdCategory": "乒乓球发球机",
+      "brandName": "悠有",
+      "totalGmv": "356346"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "UAGOS/尤加西",
-      "totalGmv": "5083575"
+      "thirdCategory": "乒乓球台",
+      "brandName": "柏羚",
+      "totalGmv": "3507691"
     },
     {
-      "thirdCategory": "面部美容仪器",
+      "thirdCategory": "乒乓球台",
+      "brandName": "其它",
+      "totalGmv": "2566279"
+    },
+    {
+      "thirdCategory": "乒乓球台",
+      "brandName": "凯捷质造",
+      "totalGmv": "351847"
+    },
+    {
+      "thirdCategory": "乒乓球台",
+      "brandName": "DOUBLE FISH/双鱼",
+      "totalGmv": "210659"
+    },
+    {
+      "thirdCategory": "乒乓球成品拍",
+      "brandName": "红双喜",
+      "totalGmv": "1135738"
+    },
+    {
+      "thirdCategory": "乒乓球成品拍",
+      "brandName": "其它",
+      "totalGmv": "377608"
+    },
+    {
+      "thirdCategory": "乒乓球成品拍",
+      "brandName": "RIZY/瑞姿",
+      "totalGmv": "257491"
+    },
+    {
+      "thirdCategory": "乒乓球成品拍",
+      "brandName": "贵人鸟",
+      "totalGmv": "65846"
+    },
+    {
+      "thirdCategory": "乒乓球成品拍",
+      "brandName": "全世爆",
+      "totalGmv": "64127"
+    },
+    {
+      "thirdCategory": "乒乓球成品拍",
+      "brandName": "361°",
+      "totalGmv": "56550"
+    },
+    {
+      "thirdCategory": "乒乓球拍套/包",
+      "brandName": "其它",
+      "totalGmv": "1681957"
+    },
+    {
+      "thirdCategory": "乒乓球服",
+      "brandName": "其它",
+      "totalGmv": "639699"
+    },
+    {
+      "thirdCategory": "乒乓球服",
+      "brandName": "全世爆",
+      "totalGmv": "66886"
+    },
+    {
+      "thirdCategory": "乒乓球网架/网",
+      "brandName": "素颜",
+      "totalGmv": "59931"
+    },
+    {
+      "thirdCategory": "乒乓球袜",
+      "brandName": "JOOLA/尤拉",
+      "totalGmv": "672712"
+    },
+    {
+      "thirdCategory": "乒乓球袜",
+      "brandName": "其它",
+      "totalGmv": "34167"
+    },
+    {
+      "thirdCategory": "乒乓球训练器",
+      "brandName": "其它",
+      "totalGmv": "32624727"
+    },
+    {
+      "thirdCategory": "乒乓球训练器",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "19978018"
+    },
+    {
+      "thirdCategory": "乒乓球训练器",
+      "brandName": "DONGQILAI",
+      "totalGmv": "18908490"
+    },
+    {
+      "thirdCategory": "乒乓球训练器",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "3293849"
+    },
+    {
+      "thirdCategory": "乒乓球训练器",
+      "brandName": "拳顺",
+      "totalGmv": "2116494"
+    },
+    {
+      "thirdCategory": "乒乓球训练器",
+      "brandName": "伽话",
+      "totalGmv": "163012"
+    },
+    {
+      "thirdCategory": "乒乓球训练器",
+      "brandName": "361°",
+      "totalGmv": "79816"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "8141919"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "其它",
+      "totalGmv": "4949236"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "亦美珊",
+      "totalGmv": "4148873"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "concept king/concept king",
+      "totalGmv": "2933653"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "XTEP/特步",
+      "totalGmv": "955467"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "羽克",
+      "totalGmv": "843047"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "chenghuo/橙火",
+      "totalGmv": "767618"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "-/海慕欧",
+      "totalGmv": "756132"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "YIYAN/以嫣",
+      "totalGmv": "453659"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "Balneaire/范德安",
+      "totalGmv": "311904"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "DILLMINNER",
+      "totalGmv": "281355"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "贵人鸟",
+      "totalGmv": "275581"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "ZOGGS",
+      "totalGmv": "167133"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "Pinko/品高",
+      "totalGmv": "160195"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "toswim/泳镜侠",
+      "totalGmv": "86200"
+    },
+    {
+      "thirdCategory": "亲子家庭装",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "67018"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "其它",
+      "totalGmv": "40667962"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "SEAN LEE",
+      "totalGmv": "15121428"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "8782758"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "PROIRON",
+      "totalGmv": "1653357"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "XTEP/特步",
+      "totalGmv": "1403375"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "韬威",
+      "totalGmv": "650688"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "361°",
+      "totalGmv": "624219"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "Dream Room",
+      "totalGmv": "533903"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "军霞",
+      "totalGmv": "446555"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "春风",
+      "totalGmv": "399091"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "JUNSHUO/君硕",
+      "totalGmv": "350326"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "crystal/水晶",
+      "totalGmv": "319896"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "101338"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "酷迪仕",
+      "totalGmv": "94316"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "OTEKSPORT",
+      "totalGmv": "67009"
+    },
+    {
+      "thirdCategory": "仰卧板/健腹板",
+      "brandName": "润希",
+      "totalGmv": "65775"
+    },
+    {
+      "thirdCategory": "伸展带/瑜伽绳",
+      "brandName": "其它",
+      "totalGmv": "13644113"
+    },
+    {
+      "thirdCategory": "伸展带/瑜伽绳",
+      "brandName": "初乐喜",
+      "totalGmv": "1515053"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "其它",
+      "totalGmv": "9033692"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "BANANA UNDER/蕉下",
+      "totalGmv": "1794214"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "cohituc/科途",
+      "totalGmv": "682413"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "annerun",
+      "totalGmv": "188362"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "Miiow Classic/猫人经典",
+      "totalGmv": "184392"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "ARIA LEISURE",
+      "totalGmv": "179006"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "justcc",
+      "totalGmv": "172033"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "佑游",
+      "totalGmv": "157640"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "MAIAACTIVE",
+      "totalGmv": "65603"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "GYM.MINUTE",
+      "totalGmv": "64772"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "佩佩",
+      "totalGmv": "59919"
+    },
+    {
+      "thirdCategory": "体操",
+      "brandName": "Langsha/浪莎",
+      "totalGmv": "38106"
+    },
+    {
+      "thirdCategory": "体重秤/健康秤",
+      "brandName": "其它",
+      "totalGmv": "4562688"
+    },
+    {
+      "thirdCategory": "体重秤/健康秤",
+      "brandName": "沪众",
+      "totalGmv": "105583"
+    },
+    {
+      "thirdCategory": "体重秤/健康秤",
+      "brandName": "古达",
+      "totalGmv": "35461"
+    },
+    {
+      "thirdCategory": "俯卧撑架",
+      "brandName": "Podeman",
+      "totalGmv": "21224541"
+    },
+    {
+      "thirdCategory": "俯卧撑架",
+      "brandName": "Keep",
+      "totalGmv": "9722591"
+    },
+    {
+      "thirdCategory": "俯卧撑架",
+      "brandName": "其它",
+      "totalGmv": "7647734"
+    },
+    {
+      "thirdCategory": "俯卧撑架",
+      "brandName": "吱慕",
+      "totalGmv": "175180"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "其它",
+      "totalGmv": "22480872"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "crystal/水晶",
+      "totalGmv": "3275559"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "ZR",
+      "totalGmv": "2324018"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "魂跳",
+      "totalGmv": "1965375"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "林中鸟",
+      "totalGmv": "581648"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "君雅莱",
+      "totalGmv": "441003"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "艾尔斯",
+      "totalGmv": "385127"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "魅扣",
+      "totalGmv": "157793"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "得喜(Dexi)",
+      "totalGmv": "127678"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "雅格燕",
+      "totalGmv": "76927"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "恋练严选",
+      "totalGmv": "39857"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "吉米兔",
+      "totalGmv": "35004"
+    },
+    {
+      "thirdCategory": "倒立凳",
+      "brandName": "幻跑",
+      "totalGmv": "34865"
+    },
+    {
+      "thirdCategory": "倒立机",
+      "brandName": "诺德玛",
+      "totalGmv": "9277111"
+    },
+    {
+      "thirdCategory": "倒立机",
+      "brandName": "SINUODE/斯诺德",
+      "totalGmv": "1655318"
+    },
+    {
+      "thirdCategory": "倒立机",
+      "brandName": "crystal/水晶",
+      "totalGmv": "1442441"
+    },
+    {
+      "thirdCategory": "倒立机",
+      "brandName": "其它",
+      "totalGmv": "1027472"
+    },
+    {
+      "thirdCategory": "倒立机",
+      "brandName": "比纳",
+      "totalGmv": "590849"
+    },
+    {
+      "thirdCategory": "倒立机",
+      "brandName": "SEAN LEE",
+      "totalGmv": "272613"
+    },
+    {
+      "thirdCategory": "健美操",
+      "brandName": "马甲线",
+      "totalGmv": "12622802"
+    },
+    {
+      "thirdCategory": "健美操",
+      "brandName": "其它",
+      "totalGmv": "5032201"
+    },
+    {
+      "thirdCategory": "健美操",
+      "brandName": "Wuchieal/舞姿翼",
+      "totalGmv": "626402"
+    },
+    {
+      "thirdCategory": "健美操",
+      "brandName": "安玛鹿",
+      "totalGmv": "167604"
+    },
+    {
+      "thirdCategory": "健美操",
+      "brandName": "烟云舞",
+      "totalGmv": "139162"
+    },
+    {
+      "thirdCategory": "健美操",
+      "brandName": "其他",
+      "totalGmv": "61493"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "其它",
+      "totalGmv": "373073966"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "SMOOKY",
+      "totalGmv": "100498204"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "YOU MEI/佑美",
+      "totalGmv": "38029172"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "SEAN LEE",
+      "totalGmv": "32303984"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "IPO",
+      "totalGmv": "28054142"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "马甲线",
+      "totalGmv": "17802904"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "魂跳",
+      "totalGmv": "11890360"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "11536336"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "冰健",
+      "totalGmv": "6882208"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "动享健",
+      "totalGmv": "6754537"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "CHANGFENG/昌峰",
+      "totalGmv": "5433358"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "4817859"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "中欧",
+      "totalGmv": "4190911"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "菩莱球",
+      "totalGmv": "4005330"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "ADKING",
+      "totalGmv": "3954499"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "SETRISCG",
+      "totalGmv": "3730973"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "欧健",
+      "totalGmv": "3207245"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "乐系运动",
+      "totalGmv": "3076812"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "武行彬",
+      "totalGmv": "2927216"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "FUCHANG/富昌",
+      "totalGmv": "2780967"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "LIARJAN/莱尔健",
+      "totalGmv": "2723689"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "2261544"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "群胜",
+      "totalGmv": "2117746"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "潮点",
+      "totalGmv": "1755600"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "PROLAB/菩莱",
+      "totalGmv": "1376351"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "Deerway/德尔惠",
+      "totalGmv": "1222848"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "亿健",
+      "totalGmv": "1152875"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "猛焰",
+      "totalGmv": "1128228"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "酷迪仕",
+      "totalGmv": "1035343"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "TIMIRA",
+      "totalGmv": "933360"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "小伙伴",
+      "totalGmv": "918177"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "LEXI/乐系",
+      "totalGmv": "707765"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "PGG",
+      "totalGmv": "679898"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "COLORFIT",
+      "totalGmv": "620328"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "知鹿",
+      "totalGmv": "520351"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "笑巴喜",
+      "totalGmv": "497072"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "奇零",
+      "totalGmv": "463799"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "君育",
+      "totalGmv": "396907"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "PR/沛然",
+      "totalGmv": "395857"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "比纳",
+      "totalGmv": "395748"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "健客隆",
+      "totalGmv": "385034"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "379511"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "贵派仕",
+      "totalGmv": "344200"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "GUBOU/古舶",
+      "totalGmv": "335138"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "remolati",
+      "totalGmv": "333097"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "烈驹",
+      "totalGmv": "283838"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "晶思达",
+      "totalGmv": "247585"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "Keep",
+      "totalGmv": "231813"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "万凯",
+      "totalGmv": "187347"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "顺达",
+      "totalGmv": "183318"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "PELPO/派普",
+      "totalGmv": "181480"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "小灵子",
+      "totalGmv": "181012"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "ovinem",
+      "totalGmv": "180016"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "Aomardon",
+      "totalGmv": "178751"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "JUNSHUO/君硕",
+      "totalGmv": "178386"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "麦瑞克",
+      "totalGmv": "173555"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "索罗埃克斯",
+      "totalGmv": "173532"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "倾门",
+      "totalGmv": "172556"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "JOROTO/捷瑞特",
+      "totalGmv": "170593"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "雷尼斯",
+      "totalGmv": "158622"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "范世提",
+      "totalGmv": "158597"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "MANAH/迈丹",
+      "totalGmv": "157928"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "PROIRON",
+      "totalGmv": "156955"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "腾尹",
+      "totalGmv": "95108"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "KDST",
+      "totalGmv": "88623"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "XTEP/特步",
+      "totalGmv": "60092"
+    },
+    {
+      "thirdCategory": "健腹轮/健腹器",
+      "brandName": "奕帅",
+      "totalGmv": "37529"
+    },
+    {
+      "thirdCategory": "健身器材套装",
+      "brandName": "其它",
+      "totalGmv": "7004305"
+    },
+    {
+      "thirdCategory": "健身器材套装",
+      "brandName": "呼动力",
+      "totalGmv": "720673"
+    },
+    {
+      "thirdCategory": "健身器材套装",
+      "brandName": "DOOP",
+      "totalGmv": "699132"
+    },
+    {
+      "thirdCategory": "健身器材套装",
+      "brandName": "innstar",
+      "totalGmv": "411750"
+    },
+    {
+      "thirdCategory": "健身椅",
+      "brandName": "春风",
+      "totalGmv": "742281"
+    },
+    {
+      "thirdCategory": "健身椅",
+      "brandName": "PROIRON",
+      "totalGmv": "295609"
+    },
+    {
+      "thirdCategory": "健身椅",
+      "brandName": "SINUODE/斯诺德",
+      "totalGmv": "200959"
+    },
+    {
+      "thirdCategory": "健身球/保健球",
+      "brandName": "其它",
+      "totalGmv": "510957"
+    },
+    {
+      "thirdCategory": "健身路径",
+      "brandName": "JXA",
+      "totalGmv": "13647028"
+    },
+    {
+      "thirdCategory": "健身路径",
+      "brandName": "FITURE",
+      "totalGmv": "3885435"
+    },
+    {
+      "thirdCategory": "健身踏板/韵律踏板",
+      "brandName": "DONGQILAI",
+      "totalGmv": "1492893"
+    },
+    {
+      "thirdCategory": "健身踏板/韵律踏板",
+      "brandName": "特泽瓦",
+      "totalGmv": "1041004"
+    },
+    {
+      "thirdCategory": "健身踏板/韵律踏板",
+      "brandName": "其它",
+      "totalGmv": "719549"
+    },
+    {
+      "thirdCategory": "健身踏板/韵律踏板",
+      "brandName": "wxws",
+      "totalGmv": "265898"
+    },
+    {
+      "thirdCategory": "健身车",
+      "brandName": "汗马",
+      "totalGmv": "3110396"
+    },
+    {
+      "thirdCategory": "健身车",
+      "brandName": "crystal/水晶",
+      "totalGmv": "1133271"
+    },
+    {
+      "thirdCategory": "健身车",
+      "brandName": "SEAN LEE",
+      "totalGmv": "633693"
+    },
+    {
+      "thirdCategory": "健身车",
+      "brandName": "其它",
+      "totalGmv": "520083"
+    },
+    {
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "其它",
+      "totalGmv": "25929532"
+    },
+    {
+      "thirdCategory": "健身锤/按摩捶",
       "brandName": "KONKA/康佳",
-      "totalGmv": "4995818"
+      "totalGmv": "9629776"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "唯腕",
-      "totalGmv": "4596785"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "3272994"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "安芝秀",
-      "totalGmv": "4205515"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "康寿",
+      "totalGmv": "1239643"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "保加利亚玫瑰",
-      "totalGmv": "4062350"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "浙份爱",
+      "totalGmv": "240974"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HABEN/哈本",
-      "totalGmv": "3984195"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "Nan ji ren/南极人",
+      "totalGmv": "148800"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SIVERS",
-      "totalGmv": "3956533"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "劳拉之星",
+      "totalGmv": "134068"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BOXURY/伯奢",
-      "totalGmv": "3754688"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "亿酷佳",
+      "totalGmv": "90667"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KOYO MIRACLE K II/圣迹",
-      "totalGmv": "3744158"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "百熙",
+      "totalGmv": "83781"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YaMaLiSha/亚玛莉莎",
-      "totalGmv": "3713225"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "AxamAxon",
+      "totalGmv": "67476"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "LEDitch",
-      "totalGmv": "3547500"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "yottoy",
+      "totalGmv": "62090"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MIOR",
-      "totalGmv": "3336256"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "摩韵",
+      "totalGmv": "40104"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BCD",
-      "totalGmv": "3226337"
+      "thirdCategory": "健身锤/按摩捶",
+      "brandName": "欧健",
+      "totalGmv": "33919"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "VIB",
-      "totalGmv": "3221600"
+      "thirdCategory": "充气设备",
+      "brandName": "威耐德",
+      "totalGmv": "171073"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Wahson/华生",
-      "totalGmv": "3070503"
+      "thirdCategory": "充气设备",
+      "brandName": "其它",
+      "totalGmv": "64772"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "wahson",
-      "totalGmv": "2815735"
+      "thirdCategory": "其他",
+      "brandName": "其它",
+      "totalGmv": "330587541"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "OVF",
-      "totalGmv": "2585017"
+      "thirdCategory": "其他",
+      "brandName": "Sbeauty",
+      "totalGmv": "22033972"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "芙倍丽",
-      "totalGmv": "2444355"
+      "thirdCategory": "其他",
+      "brandName": "成都大运会",
+      "totalGmv": "20117394"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "昕友",
-      "totalGmv": "2410105"
+      "thirdCategory": "其他",
+      "brandName": "优公管",
+      "totalGmv": "16736142"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "tirliom",
-      "totalGmv": "2403468"
+      "thirdCategory": "其他",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "16531878"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "极塑",
-      "totalGmv": "2333843"
+      "thirdCategory": "其他",
+      "brandName": "君育",
+      "totalGmv": "15544799"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "森迷",
-      "totalGmv": "2283315"
+      "thirdCategory": "其他",
+      "brandName": "冰健",
+      "totalGmv": "12677788"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MULCHYS",
-      "totalGmv": "2133944"
+      "thirdCategory": "其他",
+      "brandName": "Kunli/群力",
+      "totalGmv": "12415097"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "致美",
-      "totalGmv": "2072700"
+      "thirdCategory": "其他",
+      "brandName": "马甲线",
+      "totalGmv": "11739536"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "欧束菲",
-      "totalGmv": "2038079"
+      "thirdCategory": "其他",
+      "brandName": "易跑",
+      "totalGmv": "10344305"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "FAQ/芙颜珂",
-      "totalGmv": "1856490"
+      "thirdCategory": "其他",
+      "brandName": "小度",
+      "totalGmv": "10309543"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "时光贝",
-      "totalGmv": "1776875"
+      "thirdCategory": "其他",
+      "brandName": "劳拉之星",
+      "totalGmv": "9316346"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "LEKARKA",
-      "totalGmv": "1768035"
+      "thirdCategory": "其他",
+      "brandName": "FIZ/FIZ",
+      "totalGmv": "6975244"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NUFACE",
-      "totalGmv": "1749130"
+      "thirdCategory": "其他",
+      "brandName": "CattieKieig",
+      "totalGmv": "6783210"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "初霏",
-      "totalGmv": "1740420"
+      "thirdCategory": "其他",
+      "brandName": "Aomardon",
+      "totalGmv": "6126033"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "FOKO",
-      "totalGmv": "1690850"
+      "thirdCategory": "其他",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "5649708"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "优理氏",
-      "totalGmv": "1612000"
+      "thirdCategory": "其他",
+      "brandName": "拜迪生物",
+      "totalGmv": "5602305"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Panasonic/松下",
-      "totalGmv": "1513366"
+      "thirdCategory": "其他",
+      "brandName": "优背",
+      "totalGmv": "5326378"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "OES",
-      "totalGmv": "1500082"
+      "thirdCategory": "其他",
+      "brandName": "zero_to_hero",
+      "totalGmv": "5124075"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Cgo",
-      "totalGmv": "1451830"
+      "thirdCategory": "其他",
+      "brandName": "一健成名",
+      "totalGmv": "4370675"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "有丽果",
-      "totalGmv": "1319292"
+      "thirdCategory": "其他",
+      "brandName": "SMOOKY",
+      "totalGmv": "4056626"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "gushiyuta/故事与她",
-      "totalGmv": "1291835"
+      "thirdCategory": "其他",
+      "brandName": "VEIDOORN/维动",
+      "totalGmv": "3801375"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MZ SKIN",
-      "totalGmv": "1219240"
+      "thirdCategory": "其他",
+      "brandName": "勇进",
+      "totalGmv": "3384696"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "DLUS",
-      "totalGmv": "1188887"
+      "thirdCategory": "其他",
+      "brandName": "OLLAS/欧亚斯",
+      "totalGmv": "3327973"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YOUNGMAY/样美",
-      "totalGmv": "1187848"
+      "thirdCategory": "其他",
+      "brandName": "AIRPOPPLUS",
+      "totalGmv": "3314294"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "nanoTime/娜蜜丝",
-      "totalGmv": "1160315"
+      "thirdCategory": "其他",
+      "brandName": "聚星球迷馆",
+      "totalGmv": "3237588"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "可雅可美",
-      "totalGmv": "1040204"
+      "thirdCategory": "其他",
+      "brandName": "合生花境",
+      "totalGmv": "3216254"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "TOUCHBeauty/渲美",
-      "totalGmv": "1007945"
+      "thirdCategory": "其他",
+      "brandName": "crossgrip",
+      "totalGmv": "3156288"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "CORLAINY/珂莱妮",
-      "totalGmv": "996231"
+      "thirdCategory": "其他",
+      "brandName": "B.DUCK",
+      "totalGmv": "2780086"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MEIBOYI/美博艺",
-      "totalGmv": "985023"
+      "thirdCategory": "其他",
+      "brandName": "七叶韵动",
+      "totalGmv": "2671234"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "OSD",
-      "totalGmv": "984001"
+      "thirdCategory": "其他",
+      "brandName": "密汐",
+      "totalGmv": "2389072"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Envig/新颂",
-      "totalGmv": "903760"
+      "thirdCategory": "其他",
+      "brandName": "脑力大作战",
+      "totalGmv": "2359779"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SAMANLI/莎曼莉",
-      "totalGmv": "897671"
+      "thirdCategory": "其他",
+      "brandName": "Dayunco",
+      "totalGmv": "2357211"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "志高",
-      "totalGmv": "866367"
+      "thirdCategory": "其他",
+      "brandName": "迈博思",
+      "totalGmv": "2299329"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ROSETIMES",
-      "totalGmv": "823065"
+      "thirdCategory": "其他",
+      "brandName": "YOU MEI/佑美",
+      "totalGmv": "2245477"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "VEALOVER QUEEN/女王薇拉",
-      "totalGmv": "802000"
+      "thirdCategory": "其他",
+      "brandName": "科锐吉",
+      "totalGmv": "2129864"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "斐珞尔",
-      "totalGmv": "792829"
+      "thirdCategory": "其他",
+      "brandName": "yisheng/羿生",
+      "totalGmv": "2120773"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "珀法瑞",
-      "totalGmv": "788740"
+      "thirdCategory": "其他",
+      "brandName": "舞霸王",
+      "totalGmv": "2118233"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "恋姬",
-      "totalGmv": "772622"
+      "thirdCategory": "其他",
+      "brandName": "HIYYIH",
+      "totalGmv": "1963696"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "曲草堂",
-      "totalGmv": "706795"
+      "thirdCategory": "其他",
+      "brandName": "WATO",
+      "totalGmv": "1959591"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "JYVI/真怡美",
-      "totalGmv": "686753"
+      "thirdCategory": "其他",
+      "brandName": "欧健",
+      "totalGmv": "1941629"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "心注",
-      "totalGmv": "637346"
+      "thirdCategory": "其他",
+      "brandName": "聚星动力",
+      "totalGmv": "1833303"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "The Beautools/优姬美器",
-      "totalGmv": "622669"
+      "thirdCategory": "其他",
+      "brandName": "香蔓5.5",
+      "totalGmv": "1829811"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "初乐喜",
-      "totalGmv": "584095"
+      "thirdCategory": "其他",
+      "brandName": "玥歌",
+      "totalGmv": "1658175"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "欧华蔻",
-      "totalGmv": "570468"
+      "thirdCategory": "其他",
+      "brandName": "JXA",
+      "totalGmv": "1595462"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "LMNT",
-      "totalGmv": "563067"
+      "thirdCategory": "其他",
+      "brandName": "PROIRON",
+      "totalGmv": "1589953"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MKS/美克斯",
-      "totalGmv": "529788"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "inFace",
-      "totalGmv": "506290"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MIUSERM",
-      "totalGmv": "462251"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KAKUSAN/卡酷尚",
-      "totalGmv": "461441"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "cenci",
-      "totalGmv": "448856"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "爱露丝",
-      "totalGmv": "447608"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "OCO",
-      "totalGmv": "430848"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "AUX/奥克斯",
-      "totalGmv": "426864"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "DIPIC DEAR·PURE·CARE",
-      "totalGmv": "414500"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BELEGA",
-      "totalGmv": "378945"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "广汽传祺",
-      "totalGmv": "368750"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SEYYER/皙玥",
-      "totalGmv": "357125"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "康彩影",
-      "totalGmv": "356350"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "彩即",
-      "totalGmv": "353500"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "薇新",
-      "totalGmv": "336485"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BIOESTHE/薇丝菲",
-      "totalGmv": "331935"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Miss Arrivo",
-      "totalGmv": "329372"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "零重力PERFECTIO X美容仪",
-      "totalGmv": "327700"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "GX.Diffuser",
-      "totalGmv": "322946"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Dr.Raccoon",
-      "totalGmv": "319525"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "marasil",
-      "totalGmv": "316457"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "UTOPANDA/熊千岁",
-      "totalGmv": "306984"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "noti",
-      "totalGmv": "302235"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "AiFer",
-      "totalGmv": "296786"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "JUJY",
-      "totalGmv": "269357"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HELOVS/合恋",
-      "totalGmv": "266011"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "RYMU/莱慕",
-      "totalGmv": "263175"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "PVD",
-      "totalGmv": "262932"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "白蒂诗",
-      "totalGmv": "262867"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "马德保康",
-      "totalGmv": "261285"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Envig",
-      "totalGmv": "256045"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NASILA/娜丝拉",
-      "totalGmv": "242760"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SEEYOUNG/滋源",
-      "totalGmv": "231950"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NODOOR",
-      "totalGmv": "231450"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "西德瑞",
-      "totalGmv": "224192"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "uso",
-      "totalGmv": "221037"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "POZA",
-      "totalGmv": "202828"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "琳妆",
-      "totalGmv": "198292"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "梦希蓝",
-      "totalGmv": "196480"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SiLiLAN/斯丽兰",
-      "totalGmv": "195386"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "forget in",
-      "totalGmv": "192150"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Exideal",
-      "totalGmv": "187770"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "花印",
-      "totalGmv": "183360"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HEY FOX",
-      "totalGmv": "181053"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BORYOR",
-      "totalGmv": "180495"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "欣配",
-      "totalGmv": "179049"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "奥斯赫",
-      "totalGmv": "171300"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "妳尊",
-      "totalGmv": "167070"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "侨城里",
-      "totalGmv": "165520"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MinHuang/敏煌",
-      "totalGmv": "162600"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "JOSH",
-      "totalGmv": "157416"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "青紫堂",
-      "totalGmv": "156825"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "柏晶",
-      "totalGmv": "154434"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "珂颜玉",
-      "totalGmv": "152300"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "孚登",
-      "totalGmv": "151370"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BEQUEEN",
-      "totalGmv": "147400"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Hashimoto/巧本",
-      "totalGmv": "145965"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "PROYA/珀莱雅",
-      "totalGmv": "144665"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "miyang/泌洋",
-      "totalGmv": "142200"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KYM/康茵美",
-      "totalGmv": "141600"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SK-II",
-      "totalGmv": "138225"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "旭普",
-      "totalGmv": "136650"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "苹果姐姐",
-      "totalGmv": "132525"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ADAD",
-      "totalGmv": "126103"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "GZJIAMEI",
-      "totalGmv": "109698"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Seemagic",
-      "totalGmv": "103917"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "一咖",
-      "totalGmv": "102672"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "欧伊俪",
-      "totalGmv": "99318"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "VEVE",
-      "totalGmv": "98540"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "迪魔",
-      "totalGmv": "97032"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "京度",
-      "totalGmv": "94785"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "UTP",
-      "totalGmv": "92120"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "RIX",
-      "totalGmv": "91875"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Nikoja/尼科雅",
-      "totalGmv": "90180"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "AFU/阿芙",
-      "totalGmv": "89114"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美露露",
-      "totalGmv": "88700"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "IUaena",
-      "totalGmv": "88584"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "施华碧",
-      "totalGmv": "87820"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SHISEIDO/资生堂",
-      "totalGmv": "87050"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Beamia/碧米娅",
-      "totalGmv": "85585"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "OURUSA/欧瑞莎",
-      "totalGmv": "82757"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YOUNCY/云锦熙",
-      "totalGmv": "80850"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Ulike",
-      "totalGmv": "80305"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "geoskincare/纽西之谜",
-      "totalGmv": "78565"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "FYY",
-      "totalGmv": "73925"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "艾洛妍",
-      "totalGmv": "73400"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "兔头妈妈",
-      "totalGmv": "71115"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "古姿",
-      "totalGmv": "64648"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "妞娃",
-      "totalGmv": "64250"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "智掂",
-      "totalGmv": "63869"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "neezii/霓姿",
-      "totalGmv": "62693"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "安尚朵",
-      "totalGmv": "62445"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "摩妍",
-      "totalGmv": "62232"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "贝诗佳",
-      "totalGmv": "59507"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "摩凡图",
-      "totalGmv": "58964"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "sunpint",
-      "totalGmv": "58812"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "puke/浦克",
-      "totalGmv": "58437"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "秋水堂",
-      "totalGmv": "58392"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "漏泽春",
-      "totalGmv": "57828"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "亿美",
-      "totalGmv": "57595"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "JIAOCHAN/娇婵",
-      "totalGmv": "57523"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "skeen",
-      "totalGmv": "57453"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Hoi-e",
-      "totalGmv": "56162"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "moyan/摩妍",
-      "totalGmv": "56055"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "柏兰",
-      "totalGmv": "55771"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Texamo/黛末",
-      "totalGmv": "55210"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "纳晶",
-      "totalGmv": "53690"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "清和自在",
-      "totalGmv": "53135"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BOXURY",
-      "totalGmv": "52645"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "十九岁",
-      "totalGmv": "51730"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "唯品会",
-      "totalGmv": "51377"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KDK",
-      "totalGmv": "49235"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "TVLV",
-      "totalGmv": "48876"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Midea/美的",
-      "totalGmv": "48783"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "kasolly/珂诗黎",
-      "totalGmv": "47072"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "poya",
-      "totalGmv": "46610"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "RealBubee",
-      "totalGmv": "45968"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Mcomb/美看",
-      "totalGmv": "45252"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SKG",
-      "totalGmv": "45015"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KINY",
-      "totalGmv": "44830"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ivertu",
-      "totalGmv": "44565"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "debai/德白",
-      "totalGmv": "44200"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "圣迹",
-      "totalGmv": "43925"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "依蜜蔻",
-      "totalGmv": "43775"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "KINSEIBEAUTY",
-      "totalGmv": "42142"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美希",
-      "totalGmv": "41750"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "vellco",
-      "totalGmv": "41532"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "递欧",
-      "totalGmv": "41402"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "昊志",
-      "totalGmv": "41400"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "优木世源",
-      "totalGmv": "39550"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YINBA/茵芭",
-      "totalGmv": "39425"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "23°",
-      "totalGmv": "38477"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "LEFIN/乐芙茵",
-      "totalGmv": "38346"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "皇家布比",
-      "totalGmv": "37950"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Nuskin",
-      "totalGmv": "37866"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SHOWYOUNG",
-      "totalGmv": "36618"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美克斯",
-      "totalGmv": "36074"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "茉本",
-      "totalGmv": "35873"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YORK/约克",
-      "totalGmv": "35641"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "GEMEILI/格美丽",
-      "totalGmv": "35425"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "荃美嘉",
-      "totalGmv": "33942"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BUSSAGE/亲龄",
-      "totalGmv": "33443"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "wochuan/沃川",
-      "totalGmv": "31717"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MYONE/美悟",
-      "totalGmv": "31538"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "RAYHERO",
-      "totalGmv": "31360"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "二十四度西",
-      "totalGmv": "29810"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "玑妍之光",
-      "totalGmv": "29308"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "ZhiYiSi/智伊思",
-      "totalGmv": "29022"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "银泰百货",
-      "totalGmv": "27842"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "refa",
-      "totalGmv": "27212"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HAOSHIDA/豪仕达",
-      "totalGmv": "26806"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Yiseaner/伊歆娜",
-      "totalGmv": "26805"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "路丝",
-      "totalGmv": "26590"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "迪冉",
-      "totalGmv": "26028"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "轻氧",
-      "totalGmv": "25575"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "DBJ",
-      "totalGmv": "24902"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Air Rise",
-      "totalGmv": "24810"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SKINWIT/肌智",
-      "totalGmv": "24245"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "VKE",
-      "totalGmv": "23952"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "丹蔻颜究",
-      "totalGmv": "23760"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "恩汐",
-      "totalGmv": "23615"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NEWFACE/纽菲思",
-      "totalGmv": "23597"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "奥丽芙",
-      "totalGmv": "21138"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "焕享童颜",
-      "totalGmv": "21065"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SPA MASTER",
-      "totalGmv": "20435"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "comfortzone",
-      "totalGmv": "20307"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BEISHANJIAN/倍膳健",
-      "totalGmv": "19750"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HUADA/花打",
-      "totalGmv": "19488"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "佩兰诗",
-      "totalGmv": "19268"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HANSONI/韩朵",
-      "totalGmv": "19250"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "伊苼美",
-      "totalGmv": "19043"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "温美泉",
-      "totalGmv": "18093"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YAOSUN/尧尚",
-      "totalGmv": "17870"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "PIBAMY/比芭美\t",
-      "totalGmv": "17778"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Leafoo/利孚",
-      "totalGmv": "17740"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "OREADEX",
-      "totalGmv": "17671"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "欧美莲",
-      "totalGmv": "17373"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "卓晨",
-      "totalGmv": "17299"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "小衫",
-      "totalGmv": "16850"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "花凡汐",
-      "totalGmv": "16738"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "DR-HO'S/何博士",
-      "totalGmv": "16638"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Clever Angel",
-      "totalGmv": "16630"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "妍丽",
-      "totalGmv": "16628"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "伊美魔师",
-      "totalGmv": "16490"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "PE PERFECT ESSENCE",
-      "totalGmv": "16466"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MDUG",
-      "totalGmv": "16270"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美颜家",
-      "totalGmv": "16270"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "RAFA",
-      "totalGmv": "16250"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "品辰",
-      "totalGmv": "16170"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "黛玑美",
-      "totalGmv": "15830"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "WIKILEAKS",
-      "totalGmv": "15825"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Airrise",
-      "totalGmv": "15597"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "卡通兔",
-      "totalGmv": "15420"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "思凯瑞",
-      "totalGmv": "15340"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "rioymeoy/如谜",
-      "totalGmv": "15130"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MAKEUP FOREST",
-      "totalGmv": "15070"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "宝迪蔻",
-      "totalGmv": "14896"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "贝医生",
-      "totalGmv": "14753"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "DAIPUSEN/戴普森",
-      "totalGmv": "14730"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MSN/美森",
-      "totalGmv": "14710"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "goodwind",
-      "totalGmv": "14706"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "AILISIMENGLU/爱丽斯梦露",
-      "totalGmv": "14040"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "云滋泉",
-      "totalGmv": "13677"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "AKJ",
-      "totalGmv": "13665"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "FITTOP/非兔",
-      "totalGmv": "12927"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "C2U",
-      "totalGmv": "12826"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "FEIPUSHI/飞浦仕",
-      "totalGmv": "12795"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Marco pele/玛可蓓莉",
-      "totalGmv": "12780"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "樱得飞",
-      "totalGmv": "12680"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Miss.Arrivo",
-      "totalGmv": "12285"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "gagaking",
-      "totalGmv": "12098"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Unny/悠宜",
-      "totalGmv": "12085"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "BADIKA/芭蒂卡",
-      "totalGmv": "11915"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "reiA",
-      "totalGmv": "11873"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "RUNVE/嫩芙",
-      "totalGmv": "11066"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "NMS/纳美丝",
-      "totalGmv": "10672"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "LSHOW/来秀",
-      "totalGmv": "10032"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "COSBEAUTY/可思美",
-      "totalGmv": "9863"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SKK",
-      "totalGmv": "9605"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "JUNLAIKANG/君来康",
-      "totalGmv": "9530"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "muyaoshi/慕药师",
-      "totalGmv": "9418"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "COSBEAUTY",
-      "totalGmv": "9102"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "极萌",
-      "totalGmv": "8385"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "奢谜",
-      "totalGmv": "7885"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "知一有品",
-      "totalGmv": "7370"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "VANESSAMATTIA",
-      "totalGmv": "7325"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Next Wonder",
-      "totalGmv": "7290"
-    },
-    {
-      "thirdCategory": "面部美容仪器",
+      "thirdCategory": "其他",
       "brandName": "VONMIE",
-      "totalGmv": "7065"
+      "totalGmv": "1585086"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "梦蜗",
-      "totalGmv": "5983"
+      "thirdCategory": "其他",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "1509639"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "曙兴",
-      "totalGmv": "5865"
+      "thirdCategory": "其他",
+      "brandName": "KUMPOO/薰风",
+      "totalGmv": "1499712"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YADANFU/雅丹芙",
-      "totalGmv": "5553"
+      "thirdCategory": "其他",
+      "brandName": "VINNISGA/威尼世家",
+      "totalGmv": "1457435"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Hasa/哈萨",
-      "totalGmv": "5523"
+      "thirdCategory": "其他",
+      "brandName": "HongTai/宏太",
+      "totalGmv": "1360915"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "EVM MAGIC",
-      "totalGmv": "5492"
+      "thirdCategory": "其他",
+      "brandName": "筝乐",
+      "totalGmv": "1310820"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "思媚尔",
-      "totalGmv": "5343"
+      "thirdCategory": "其他",
+      "brandName": "Baotuman/宝图曼",
+      "totalGmv": "1237070"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Demo face/黛沫菲丝",
-      "totalGmv": "4470"
+      "thirdCategory": "其他",
+      "brandName": "麦瑞克",
+      "totalGmv": "1057137"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "爱而乐",
-      "totalGmv": "4428"
+      "thirdCategory": "其他",
+      "brandName": "铁甲钢拳",
+      "totalGmv": "1038462"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "SYSMON",
-      "totalGmv": "4338"
+      "thirdCategory": "其他",
+      "brandName": "顾家家居",
+      "totalGmv": "1012110"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "IISDOO",
-      "totalGmv": "4240"
+      "thirdCategory": "其他",
+      "brandName": "uzis/忧则生",
+      "totalGmv": "934286"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "HOOYS/好意诗",
-      "totalGmv": "4240"
+      "thirdCategory": "其他",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "915006"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "fetrex",
-      "totalGmv": "4220"
+      "thirdCategory": "其他",
+      "brandName": "SoulApp",
+      "totalGmv": "865354"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "黎珐",
-      "totalGmv": "4210"
+      "thirdCategory": "其他",
+      "brandName": "优田",
+      "totalGmv": "802479"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "拓进",
-      "totalGmv": "4010"
+      "thirdCategory": "其他",
+      "brandName": "Everkeep",
+      "totalGmv": "799799"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YOUFE",
-      "totalGmv": "3995"
+      "thirdCategory": "其他",
+      "brandName": "TINGXING/挺型",
+      "totalGmv": "788152"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "欧束",
-      "totalGmv": "3968"
+      "thirdCategory": "其他",
+      "brandName": "RIGORER/准者",
+      "totalGmv": "759107"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "维莉",
-      "totalGmv": "3898"
+      "thirdCategory": "其他",
+      "brandName": "fireball",
+      "totalGmv": "743182"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "WEIERJIAN/威尔健",
-      "totalGmv": "3858"
+      "thirdCategory": "其他",
+      "brandName": "KASADA/卡萨达",
+      "totalGmv": "737919"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "卡尔曼尼",
-      "totalGmv": "3690"
+      "thirdCategory": "其他",
+      "brandName": "轩冠",
+      "totalGmv": "681522"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "vcing/维茜",
-      "totalGmv": "3632"
+      "thirdCategory": "其他",
+      "brandName": "琉缘",
+      "totalGmv": "649114"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "TIV",
-      "totalGmv": "3582"
+      "thirdCategory": "其他",
+      "brandName": "Kindmax/康玛士",
+      "totalGmv": "638462"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "谢贝",
-      "totalGmv": "3555"
+      "thirdCategory": "其他",
+      "brandName": "FITURE",
+      "totalGmv": "629396"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Dreamconfidante",
-      "totalGmv": "3530"
+      "thirdCategory": "其他",
+      "brandName": "晨升",
+      "totalGmv": "612848"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "YUZHAOLIN/俞兆林",
-      "totalGmv": "3294"
+      "thirdCategory": "其他",
+      "brandName": "AirPOP",
+      "totalGmv": "583778"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "纽菲思",
-      "totalGmv": "1799"
+      "thirdCategory": "其他",
+      "brandName": "ONEMIX/玩觅",
+      "totalGmv": "577307"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "B&G",
-      "totalGmv": "1780"
+      "thirdCategory": "其他",
+      "brandName": "JJYOGA",
+      "totalGmv": "565611"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "R.LIN",
-      "totalGmv": "1776"
+      "thirdCategory": "其他",
+      "brandName": "LIARJAN/莱尔健",
+      "totalGmv": "542687"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "盛芳菲",
-      "totalGmv": "1771"
+      "thirdCategory": "其他",
+      "brandName": "XTEP/特步",
+      "totalGmv": "536809"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "寻秋",
-      "totalGmv": "1752"
+      "thirdCategory": "其他",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "524577"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "黛博兰",
-      "totalGmv": "1703"
+      "thirdCategory": "其他",
+      "brandName": "KDST",
+      "totalGmv": "518474"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美妆印",
-      "totalGmv": "1701"
+      "thirdCategory": "其他",
+      "brandName": "SEAN LEE",
+      "totalGmv": "518422"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "bEAUty SLim/纤美洁",
-      "totalGmv": "1651"
+      "thirdCategory": "其他",
+      "brandName": "zero to hero",
+      "totalGmv": "512738"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "JMsolution/肌司研",
-      "totalGmv": "1624"
+      "thirdCategory": "其他",
+      "brandName": "DONGQILAI",
+      "totalGmv": "490044"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Tagoo/叹歌",
-      "totalGmv": "1619"
+      "thirdCategory": "其他",
+      "brandName": "lara star",
+      "totalGmv": "483416"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "osak",
-      "totalGmv": "1609"
+      "thirdCategory": "其他",
+      "brandName": "COURAGE/科锐吉",
+      "totalGmv": "473447"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "toxdern/宝妥诗登",
-      "totalGmv": "1603"
+      "thirdCategory": "其他",
+      "brandName": "AONIJIE/奥尼捷",
+      "totalGmv": "456380"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "MYWIN",
-      "totalGmv": "1597"
+      "thirdCategory": "其他",
+      "brandName": "BD.POWER UP+",
+      "totalGmv": "418074"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Skyworth/创维",
-      "totalGmv": "1563"
+      "thirdCategory": "其他",
+      "brandName": "动魅",
+      "totalGmv": "406411"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Haier/海尔",
-      "totalGmv": "1532"
+      "thirdCategory": "其他",
+      "brandName": "beimengna/贝梦娜",
+      "totalGmv": "398683"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "汇优尚品",
-      "totalGmv": "1532"
+      "thirdCategory": "其他",
+      "brandName": "denike/德尼克",
+      "totalGmv": "397899"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "UTOPANDA",
-      "totalGmv": "1521"
+      "thirdCategory": "其他",
+      "brandName": "听岛",
+      "totalGmv": "396617"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美拉猫",
-      "totalGmv": "1499"
+      "thirdCategory": "其他",
+      "brandName": "汗马",
+      "totalGmv": "392305"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "嘉兰康",
-      "totalGmv": "1480"
+      "thirdCategory": "其他",
+      "brandName": "红双喜",
+      "totalGmv": "385065"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "TECHLOVE/科爱元素",
-      "totalGmv": "1469"
+      "thirdCategory": "其他",
+      "brandName": "BESSGYM/必动",
+      "totalGmv": "380390"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "碧洛迪丝",
-      "totalGmv": "1444"
+      "thirdCategory": "其他",
+      "brandName": "HSM/海斯曼",
+      "totalGmv": "379117"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "美可嘉",
-      "totalGmv": "1423"
+      "thirdCategory": "其他",
+      "brandName": "瑜点",
+      "totalGmv": "378153"
     },
     {
-      "thirdCategory": "面部美容仪器",
-      "brandName": "Nutralla/妮雀娜",
-      "totalGmv": "1405"
+      "thirdCategory": "其他",
+      "brandName": "Balneaire/范德安",
+      "totalGmv": "373025"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "LIGHT MYSTERY/逆光之谜",
-      "totalGmv": "137436250"
+      "thirdCategory": "其他",
+      "brandName": "TUNNY/金枪鱼",
+      "totalGmv": "370571"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "其它",
-      "totalGmv": "16065350"
+      "thirdCategory": "其他",
+      "brandName": "得力",
+      "totalGmv": "364887"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "RAFA",
-      "totalGmv": "9658500"
+      "thirdCategory": "其他",
+      "brandName": "RNUOY-3",
+      "totalGmv": "361596"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "ELLKII",
-      "totalGmv": "7826750"
+      "thirdCategory": "其他",
+      "brandName": "QATAR 2022",
+      "totalGmv": "360065"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "MESMOOTH/慕苏",
-      "totalGmv": "7589320"
+      "thirdCategory": "其他",
+      "brandName": "亿健",
+      "totalGmv": "360051"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "递欧",
-      "totalGmv": "4545000"
+      "thirdCategory": "其他",
+      "brandName": "忠来",
+      "totalGmv": "359102"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "妃莺雪",
-      "totalGmv": "3917000"
+      "thirdCategory": "其他",
+      "brandName": "Codoon/咕咚",
+      "totalGmv": "358998"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "斐珞尔",
-      "totalGmv": "1267500"
+      "thirdCategory": "其他",
+      "brandName": "帕尼尼",
+      "totalGmv": "356893"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "Ms.Su/蜜愫",
-      "totalGmv": "1263500"
+      "thirdCategory": "其他",
+      "brandName": "斯伯丁",
+      "totalGmv": "356658"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "MORRISBELLA/慕诗贝拉",
-      "totalGmv": "1244750"
+      "thirdCategory": "其他",
+      "brandName": "COURTMAN/野球帝",
+      "totalGmv": "355895"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "SPA MASTER",
-      "totalGmv": "1086750"
+      "thirdCategory": "其他",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "329341"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "YINBA/茵芭",
-      "totalGmv": "832000"
+      "thirdCategory": "其他",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "300256"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "医束美/医束美",
-      "totalGmv": "771250"
+      "thirdCategory": "其他",
+      "brandName": "RESHEIR",
+      "totalGmv": "275605"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "GINBI/吟美",
-      "totalGmv": "419250"
+      "thirdCategory": "其他",
+      "brandName": "Lukoufitness",
+      "totalGmv": "274613"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "初乐喜",
-      "totalGmv": "415750"
+      "thirdCategory": "其他",
+      "brandName": "Bauerfeind/保而防",
+      "totalGmv": "270131"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "CURVY MOON/月儿弯弯",
-      "totalGmv": "369250"
+      "thirdCategory": "其他",
+      "brandName": "京东旅行",
+      "totalGmv": "262705"
     },
     {
-      "thirdCategory": "面部美容工具",
-      "brandName": "LA MER/海蓝之谜",
-      "totalGmv": "351500"
+      "thirdCategory": "其他",
+      "brandName": "Keep",
+      "totalGmv": "258737"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "其它",
-      "totalGmv": "198623800"
+      "thirdCategory": "其他",
+      "brandName": "DANCE SUPER STATION/E舞成名",
+      "totalGmv": "250198"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "fpf",
-      "totalGmv": "105064000"
+      "thirdCategory": "其他",
+      "brandName": "信安智囊",
+      "totalGmv": "247805"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "迪奥",
-      "totalGmv": "100563650"
+      "thirdCategory": "其他",
+      "brandName": "Under Armour/安德玛",
+      "totalGmv": "246391"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "大内密探",
-      "totalGmv": "68982250"
+      "thirdCategory": "其他",
+      "brandName": "tmt",
+      "totalGmv": "234351"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "佩枪朱丽叶",
-      "totalGmv": "65629600"
+      "thirdCategory": "其他",
+      "brandName": "Auby/澳贝",
+      "totalGmv": "216399"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "YFP",
-      "totalGmv": "60908250"
+      "thirdCategory": "其他",
+      "brandName": "Kansoon/凯速",
+      "totalGmv": "207258"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Sellion/雪尔妮兰",
-      "totalGmv": "50185500"
+      "thirdCategory": "其他",
+      "brandName": "BANANA UNDER/蕉下",
+      "totalGmv": "188622"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "思芬雅",
-      "totalGmv": "48688000"
+      "thirdCategory": "其他",
+      "brandName": "大V店",
+      "totalGmv": "181749"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Chloe/蔻依",
-      "totalGmv": "48640250"
+      "thirdCategory": "其他",
+      "brandName": "戈伦鲨",
+      "totalGmv": "176609"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "祖玛珑",
-      "totalGmv": "45563000"
+      "thirdCategory": "其他",
+      "brandName": "佑游",
+      "totalGmv": "176417"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "HFP",
-      "totalGmv": "38417750"
+      "thirdCategory": "其他",
+      "brandName": "MIJIA/米家",
+      "totalGmv": "175874"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "TTOUCHME",
-      "totalGmv": "38051250"
+      "thirdCategory": "其他",
+      "brandName": "AUX/奥克斯",
+      "totalGmv": "175354"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "RISSERS",
-      "totalGmv": "37625000"
+      "thirdCategory": "其他",
+      "brandName": "滚铁环",
+      "totalGmv": "174781"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Boitown/冰希黎",
-      "totalGmv": "36736800"
+      "thirdCategory": "其他",
+      "brandName": "王小卤",
+      "totalGmv": "174717"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "THEBEAST/野兽派",
-      "totalGmv": "32652250"
+      "thirdCategory": "其他",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "171674"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "春风十里",
-      "totalGmv": "30951000"
+      "thirdCategory": "其他",
+      "brandName": "摩金",
+      "totalGmv": "170099"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "留香久",
-      "totalGmv": "27569000"
+      "thirdCategory": "其他",
+      "brandName": "GEORGE TOMMY/乔治汤米",
+      "totalGmv": "165397"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "caobenhaiyang/草本海洋",
-      "totalGmv": "24030000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "vita bloom",
-      "totalGmv": "22573000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JIGUXI/纪古希",
-      "totalGmv": "20419750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Versace/范思哲",
-      "totalGmv": "19047350"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Maison Margiela/梅森·马吉拉",
-      "totalGmv": "18470250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "递欧",
-      "totalGmv": "17863600"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Bvlgari/宝格丽(美妆）",
-      "totalGmv": "16697600"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "CARLOTTA/奕香",
-      "totalGmv": "15790100"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "RVX",
-      "totalGmv": "14609750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "爱恋羞羞",
-      "totalGmv": "13341250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "GIORGIO ARMANI/阿玛尼",
-      "totalGmv": "13314350"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "SEVENCHIC",
-      "totalGmv": "12975750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JINBADI",
-      "totalGmv": "12281700"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "左颜右色",
-      "totalGmv": "11713750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "2099",
-      "totalGmv": "11600250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "SHIMANG/诗芒",
-      "totalGmv": "10687750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "靓姿",
-      "totalGmv": "10209000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "YSL/圣罗兰",
-      "totalGmv": "10031300"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "香奈儿",
-      "totalGmv": "9696500"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "WARMKISS",
-      "totalGmv": "9311750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "露兰姿",
-      "totalGmv": "8403250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Narciso Rodriguez/纳西索·罗德里格斯",
-      "totalGmv": "6929000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "For Shine",
-      "totalGmv": "6789750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "珀诗兰",
-      "totalGmv": "6765750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "MOLAFEIER/摩拉菲尔",
-      "totalGmv": "6704750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "CHAFFUL/香芙儿",
-      "totalGmv": "6201750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Aura",
-      "totalGmv": "5941000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "巴莉奥",
-      "totalGmv": "5867250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "等黎妃",
-      "totalGmv": "5830350"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "XiLa/夕拉",
-      "totalGmv": "5736250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "黑色诱惑",
-      "totalGmv": "5396750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "GUCCI/古驰",
-      "totalGmv": "5304750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "ImSole",
-      "totalGmv": "5281500"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "摩拉菲尔",
-      "totalGmv": "4834000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Elizabeth Arden/伊丽莎白雅顿",
-      "totalGmv": "4659000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "TRUSSARDI/杜鲁萨迪",
-      "totalGmv": "4500000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "纪梵希",
-      "totalGmv": "4452500"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "可可小姐",
-      "totalGmv": "4396500"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "博柏利",
-      "totalGmv": "4395000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "CALVIN KLEIN",
-      "totalGmv": "4354000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "潘达",
-      "totalGmv": "4222500"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "LIANG ZI",
-      "totalGmv": "4208750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "LESSXCOCO",
-      "totalGmv": "4174100"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JACQUESFATH",
-      "totalGmv": "3569000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Soully",
-      "totalGmv": "3092750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "nywow o",
-      "totalGmv": "3067250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "花之物语",
-      "totalGmv": "3008600"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JEAN MISS",
-      "totalGmv": "2969750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "芳慕",
-      "totalGmv": "2953000"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "马蒂埃",
-      "totalGmv": "2861750"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "蒂罗雅(DILUOYA)",
-      "totalGmv": "2812500"
-    },
-    {
-      "thirdCategory": "香水/香膏",
-      "brandName": "dixianger/迪香儿",
-      "totalGmv": "2789250"
-    },
-    {
-      "thirdCategory": "香水/香膏",
+      "thirdCategory": "其他",
       "brandName": "古驰",
-      "totalGmv": "2784950"
+      "totalGmv": "163781"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "世丽雅",
-      "totalGmv": "2772000"
+      "thirdCategory": "其他",
+      "brandName": "威耐德",
+      "totalGmv": "161908"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "MANFRIEND/麦芙迪",
-      "totalGmv": "2762000"
+      "thirdCategory": "其他",
+      "brandName": "王芳教育",
+      "totalGmv": "157519"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "爱马仕",
-      "totalGmv": "2738500"
+      "thirdCategory": "其他",
+      "brandName": "361°",
+      "totalGmv": "129775"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "离俗",
-      "totalGmv": "2710750"
+      "thirdCategory": "其他",
+      "brandName": "无畏东方",
+      "totalGmv": "128186"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "adopt",
-      "totalGmv": "2691750"
+      "thirdCategory": "其他",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "123440"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Chuxinlianren/初心恋人",
-      "totalGmv": "2290500"
+      "thirdCategory": "其他",
+      "brandName": "德瓦鲁",
+      "totalGmv": "103654"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "SREREOTYE",
-      "totalGmv": "2287500"
+      "thirdCategory": "其他",
+      "brandName": "S&W",
+      "totalGmv": "90808"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "姗那贝拉",
-      "totalGmv": "2244500"
+      "thirdCategory": "其他",
+      "brandName": "DOUBLE FISH/双鱼",
+      "totalGmv": "89538"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "茜如娇",
-      "totalGmv": "2170000"
+      "thirdCategory": "其他",
+      "brandName": "HV",
+      "totalGmv": "86327"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "RalphLauren",
-      "totalGmv": "2124750"
+      "thirdCategory": "其他",
+      "brandName": "Deerway/德尔惠",
+      "totalGmv": "85619"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "梦幻日记",
-      "totalGmv": "2075500"
+      "thirdCategory": "其他",
+      "brandName": "万友",
+      "totalGmv": "85516"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "MCM",
-      "totalGmv": "2068750"
+      "thirdCategory": "其他",
+      "brandName": "QIJIN/起劲",
+      "totalGmv": "84739"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "prochain",
-      "totalGmv": "2036750"
+      "thirdCategory": "其他",
+      "brandName": "英尔健",
+      "totalGmv": "83438"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "TOUS/桃丝熊",
-      "totalGmv": "2024500"
+      "thirdCategory": "其他",
+      "brandName": "Windstorm",
+      "totalGmv": "82588"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Fonce/梵西",
-      "totalGmv": "2021500"
+      "thirdCategory": "其他",
+      "brandName": "meixi/梅西",
+      "totalGmv": "82105"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "C2U",
-      "totalGmv": "2014750"
+      "thirdCategory": "其他",
+      "brandName": "TKU/齐克努专注羽毛球运动",
+      "totalGmv": "81563"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "汤姆.福特",
-      "totalGmv": "2010000"
+      "thirdCategory": "其他",
+      "brandName": "Bestray/百斯锐",
+      "totalGmv": "79863"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Atelier Rebul",
-      "totalGmv": "1731000"
+      "thirdCategory": "其他",
+      "brandName": "Wilson/威尔胜",
+      "totalGmv": "68550"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "麦尔卡伦",
-      "totalGmv": "1687500"
+      "thirdCategory": "其他",
+      "brandName": "Mixd/觅定",
+      "totalGmv": "67295"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "NodOff",
-      "totalGmv": "1685000"
+      "thirdCategory": "其他",
+      "brandName": "华美电器",
+      "totalGmv": "63695"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "SEAFANCY/圣梵诗",
-      "totalGmv": "1598250"
+      "thirdCategory": "其他",
+      "brandName": "MUSE ONLY",
+      "totalGmv": "62948"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "CHARM",
-      "totalGmv": "1551000"
+      "thirdCategory": "其他",
+      "brandName": "OU CHU/鸥楚",
+      "totalGmv": "61889"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JIAEN/葭恩",
-      "totalGmv": "1503000"
+      "thirdCategory": "其他",
+      "brandName": "LUXIAOJUN/吕小军",
+      "totalGmv": "61763"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Emporio Armani/安普里奥·阿玛尼",
-      "totalGmv": "1476000"
+      "thirdCategory": "其他",
+      "brandName": "骐骏",
+      "totalGmv": "61431"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "AMORTALS/尔木萄",
-      "totalGmv": "1432750"
+      "thirdCategory": "其他",
+      "brandName": "ANTA/安踏",
+      "totalGmv": "59838"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "ATELIER REBUL DEPUIS 1895",
-      "totalGmv": "1293750"
+      "thirdCategory": "其他",
+      "brandName": "TLSS.",
+      "totalGmv": "59731"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "雅芳",
-      "totalGmv": "1279000"
+      "thirdCategory": "其他",
+      "brandName": "花点时间",
+      "totalGmv": "59210"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "BRUNO MAGLI",
-      "totalGmv": "1269750"
+      "thirdCategory": "其他",
+      "brandName": "承动",
+      "totalGmv": "57179"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "巴格黎",
-      "totalGmv": "1227000"
+      "thirdCategory": "其他",
+      "brandName": "huamei/华美",
+      "totalGmv": "56963"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "AYNOIR",
-      "totalGmv": "1206000"
+      "thirdCategory": "其他",
+      "brandName": "伽话",
+      "totalGmv": "40518"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JIAOBOLAN/娇柏兰",
-      "totalGmv": "1197000"
+      "thirdCategory": "其他",
+      "brandName": "海铭宝宝",
+      "totalGmv": "40078"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "lovelyShop⋅/可爱小铺",
-      "totalGmv": "1196750"
+      "thirdCategory": "其他",
+      "brandName": "Midea/美的",
+      "totalGmv": "36881"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "妙乙乙",
-      "totalGmv": "1182750"
+      "thirdCategory": "其他",
+      "brandName": "DODOWA/动动哇",
+      "totalGmv": "36839"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JEANMISS",
-      "totalGmv": "1178000"
+      "thirdCategory": "其他",
+      "brandName": "SHUA/舒华",
+      "totalGmv": "36677"
     },
     {
-      "thirdCategory": "香水/香膏",
+      "thirdCategory": "其他",
+      "brandName": "MOOFINE",
+      "totalGmv": "35800"
+    },
+    {
+      "thirdCategory": "其他",
+      "brandName": "全世爆",
+      "totalGmv": "35457"
+    },
+    {
+      "thirdCategory": "其他",
+      "brandName": "尚氧",
+      "totalGmv": "35309"
+    },
+    {
+      "thirdCategory": "其他",
+      "brandName": "POP MART/泡泡玛特",
+      "totalGmv": "18259"
+    },
+    {
+      "thirdCategory": "其他",
+      "brandName": "3515",
+      "totalGmv": "17731"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "其它",
+      "totalGmv": "49393107"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "CattieKieig",
+      "totalGmv": "24613796"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "XTEP/特步",
+      "totalGmv": "12651942"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Kunli/群力",
+      "totalGmv": "11673999"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "PROIRON",
+      "totalGmv": "9595694"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "劳拉之星",
+      "totalGmv": "8147922"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "VEIDOORN/维动",
+      "totalGmv": "5375787"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "3665795"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Dayunco",
+      "totalGmv": "2929338"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "RIGORER/准者",
+      "totalGmv": "2790928"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "zero to hero",
+      "totalGmv": "2786702"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "crossgrip",
+      "totalGmv": "1954395"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Kindmax/康玛士",
+      "totalGmv": "1797629"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Baotuman/宝图曼",
+      "totalGmv": "1678645"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "1467526"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "迈博思",
+      "totalGmv": "1452240"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "勇进",
+      "totalGmv": "859366"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Lukoufitness",
+      "totalGmv": "775715"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "松本岛",
+      "totalGmv": "712487"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "KANTE/坎特",
+      "totalGmv": "678312"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "AirPOP",
+      "totalGmv": "677730"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "GORGO TAEL/戈戈尔",
+      "totalGmv": "520328"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Bauerfeind/保而防",
+      "totalGmv": "489048"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "海铭宝宝",
+      "totalGmv": "438105"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "YALU/雅鹿",
+      "totalGmv": "402179"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Galvaran",
+      "totalGmv": "352328"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Windstorm",
+      "totalGmv": "348140"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Deerway/德尔惠",
+      "totalGmv": "322176"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "WATO",
+      "totalGmv": "301690"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "邦安鸿",
+      "totalGmv": "259159"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Under Armour/安德玛",
+      "totalGmv": "242737"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "Bestray/百斯锐",
+      "totalGmv": "187327"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "AIRPOPPLUS",
+      "totalGmv": "183697"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "今日康",
+      "totalGmv": "183108"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "QIJIN/起劲",
+      "totalGmv": "180135"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "nooie",
+      "totalGmv": "168854"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "肌肉公爵",
+      "totalGmv": "165311"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "AOLANCHUN/奥榄纯",
+      "totalGmv": "162869"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "SMOOKY",
+      "totalGmv": "157627"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "密汐",
+      "totalGmv": "119251"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "无畏东方",
+      "totalGmv": "101054"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "3M",
+      "totalGmv": "86427"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "INDEEMAX/英帝麦",
+      "totalGmv": "86257"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "TUNNY/金枪鱼",
+      "totalGmv": "85510"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "康玛士",
+      "totalGmv": "81352"
+    },
+    {
+      "thirdCategory": "其他运动护具",
+      "brandName": "信安智囊",
+      "totalGmv": "39832"
+    },
+    {
+      "thirdCategory": "冥想垫",
+      "brandName": "其它",
+      "totalGmv": "16103"
+    },
+    {
+      "thirdCategory": "冰上运动配件区",
+      "brandName": "其它",
+      "totalGmv": "95949"
+    },
+    {
+      "thirdCategory": "冰球",
+      "brandName": "DONGQILAI",
+      "totalGmv": "638019"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "361°",
+      "totalGmv": "12094922"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "toswim/泳镜侠",
+      "totalGmv": "10908636"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "8836822"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "OMOM",
+      "totalGmv": "2954225"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "亦美珊",
+      "totalGmv": "1526783"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "其它",
+      "totalGmv": "961845"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "萱倾",
+      "totalGmv": "613802"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "MsShe/慕姗诗怡",
+      "totalGmv": "438857"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "美亦舒",
+      "totalGmv": "369879"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "翔微儿",
+      "totalGmv": "368535"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "breeze holiday",
+      "totalGmv": "258737"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "昊之浪",
+      "totalGmv": "246152"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "Balneaire/范德安",
+      "totalGmv": "241906"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "韩衍",
+      "totalGmv": "237610"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "周熙儿",
+      "totalGmv": "215221"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "XTEP/特步",
+      "totalGmv": "179448"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "佑游",
+      "totalGmv": "159705"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "漫丽珊",
+      "totalGmv": "157582"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "蝶云格",
+      "totalGmv": "88809"
+    },
+    {
+      "thirdCategory": "分体泳衣",
+      "brandName": "羽克",
+      "totalGmv": "80854"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "SEAN LEE",
+      "totalGmv": "3465430"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "麦瑞克",
+      "totalGmv": "2187778"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "其它",
+      "totalGmv": "907093"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "crystal/水晶",
+      "totalGmv": "404462"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "274689"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "特泽瓦",
+      "totalGmv": "185367"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "齐合意",
+      "totalGmv": "159977"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "其他",
+      "totalGmv": "89818"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "MOKFITNESS",
+      "totalGmv": "89636"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "schvodon/舒动",
+      "totalGmv": "62774"
+    },
+    {
+      "thirdCategory": "划船机",
+      "brandName": "莫比健身",
+      "totalGmv": "39628"
+    },
+    {
+      "thirdCategory": "力量训练器械(局部型)",
+      "brandName": "劳拉之星",
+      "totalGmv": "67053"
+    },
+    {
+      "thirdCategory": "力量训练器械(综合型)",
+      "brandName": "FITURE",
+      "totalGmv": "11851709"
+    },
+    {
+      "thirdCategory": "力量训练器械(综合型)",
+      "brandName": "军霞",
+      "totalGmv": "2907551"
+    },
+    {
+      "thirdCategory": "力量训练器械(综合性)",
+      "brandName": "DOOP",
+      "totalGmv": "3278250"
+    },
+    {
+      "thirdCategory": "力量训练器械(综合性)",
+      "brandName": "军霞",
+      "totalGmv": "927084"
+    },
+    {
+      "thirdCategory": "力量训练器械(综合性)",
+      "brandName": "XMASTER",
+      "totalGmv": "439056"
+    },
+    {
+      "thirdCategory": "力量训练器械(综合性)",
+      "brandName": "GYMGEST",
+      "totalGmv": "358528"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "69951125"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "麦瑞克",
+      "totalGmv": "21154846"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "Keep",
+      "totalGmv": "6436641"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "其它",
+      "totalGmv": "3513963"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "英尔健",
+      "totalGmv": "2521471"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "1974788"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "宝迪龙",
+      "totalGmv": "1093227"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "ZHUOPAI/卓牌",
+      "totalGmv": "358748"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "汗马",
+      "totalGmv": "184871"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "onetwofit",
+      "totalGmv": "161162"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "SD/SD",
+      "totalGmv": "127933"
+    },
+    {
+      "thirdCategory": "动感单车",
+      "brandName": "MBH/迈宝赫",
+      "totalGmv": "38207"
+    },
+    {
+      "thirdCategory": "单双杠/引体向上",
+      "brandName": "crystal/水晶",
+      "totalGmv": "4412473"
+    },
+    {
+      "thirdCategory": "单双杠/引体向上",
+      "brandName": "诺德玛",
+      "totalGmv": "4021549"
+    },
+    {
+      "thirdCategory": "单双杠/引体向上",
+      "brandName": "KDST",
+      "totalGmv": "945228"
+    },
+    {
+      "thirdCategory": "单双杠/引体向上",
+      "brandName": "其它",
+      "totalGmv": "526515"
+    },
+    {
+      "thirdCategory": "单双杠/引体向上",
+      "brandName": "PROIRON",
+      "totalGmv": "183041"
+    },
+    {
+      "thirdCategory": "单双杠/引体向上",
+      "brandName": "FREESK",
+      "totalGmv": "37547"
+    },
+    {
+      "thirdCategory": "单双杠/引体向上",
+      "brandName": "LIDAK",
+      "totalGmv": "35337"
+    },
+    {
+      "thirdCategory": "双截棍",
+      "brandName": "木犀鸟",
+      "totalGmv": "1605015"
+    },
+    {
+      "thirdCategory": "双截棍",
+      "brandName": "银焰",
+      "totalGmv": "67787"
+    },
+    {
+      "thirdCategory": "双排轮",
+      "brandName": "良角",
+      "totalGmv": "81416"
+    },
+    {
+      "thirdCategory": "发牌机",
+      "brandName": "其它",
+      "totalGmv": "196192"
+    },
+    {
+      "thirdCategory": "台球",
+      "brandName": "其它",
+      "totalGmv": "16005241"
+    },
+    {
+      "thirdCategory": "台球",
+      "brandName": "gujiang/古匠",
+      "totalGmv": "164857"
+    },
+    {
+      "thirdCategory": "台球三角架",
+      "brandName": "其它",
+      "totalGmv": "541402"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "其它",
+      "totalGmv": "218910221"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "PERI/皮尔力",
+      "totalGmv": "24422400"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "野豹",
+      "totalGmv": "20835629"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "gujiang/古匠",
+      "totalGmv": "15597555"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "O’Min/奥秘",
+      "totalGmv": "12407492"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "LP/台山市恒轩台球精品有限公司",
+      "totalGmv": "4099007"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "dmini/多米尼",
+      "totalGmv": "2349716"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "百偲",
+      "totalGmv": "2242735"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "健英",
+      "totalGmv": "2240662"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "康溪",
+      "totalGmv": "2203392"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "Hong Niu Snooker/泓牛桌球",
+      "totalGmv": "2077538"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "达芬尼",
+      "totalGmv": "1987149"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "Arch Benz/奥斯本兹",
+      "totalGmv": "1114762"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "星耀",
+      "totalGmv": "1053338"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "黑鹰",
+      "totalGmv": "904697"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "皓月",
+      "totalGmv": "808085"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "开元",
+      "totalGmv": "774121"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "fury",
+      "totalGmv": "631987"
+    },
+    {
+      "thirdCategory": "台球杆",
       "brandName": "LAPOE",
-      "totalGmv": "1167000"
+      "totalGmv": "602947"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Hermes/爱马仕",
-      "totalGmv": "1154500"
+      "thirdCategory": "台球杆",
+      "brandName": "添韵",
+      "totalGmv": "552007"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Paul Smith/保罗史密斯",
-      "totalGmv": "1122000"
+      "thirdCategory": "台球杆",
+      "brandName": "路易威登",
+      "totalGmv": "398138"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "COACH/蔻驰",
-      "totalGmv": "920700"
+      "thirdCategory": "台球杆",
+      "brandName": "璟点",
+      "totalGmv": "378453"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "摩登巴赫",
-      "totalGmv": "884500"
+      "thirdCategory": "台球杆",
+      "brandName": "博动",
+      "totalGmv": "343887"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "L'OREAL /欧莱雅",
-      "totalGmv": "873000"
+      "thirdCategory": "台球杆",
+      "brandName": "郑宇伯",
+      "totalGmv": "324213"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "weilanzi/薇兰姿",
-      "totalGmv": "872000"
+      "thirdCategory": "台球杆",
+      "brandName": "OWN-CUE",
+      "totalGmv": "303316"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "MLAB",
-      "totalGmv": "868500"
+      "thirdCategory": "台球杆",
+      "brandName": "伯威",
+      "totalGmv": "286779"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "FUSHENGLIUJI/馥生六记",
-      "totalGmv": "857000"
+      "thirdCategory": "台球杆",
+      "brandName": "识途者",
+      "totalGmv": "258095"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "保罗拉夫劳伦",
-      "totalGmv": "842000"
+      "thirdCategory": "台球杆",
+      "brandName": "奥拉玛",
+      "totalGmv": "242146"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "FERRAGAMO/菲拉格慕",
-      "totalGmv": "837500"
+      "thirdCategory": "台球杆",
+      "brandName": "KINGSUN/KINGSUN",
+      "totalGmv": "177242"
     },
     {
-      "thirdCategory": "香水/香膏",
+      "thirdCategory": "台球杆",
+      "brandName": "康溪盛世",
+      "totalGmv": "172973"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "mapleleaf",
+      "totalGmv": "98417"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "环美家居",
+      "totalGmv": "94764"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "赛睿",
+      "totalGmv": "94375"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "HUNT&CUSTOM",
+      "totalGmv": "81289"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "碧恩",
+      "totalGmv": "78924"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "德宝",
+      "totalGmv": "73784"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "蓝蔻",
+      "totalGmv": "64547"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "dr.arrivo",
+      "totalGmv": "60109"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "GrandCues",
+      "totalGmv": "58167"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "美莱斯",
+      "totalGmv": "36961"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "WILLHUNT",
+      "totalGmv": "36845"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "美兹",
+      "totalGmv": "35843"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "Cuppa",
+      "totalGmv": "33862"
+    },
+    {
+      "thirdCategory": "台球杆",
+      "brandName": "IKON",
+      "totalGmv": "16558"
+    },
+    {
+      "thirdCategory": "台球桌",
+      "brandName": "DHZ",
+      "totalGmv": "1576947"
+    },
+    {
+      "thirdCategory": "台球桌",
+      "brandName": "其它",
+      "totalGmv": "1570929"
+    },
+    {
+      "thirdCategory": "台球桌",
+      "brandName": "百劲",
+      "totalGmv": "270173"
+    },
+    {
+      "thirdCategory": "台球桌",
+      "brandName": "康溪",
+      "totalGmv": "88775"
+    },
+    {
+      "thirdCategory": "台球配件",
+      "brandName": "其它",
+      "totalGmv": "37289"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "其它",
+      "totalGmv": "16347148"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "Nan ji ren/南极人",
+      "totalGmv": "6090325"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "THURMAN",
+      "totalGmv": "2813571"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "361°",
+      "totalGmv": "2437728"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "品健",
+      "totalGmv": "1903013"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "特泽瓦",
+      "totalGmv": "1539089"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "ENTESI",
+      "totalGmv": "982012"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "贵派仕",
+      "totalGmv": "375828"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "尚氧",
+      "totalGmv": "362810"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "热炼",
+      "totalGmv": "238335"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "iMao",
+      "totalGmv": "88454"
+    },
+    {
+      "thirdCategory": "呼啦圈",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "61157"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "其它",
+      "totalGmv": "13600692"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "12135120"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "品健",
+      "totalGmv": "3886161"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "AtivaFit",
+      "totalGmv": "3508341"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "特泽瓦",
+      "totalGmv": "2144185"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "PROIRON",
+      "totalGmv": "1800558"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "力耐德",
+      "totalGmv": "1049770"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "劳拉之星",
+      "totalGmv": "805044"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "三六九健",
+      "totalGmv": "341451"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "XMASTER",
+      "totalGmv": "284806"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "258260"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "qeedns",
+      "totalGmv": "225809"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "力康来",
+      "totalGmv": "223135"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "JUNSHUO/君硕",
+      "totalGmv": "184781"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "海德",
+      "totalGmv": "158595"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "戏狮",
+      "totalGmv": "150246"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "ZE YANG/泽扬",
+      "totalGmv": "65587"
+    },
+    {
+      "thirdCategory": "哑铃",
+      "brandName": "Podeman",
+      "totalGmv": "39607"
+    },
+    {
+      "thirdCategory": "啦啦队",
+      "brandName": "其它",
+      "totalGmv": "1834205"
+    },
+    {
+      "thirdCategory": "啦啦队",
+      "brandName": "她画",
+      "totalGmv": "360249"
+    },
+    {
+      "thirdCategory": "啦啦队",
+      "brandName": "TOTEN",
+      "totalGmv": "338717"
+    },
+    {
+      "thirdCategory": "啦啦队",
+      "brandName": "FUNKY",
+      "totalGmv": "191900"
+    },
+    {
+      "thirdCategory": "器械减震垫",
+      "brandName": "麦瑞克",
+      "totalGmv": "393131"
+    },
+    {
+      "thirdCategory": "围棋",
+      "brandName": "其它",
+      "totalGmv": "878029"
+    },
+    {
+      "thirdCategory": "围棋",
+      "brandName": "棋魂",
+      "totalGmv": "450409"
+    },
+    {
+      "thirdCategory": "围棋",
+      "brandName": "有道",
+      "totalGmv": "79368"
+    },
+    {
+      "thirdCategory": "场馆音响设备",
+      "brandName": "其它",
+      "totalGmv": "692505"
+    },
+    {
+      "thirdCategory": "塑胶/运动地板",
+      "brandName": "其它",
+      "totalGmv": "165792"
+    },
+    {
+      "thirdCategory": "塑胶/运动地板",
+      "brandName": "JINTA/劲踏",
+      "totalGmv": "96012"
+    },
+    {
+      "thirdCategory": "壁球鞋",
+      "brandName": "其它",
+      "totalGmv": "189889"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "其它",
+      "totalGmv": "28761613"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "8754965"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "特泽瓦",
+      "totalGmv": "4097766"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "力非凡",
+      "totalGmv": "3917443"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "LEXI/乐系",
+      "totalGmv": "2859889"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "广威",
+      "totalGmv": "2686442"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "PROIRON",
+      "totalGmv": "1525166"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "无/魂跳",
+      "totalGmv": "1261128"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "劳拉之星",
+      "totalGmv": "587857"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "576845"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "173844"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "JUNSHUO/君硕",
+      "totalGmv": "148593"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "壶铃",
+      "totalGmv": "50827"
+    },
+    {
+      "thirdCategory": "壶铃",
+      "brandName": "动呗",
+      "totalGmv": "35619"
+    },
+    {
+      "thirdCategory": "大型健身器械配件区",
+      "brandName": "XMASTER",
+      "totalGmv": "292621"
+    },
+    {
+      "thirdCategory": "大型健身器械配件区",
+      "brandName": "其它",
+      "totalGmv": "62669"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "其它",
+      "totalGmv": "1650221"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "秀华道源",
+      "totalGmv": "1360323"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "武修",
+      "totalGmv": "1287756"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "SHANREN SPORTS/山人运动",
+      "totalGmv": "712861"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "红棉(鞋)",
+      "totalGmv": "706208"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "chenying/陈英",
+      "totalGmv": "366219"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "bailichuan/百里川",
+      "totalGmv": "359600"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "武印象",
+      "totalGmv": "348986"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "342288"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "蜀西刘记",
+      "totalGmv": "283441"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "木犀鸟",
+      "totalGmv": "167802"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "绘武",
+      "totalGmv": "162604"
+    },
+    {
+      "thirdCategory": "太极",
+      "brandName": "武當山",
+      "totalGmv": "68141"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "fouqi/否奇",
+      "totalGmv": "43210663"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "亦美珊",
+      "totalGmv": "36396785"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "OMOM",
+      "totalGmv": "31996469"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "361°",
+      "totalGmv": "18456733"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Balneaire/范德安",
+      "totalGmv": "16109005"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "佑游",
+      "totalGmv": "10890068"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "10745100"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Agliondy",
+      "totalGmv": "8311217"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "concept king/concept king",
+      "totalGmv": "6383942"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "其它",
+      "totalGmv": "6006009"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "YOUDIAN/尤迪安",
+      "totalGmv": "4362280"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "昊之浪",
+      "totalGmv": "2138097"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "蓓迩优品",
+      "totalGmv": "1933162"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "汐歌儿",
+      "totalGmv": "759201"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "huayiyan/花依妍",
+      "totalGmv": "743215"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Zoke/洲克",
+      "totalGmv": "645530"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Embry Form/安莉芳",
+      "totalGmv": "560210"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "美亦舒",
+      "totalGmv": "532150"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "畅宁",
+      "totalGmv": "417913"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Ylsswim/昱浪舒",
+      "totalGmv": "413521"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "ACIRKESE/安诗克斯",
+      "totalGmv": "348006"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "hainisha/海妮莎",
+      "totalGmv": "266701"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "周熙儿",
+      "totalGmv": "189917"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Comfit",
+      "totalGmv": "184582"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "沐赛伊",
+      "totalGmv": "172473"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "NEI WAI/内外",
+      "totalGmv": "169569"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "PULASSI/普拉施",
+      "totalGmv": "168809"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "爱莎",
+      "totalGmv": "168535"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Disney/迪士尼",
+      "totalGmv": "166573"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "麦麦秋",
+      "totalGmv": "162258"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "羽克",
+      "totalGmv": "160705"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "谢贝",
+      "totalGmv": "160571"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "toswim/泳镜侠",
+      "totalGmv": "157843"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "adoreswim/爱多尔",
+      "totalGmv": "150376"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "yonggeer/泳歌儿",
+      "totalGmv": "141870"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "VSHA",
+      "totalGmv": "139091"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "NIDALEE",
+      "totalGmv": "92726"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "91463"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "捷舒奇姿",
+      "totalGmv": "90868"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "BESWAN",
+      "totalGmv": "83958"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "拓胜",
+      "totalGmv": "68249"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "三奇",
+      "totalGmv": "66461"
+    },
+    {
+      "thirdCategory": "女士泳衣/裤",
+      "brandName": "韩衍",
+      "totalGmv": "34414"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "其它",
+      "totalGmv": "31114171"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "Windstorm",
+      "totalGmv": "3979338"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "SO NICE/舒奈斯",
+      "totalGmv": "947244"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "拍拍乐",
+      "totalGmv": "862557"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "尚氧",
+      "totalGmv": "407073"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "SALUKO",
+      "totalGmv": "369675"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "伽话",
+      "totalGmv": "344205"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "大辽",
+      "totalGmv": "185683"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "SMOOKY",
+      "totalGmv": "131550"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "轩冠",
+      "totalGmv": "90596"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "ADKING",
+      "totalGmv": "62223"
+    },
+    {
+      "thirdCategory": "娃娃跳/弹跳器",
+      "brandName": "领跑虎",
+      "totalGmv": "34778"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "9195138"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "其它",
+      "totalGmv": "8627867"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "HIYYIH",
+      "totalGmv": "989013"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "许沫",
+      "totalGmv": "984068"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "超人",
+      "totalGmv": "397587"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "松神",
+      "totalGmv": "359961"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "165058"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "Lukoufitness",
+      "totalGmv": "151881"
+    },
+    {
+      "thirdCategory": "小腿拉伸训练器/拉筋训练器",
+      "brandName": "Jea·Love/Jea·Love",
+      "totalGmv": "90051"
+    },
+    {
+      "thirdCategory": "山羊/跳马/跳箱",
+      "brandName": "DILANYA/迪兰娅",
+      "totalGmv": "721301"
+    },
+    {
+      "thirdCategory": "巧克粉",
+      "brandName": "其它",
+      "totalGmv": "352225"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "牛霸道",
+      "totalGmv": "20832713"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "其它",
+      "totalGmv": "17757271"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "特丝丽她",
+      "totalGmv": "7432279"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "雅格燕",
+      "totalGmv": "3901514"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "曼舞初曦",
+      "totalGmv": "3250540"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "纤伽",
+      "totalGmv": "2540768"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "悦帕",
+      "totalGmv": "969460"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "欢舞阁",
+      "totalGmv": "830822"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "ZIMIXUE/紫米雪",
+      "totalGmv": "783190"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "汉宫主",
+      "totalGmv": "776990"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "杨清柠",
+      "totalGmv": "687033"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "异方",
+      "totalGmv": "584091"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "范儿丹斯",
+      "totalGmv": "572417"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "依曼",
+      "totalGmv": "360156"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "XVRV/XVRV",
+      "totalGmv": "342220"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "艺博",
+      "totalGmv": "186980"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "XIANG YIN ZHI WU/湘银之舞",
+      "totalGmv": "173781"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "舞乐滋",
+      "totalGmv": "159476"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "密绾",
+      "totalGmv": "86231"
+    },
+    {
+      "thirdCategory": "广场舞",
+      "brandName": "FANER DANCE/范儿丹斯",
+      "totalGmv": "83498"
+    },
+    {
+      "thirdCategory": "弓",
+      "brandName": "其它",
+      "totalGmv": "5480304"
+    },
+    {
+      "thirdCategory": "弓",
+      "brandName": "黑鹰",
+      "totalGmv": "635900"
+    },
+    {
+      "thirdCategory": "弓",
+      "brandName": "SANLIDA/三利达",
+      "totalGmv": "60938"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "其它",
+      "totalGmv": "62444211"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "Paul Frank/大嘴猴",
+      "totalGmv": "1447303"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "1391168"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "PHILEX",
+      "totalGmv": "559531"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "256026"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "摩力科",
+      "totalGmv": "178676"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "爱逸",
+      "totalGmv": "175564"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "THURMAN",
+      "totalGmv": "165443"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "SESSEKA/希斯卡",
+      "totalGmv": "60264"
+    },
+    {
+      "thirdCategory": "弹力棒/健身棒",
+      "brandName": "TINGXING/挺型",
+      "totalGmv": "35352"
+    },
+    {
+      "thirdCategory": "悠悠/溜溜球",
+      "brandName": "其它",
+      "totalGmv": "516579"
+    },
+    {
+      "thirdCategory": "戏水玩具",
+      "brandName": "其它",
+      "totalGmv": "1177500"
+    },
+    {
+      "thirdCategory": "戏水玩具",
+      "brandName": "B.DUCK",
+      "totalGmv": "409889"
+    },
+    {
+      "thirdCategory": "戏水玩具",
+      "brandName": "谷优",
+      "totalGmv": "220561"
+    },
+    {
+      "thirdCategory": "戏水玩具",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "97410"
+    },
+    {
+      "thirdCategory": "手胶/吸汗带",
+      "brandName": "其它",
+      "totalGmv": "5956297"
+    },
+    {
+      "thirdCategory": "手胶/吸汗带",
+      "brandName": "浦锐",
+      "totalGmv": "5506800"
+    },
+    {
+      "thirdCategory": "手胶/吸汗带",
+      "brandName": "格朗",
+      "totalGmv": "367736"
+    },
+    {
+      "thirdCategory": "手胶/吸汗带",
+      "brandName": "WXY/王小羽",
+      "totalGmv": "130223"
+    },
+    {
+      "thirdCategory": "手胶/吸汗带",
+      "brandName": "JNM/JNM",
+      "totalGmv": "78955"
+    },
+    {
+      "thirdCategory": "手胶/吸汗带",
+      "brandName": "YONEX/尤尼克斯",
+      "totalGmv": "62713"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "其它",
+      "totalGmv": "68821633"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "SEAN LEE",
+      "totalGmv": "20754040"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "雄敬",
+      "totalGmv": "19717820"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "骏派",
+      "totalGmv": "17564816"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "2369786"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "扭扭乐",
+      "totalGmv": "2067946"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "Kangdi/康地",
+      "totalGmv": "988209"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "动魅",
+      "totalGmv": "949783"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "奕帅",
+      "totalGmv": "456522"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "BraveLion",
+      "totalGmv": "229617"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "愛呵諾",
+      "totalGmv": "173749"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "速迈劲",
+      "totalGmv": "147779"
+    },
+    {
+      "thirdCategory": "扭腰盘",
+      "brandName": "顺达",
+      "totalGmv": "37555"
+    },
+    {
+      "thirdCategory": "投篮机/投篮训练器",
+      "brandName": "其它",
+      "totalGmv": "136388"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "其它",
+      "totalGmv": "6440294"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "莲缇诗",
+      "totalGmv": "5025377"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "特丝丽她",
+      "totalGmv": "4382710"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "艺尚舞",
+      "totalGmv": "1082487"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "Doubl/丹宝罗",
+      "totalGmv": "846588"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "汝拉",
+      "totalGmv": "608502"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "ACEDANCE",
+      "totalGmv": "590860"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "欢舞阁",
+      "totalGmv": "558191"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "Flash arts/闪艺",
+      "totalGmv": "457949"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "异方",
+      "totalGmv": "365385"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "百威丹斯",
+      "totalGmv": "304968"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "AILANGNA/艾琅纳",
+      "totalGmv": "258324"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "悦帕",
+      "totalGmv": "185963"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "舞天姿",
+      "totalGmv": "183824"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "BETTY BOOP",
+      "totalGmv": "168914"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "麽拉拉",
+      "totalGmv": "123079"
+    },
+    {
+      "thirdCategory": "拉丁舞",
+      "brandName": "Linglimandance/玲莉曼舞",
+      "totalGmv": "79247"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "其它",
+      "totalGmv": "104979817"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "KONKA/康佳",
+      "totalGmv": "20060142"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "LIARJAN/莱尔健",
+      "totalGmv": "19136612"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "sugan/速感",
+      "totalGmv": "12092553"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "冰健",
+      "totalGmv": "11815001"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "my fit my favorite/迈沸特",
+      "totalGmv": "3893011"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "夺冠",
+      "totalGmv": "2761137"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "innstar",
+      "totalGmv": "2390774"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "满毅",
+      "totalGmv": "2260709"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "AOLIYA/澳丽雅",
+      "totalGmv": "2145659"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "爱喜健身",
+      "totalGmv": "2067546"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "尚氧",
+      "totalGmv": "1900453"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "crystal/水晶",
+      "totalGmv": "1641919"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "1137626"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "骏派",
+      "totalGmv": "1115306"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "猛焰",
+      "totalGmv": "1008747"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "中欧",
+      "totalGmv": "978083"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "PROIRON",
+      "totalGmv": "522392"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "JIANEN/健恩",
+      "totalGmv": "480926"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "捷斐",
+      "totalGmv": "400537"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "优公管",
+      "totalGmv": "366357"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "小灵子",
+      "totalGmv": "338544"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "ADKING",
+      "totalGmv": "273701"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "精舞坊",
+      "totalGmv": "268437"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "品健",
+      "totalGmv": "267466"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "Lukoufitness",
+      "totalGmv": "243858"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "Wegym",
+      "totalGmv": "191738"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "超人",
+      "totalGmv": "188817"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "Windstorm",
+      "totalGmv": "167119"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "precise/普雷萨斯",
+      "totalGmv": "164184"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "忠来",
+      "totalGmv": "142863"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "百嘉",
+      "totalGmv": "92524"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "魅扣",
+      "totalGmv": "88133"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "lara star",
+      "totalGmv": "76022"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "Podeman",
+      "totalGmv": "67578"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "捷英飞",
+      "totalGmv": "65070"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "欧健",
+      "totalGmv": "59208"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "魂跳",
+      "totalGmv": "58067"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "尚联",
+      "totalGmv": "37493"
+    },
+    {
+      "thirdCategory": "拉力绳/拉力器",
+      "brandName": "星晨",
+      "totalGmv": "33815"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "其它",
+      "totalGmv": "41637460"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "4200263"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "AIBEIJIAN/爱倍健",
+      "totalGmv": "2296725"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "妙步",
+      "totalGmv": "2011010"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "Booster",
+      "totalGmv": "1677421"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "ZHEYU",
+      "totalGmv": "1134092"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "BUAKAW",
+      "totalGmv": "677365"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "速凡",
+      "totalGmv": "659374"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "创步",
+      "totalGmv": "554907"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "诺德玛",
+      "totalGmv": "432269"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "劳拉之星",
+      "totalGmv": "395742"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "DONGQILAI",
+      "totalGmv": "375956"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "FLUORY/火垒",
+      "totalGmv": "188757"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "猛焰",
+      "totalGmv": "186673"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "JonnyMei",
+      "totalGmv": "161706"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "吧噗龙",
+      "totalGmv": "100460"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "LAST WAR/终极一战",
+      "totalGmv": "73979"
+    },
+    {
+      "thirdCategory": "拳击/散打/泰拳",
+      "brandName": "hbw/hbw欧式泰拳",
+      "totalGmv": "65255"
+    },
+    {
+      "thirdCategory": "推杆练习器",
+      "brandName": "其它",
+      "totalGmv": "424266"
+    },
+    {
+      "thirdCategory": "推杆练习器",
+      "brandName": "pgm",
+      "totalGmv": "67568"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "其它",
+      "totalGmv": "33710022"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "11643003"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "Podeman",
+      "totalGmv": "5338319"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "LIARJAN/莱尔健",
+      "totalGmv": "3702672"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "XTEP/特步",
+      "totalGmv": "3463064"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "晨升",
+      "totalGmv": "3432584"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "Windstorm",
+      "totalGmv": "1822550"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "韬威",
+      "totalGmv": "1685304"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "738088"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "QiangJie/强杰户外运动",
+      "totalGmv": "343968"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "OPFINE/逸美佳",
+      "totalGmv": "274629"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "迪翔恐龙",
+      "totalGmv": "270964"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "佧伦",
+      "totalGmv": "166779"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "班路得",
+      "totalGmv": "165768"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "爱喜健身",
+      "totalGmv": "82842"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "荣叶",
+      "totalGmv": "62878"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "盛麦",
+      "totalGmv": "58500"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "劳拉之星",
+      "totalGmv": "39556"
+    },
+    {
+      "thirdCategory": "握力器",
+      "brandName": "JUNLAIKANG/君来康",
+      "totalGmv": "38702"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "其它",
+      "totalGmv": "7775172"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "扉姿",
+      "totalGmv": "2799439"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "特丝丽她",
+      "totalGmv": "1364062"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "Doubl/丹宝罗",
+      "totalGmv": "1066970"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "欢舞阁",
+      "totalGmv": "769140"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "MEIDANNU/媚丹奴",
+      "totalGmv": "352910"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "麽拉拉",
+      "totalGmv": "222464"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "艺尚舞",
+      "totalGmv": "175323"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "诺卡",
+      "totalGmv": "127615"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "维度九星如希",
+      "totalGmv": "125684"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "花仙飞舞",
+      "totalGmv": "68335"
+    },
+    {
+      "thirdCategory": "摩登舞",
+      "brandName": "飞探戈",
+      "totalGmv": "63910"
+    },
+    {
+      "thirdCategory": "新疆舞",
+      "brandName": "依曼",
+      "totalGmv": "4416395"
+    },
+    {
+      "thirdCategory": "新疆舞",
+      "brandName": "其它",
+      "totalGmv": "1684310"
+    },
+    {
+      "thirdCategory": "无极健身球",
+      "brandName": "其它",
+      "totalGmv": "426288"
+    },
+    {
+      "thirdCategory": "普拉提床",
+      "brandName": "JOYRIDER/加乐迪",
+      "totalGmv": "160100"
+    },
+    {
+      "thirdCategory": "普拉提背部训练器",
+      "brandName": "其它",
+      "totalGmv": "11618343"
+    },
+    {
+      "thirdCategory": "普拉提背部训练器",
+      "brandName": "魔力圈",
+      "totalGmv": "74956"
+    },
+    {
+      "thirdCategory": "暴走鞋",
+      "brandName": "其它",
+      "totalGmv": "1363902"
+    },
+    {
+      "thirdCategory": "暴走鞋",
+      "brandName": "居幻",
+      "totalGmv": "513479"
+    },
+    {
+      "thirdCategory": "更多慢跑装备",
+      "brandName": "KINETIK COMPRESSION",
+      "totalGmv": "6034020"
+    },
+    {
+      "thirdCategory": "更多慢跑装备",
+      "brandName": "KINETIKCOMPRESSION",
+      "totalGmv": "4912702"
+    },
+    {
+      "thirdCategory": "更多慢跑装备",
+      "brandName": "其它",
+      "totalGmv": "809213"
+    },
+    {
+      "thirdCategory": "更多慢跑装备",
+      "brandName": "nedao",
+      "totalGmv": "431952"
+    },
+    {
+      "thirdCategory": "更多慢跑装备",
+      "brandName": "UE",
+      "totalGmv": "178724"
+    },
+    {
+      "thirdCategory": "更多慢跑装备",
+      "brandName": "即墨",
+      "totalGmv": "67035"
+    },
+    {
+      "thirdCategory": "更多慢跑装备",
+      "brandName": "Baotuman/宝图曼",
+      "totalGmv": "59914"
+    },
+    {
+      "thirdCategory": "更多民间运动用品",
+      "brandName": "其它",
+      "totalGmv": "897022"
+    },
+    {
+      "thirdCategory": "更多民间运动用品",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "271549"
+    },
+    {
+      "thirdCategory": "更多篮球用品",
+      "brandName": "其它",
+      "totalGmv": "1208704"
+    },
+    {
+      "thirdCategory": "更多篮球用品",
+      "brandName": "帕尼尼",
+      "totalGmv": "390480"
+    },
+    {
+      "thirdCategory": "更多篮球用品",
+      "brandName": "NBA",
+      "totalGmv": "80490"
+    },
+    {
+      "thirdCategory": "更多练习配件区",
+      "brandName": "其它",
+      "totalGmv": "5989695"
+    },
+    {
+      "thirdCategory": "更多练习配件区",
+      "brandName": "HEALFAVE",
+      "totalGmv": "1096072"
+    },
+    {
+      "thirdCategory": "更多练习配件区",
+      "brandName": "奥朗仕",
+      "totalGmv": "344577"
+    },
+    {
+      "thirdCategory": "更多练习配件区",
+      "brandName": "Callaway/卡拉威",
+      "totalGmv": "194275"
+    },
+    {
+      "thirdCategory": "更多练习配件区",
+      "brandName": "奢谜",
+      "totalGmv": "83008"
+    },
+    {
+      "thirdCategory": "更多练习配件区",
+      "brandName": "caiton",
+      "totalGmv": "16185"
+    },
+    {
+      "thirdCategory": "更多羽毛球装备",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "178688"
+    },
+    {
+      "thirdCategory": "更多羽毛球装备",
+      "brandName": "威克多",
+      "totalGmv": "125355"
+    },
+    {
+      "thirdCategory": "更多羽毛球装备",
+      "brandName": "其它",
+      "totalGmv": "95705"
+    },
+    {
+      "thirdCategory": "杆盒/杆筒/杆袋",
+      "brandName": "其它",
+      "totalGmv": "1921632"
+    },
+    {
+      "thirdCategory": "杆盒/杆筒/杆袋",
+      "brandName": "野豹",
+      "totalGmv": "163247"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "其它",
+      "totalGmv": "22557708"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "魂跳",
+      "totalGmv": "4706308"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "echuang/鹅创",
+      "totalGmv": "1339768"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "瑜娆儿",
+      "totalGmv": "1083810"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "无/魂跳",
+      "totalGmv": "582496"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "TOPTONS/拓普丹斯",
+      "totalGmv": "496178"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "捷斐",
+      "totalGmv": "459352"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "非凡鸿宇",
+      "totalGmv": "161500"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "91981"
+    },
+    {
+      "thirdCategory": "杠铃",
+      "brandName": "Jea·Love/Jea·Love",
+      "totalGmv": "68107"
+    },
+    {
+      "thirdCategory": "极限装备/配件区",
+      "brandName": "其它",
+      "totalGmv": "12618015"
+    },
+    {
+      "thirdCategory": "极限装备/配件区",
+      "brandName": "dbh",
+      "totalGmv": "2696301"
+    },
+    {
+      "thirdCategory": "极限装备/配件区",
+      "brandName": "芳姐",
+      "totalGmv": "255993"
+    },
+    {
+      "thirdCategory": "极限飞盘",
+      "brandName": "冰健",
+      "totalGmv": "2074029"
+    },
+    {
+      "thirdCategory": "极限飞盘",
+      "brandName": "天特吉康",
+      "totalGmv": "1994610"
+    },
+    {
+      "thirdCategory": "极限飞盘",
+      "brandName": "其它",
+      "totalGmv": "1015023"
+    },
+    {
+      "thirdCategory": "极限飞盘",
+      "brandName": "品健",
+      "totalGmv": "382097"
+    },
+    {
+      "thirdCategory": "棒球",
+      "brandName": "其它",
+      "totalGmv": "859715"
+    },
+    {
+      "thirdCategory": "棒球",
+      "brandName": "DONGQILAI",
+      "totalGmv": "793419"
+    },
+    {
+      "thirdCategory": "棒球",
+      "brandName": "Alessandro Paccuci/亚历山德罗 帕库奇",
+      "totalGmv": "578888"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "其它",
+      "totalGmv": "27154274"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "DLMY",
+      "totalGmv": "23841525"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "Alessandro Paccuci/亚历山德罗 帕库奇",
+      "totalGmv": "1762887"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "本耶普",
+      "totalGmv": "1081044"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "SprayGround",
+      "totalGmv": "967270"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "彩亚",
+      "totalGmv": "595931"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "XTMY",
+      "totalGmv": "558392"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "聚星动力",
+      "totalGmv": "450425"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "New Era",
+      "totalGmv": "283102"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "Leosoxs",
+      "totalGmv": "266377"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "GRKC",
+      "totalGmv": "247816"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "佑游",
+      "totalGmv": "155798"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "DAWN FOREST/曙光森林",
+      "totalGmv": "86072"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "GUYUCHENGFENG/谷雨成风",
+      "totalGmv": "83679"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "奢谜",
+      "totalGmv": "40259"
+    },
+    {
+      "thirdCategory": "棒球帽",
+      "brandName": "XBIONIC",
+      "totalGmv": "35940"
+    },
+    {
+      "thirdCategory": "棒球棒",
+      "brandName": "忍者风",
+      "totalGmv": "1462512"
+    },
+    {
+      "thirdCategory": "棒球棒",
+      "brandName": "其它",
+      "totalGmv": "850853"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "麦瑞克",
+      "totalGmv": "10551658"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "3572372"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "SEAN LEE",
+      "totalGmv": "1709321"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "英尔健",
+      "totalGmv": "574419"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "其它",
+      "totalGmv": "265111"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "SOLE/速尔",
+      "totalGmv": "231674"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "Keep",
+      "totalGmv": "215926"
+    },
+    {
+      "thirdCategory": "椭圆机",
+      "brandName": "莫比健身",
+      "totalGmv": "34126"
+    },
+    {
+      "thirdCategory": "橄榄球",
+      "brandName": "anta kids/安踏儿童",
+      "totalGmv": "60831"
+    },
+    {
+      "thirdCategory": "比基尼",
+      "brandName": "OMOM",
+      "totalGmv": "14531400"
+    },
+    {
+      "thirdCategory": "比基尼",
+      "brandName": "美亦舒",
+      "totalGmv": "297465"
+    },
+    {
+      "thirdCategory": "比基尼",
+      "brandName": "翔微儿",
+      "totalGmv": "271688"
+    },
+    {
+      "thirdCategory": "比基尼",
+      "brandName": "demonlolita",
+      "totalGmv": "129235"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "其它",
+      "totalGmv": "4260557"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "UNDUE ANCHOR",
+      "totalGmv": "2181986"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "josoyeon/俏姝妍",
+      "totalGmv": "965973"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "沐赛伊",
+      "totalGmv": "922675"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "品创",
+      "totalGmv": "847997"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "速浪",
+      "totalGmv": "805462"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "511269"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "XTEP/特步",
+      "totalGmv": "457568"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "280878"
+    },
+    {
+      "thirdCategory": "沙滩裤",
+      "brandName": "ESCATCH",
+      "totalGmv": "174176"
+    },
+    {
+      "thirdCategory": "洗牌机",
+      "brandName": "其它",
+      "totalGmv": "138607"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "其它",
+      "totalGmv": "8930599"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "SAICHUAN/赛川",
+      "totalGmv": "2302458"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "吉米兔",
+      "totalGmv": "1130129"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "彩虹",
+      "totalGmv": "986128"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "GUYUCHENGFENG/谷雨成风",
+      "totalGmv": "426748"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "BANGSHE/邦舍",
+      "totalGmv": "176160"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "垚森之家",
+      "totalGmv": "92798"
+    },
+    {
+      "thirdCategory": "海绵垫/体操垫",
+      "brandName": "remolati",
+      "totalGmv": "59370"
+    },
+    {
+      "thirdCategory": "清洁保养装备",
+      "brandName": "其它",
+      "totalGmv": "6757993"
+    },
+    {
+      "thirdCategory": "清洁保养装备",
+      "brandName": "忆佰氛",
+      "totalGmv": "92762"
+    },
+    {
+      "thirdCategory": "清洁保养装备",
+      "brandName": "广合",
+      "totalGmv": "56667"
+    },
+    {
+      "thirdCategory": "清洁保养装备",
+      "brandName": "纤尘",
+      "totalGmv": "17333"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "其它",
+      "totalGmv": "5711572"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "Lemonkid/柠檬宝宝",
+      "totalGmv": "4572970"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "2769852"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "XINGX",
+      "totalGmv": "1687648"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "CAMEL/骆驼",
+      "totalGmv": "479298"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "essenuoto",
+      "totalGmv": "433607"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "toswim/泳镜侠",
+      "totalGmv": "354925"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "佑游",
+      "totalGmv": "345665"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "WaterTime",
+      "totalGmv": "222686"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "CHENCHENMA/辰辰妈",
+      "totalGmv": "178824"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "爱卡",
+      "totalGmv": "165326"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "Zoke/洲克",
+      "totalGmv": "146538"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "Balneaire/范德安",
+      "totalGmv": "127512"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "ZOGGS",
+      "totalGmv": "93970"
+    },
+    {
+      "thirdCategory": "游泳专用包",
+      "brandName": "XTEP/特步",
+      "totalGmv": "90179"
+    },
+    {
+      "thirdCategory": "游泳圈",
+      "brandName": "其它",
+      "totalGmv": "4117167"
+    },
+    {
+      "thirdCategory": "游泳圈",
+      "brandName": "汪野君",
+      "totalGmv": "94243"
+    },
+    {
+      "thirdCategory": "游泳圈",
+      "brandName": "KOCOTREE",
+      "totalGmv": "86234"
+    },
+    {
+      "thirdCategory": "游泳池",
+      "brandName": "其它",
+      "totalGmv": "10296650"
+    },
+    {
+      "thirdCategory": "游泳池",
+      "brandName": "INTEX",
+      "totalGmv": "434347"
+    },
+    {
+      "thirdCategory": "游泳池",
+      "brandName": "avenli",
+      "totalGmv": "90709"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "其它",
+      "totalGmv": "65167702"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "22959863"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "16723131"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "WaterTime",
+      "totalGmv": "6919169"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "361°",
+      "totalGmv": "6703875"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "concept king/concept king",
+      "totalGmv": "4942784"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "KND",
+      "totalGmv": "4850168"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "toswim/泳镜侠",
+      "totalGmv": "4699056"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Speedo/速比涛",
+      "totalGmv": "4694162"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Keep",
+      "totalGmv": "2964137"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "2251023"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "金铂喜",
+      "totalGmv": "2111725"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Balneaire/范德安",
+      "totalGmv": "1968316"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "子初",
+      "totalGmv": "1555839"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "ZOGGS",
+      "totalGmv": "1322468"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "DOFREE/朵梵林",
+      "totalGmv": "1214274"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "XTEP/特步",
+      "totalGmv": "1213565"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "SPRINGBUDS/子初",
+      "totalGmv": "1172784"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "沃科博",
+      "totalGmv": "1094271"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "eco+-flying",
+      "totalGmv": "1061272"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "RNOEMI",
+      "totalGmv": "929747"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "羽克",
+      "totalGmv": "767348"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "鼎升",
+      "totalGmv": "737585"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "anta kids/安踏儿童",
+      "totalGmv": "701036"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "MIE JUA/觅橘",
+      "totalGmv": "659796"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "VMSTR/VMSTR",
+      "totalGmv": "652902"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "童宝",
+      "totalGmv": "576793"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Arena/阿瑞娜",
+      "totalGmv": "483363"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "RESHEIR",
+      "totalGmv": "454207"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "SWANS",
+      "totalGmv": "412373"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "LANNA/兰纳",
+      "totalGmv": "405491"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "OEING",
+      "totalGmv": "401147"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "SUNNYLIFE",
+      "totalGmv": "350507"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Zoke/洲克",
+      "totalGmv": "343865"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "vvc",
+      "totalGmv": "258906"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "ubay",
+      "totalGmv": "229229"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "帕奢利",
+      "totalGmv": "191690"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "佑游",
+      "totalGmv": "186148"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "卓好姿",
+      "totalGmv": "185297"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "跟屁虫",
+      "totalGmv": "181242"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "JIEHU/捷虎",
+      "totalGmv": "175304"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "游格",
+      "totalGmv": "170896"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "立佑",
+      "totalGmv": "161561"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "ICHEST/贴身依柜",
+      "totalGmv": "159325"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "F.DYRAA/梵迪拉",
+      "totalGmv": "159301"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "南京同仁堂",
+      "totalGmv": "158402"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "essenuoto",
+      "totalGmv": "123956"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "KAISIDA SPORTS/凯思达",
+      "totalGmv": "92370"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "歌姿羽",
+      "totalGmv": "92076"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "巴迪高",
+      "totalGmv": "86871"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "85890"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "伟上帽业",
+      "totalGmv": "63948"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Kappa/卡帕",
+      "totalGmv": "58525"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "Under Armour/安德玛",
+      "totalGmv": "57057"
+    },
+    {
+      "thirdCategory": "游泳装备",
+      "brandName": "君育",
+      "totalGmv": "36821"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "其它",
+      "totalGmv": "44215549"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "1985",
+      "totalGmv": "4697625"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "denike/德尼克",
+      "totalGmv": "4340303"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "dbh",
+      "totalGmv": "3448679"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "陆地",
+      "totalGmv": "3346532"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "LYL",
+      "totalGmv": "3021260"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "DBHDOBYHEART",
+      "totalGmv": "2225447"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "MAIKALONG/迈卡龙",
+      "totalGmv": "1929264"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "SWAY/斯威",
+      "totalGmv": "1804791"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "Zompers",
+      "totalGmv": "1587830"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "老爷岭",
+      "totalGmv": "1558072"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "小木对点",
+      "totalGmv": "1092652"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "geele",
+      "totalGmv": "988932"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "威耐德",
+      "totalGmv": "471279"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "symbolic",
+      "totalGmv": "387533"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "373037"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "carver",
+      "totalGmv": "290996"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "Ugin",
+      "totalGmv": "249216"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "226071"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "newjumpro/牛匠",
+      "totalGmv": "173283"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "琦牌",
+      "totalGmv": "170449"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "ICE DRAGON/冰龙",
+      "totalGmv": "159641"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "BLOOD DNA",
+      "totalGmv": "154286"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "YSH",
+      "totalGmv": "128037"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "安帝",
+      "totalGmv": "115845"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "G.DUCK",
+      "totalGmv": "90457"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "潮点",
+      "totalGmv": "79044"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "vboy",
+      "totalGmv": "63511"
+    },
+    {
+      "thirdCategory": "滑板",
+      "brandName": "CAMPA/坎帕",
+      "totalGmv": "35063"
+    },
+    {
+      "thirdCategory": "滑板车",
+      "brandName": "其它",
+      "totalGmv": "1306108"
+    },
+    {
+      "thirdCategory": "滑板车",
+      "brandName": "DECKWAR",
+      "totalGmv": "1053271"
+    },
+    {
+      "thirdCategory": "滑板车",
+      "brandName": "KEYOUQI/可优奇",
+      "totalGmv": "338912"
+    },
+    {
+      "thirdCategory": "滑板车",
+      "brandName": "G.DUCK",
+      "totalGmv": "172421"
+    },
+    {
+      "thirdCategory": "滑板车",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "39390"
+    },
+    {
+      "thirdCategory": "漂移版/分体滑板",
+      "brandName": "其它",
+      "totalGmv": "600521"
+    },
+    {
+      "thirdCategory": "漂移版/分体滑板",
+      "brandName": "一豹",
+      "totalGmv": "417845"
+    },
+    {
+      "thirdCategory": "漂移版/分体滑板",
+      "brandName": "闪行",
+      "totalGmv": "341450"
+    },
+    {
+      "thirdCategory": "漂移版/分体滑板",
+      "brandName": "星速",
+      "totalGmv": "178454"
+    },
+    {
+      "thirdCategory": "漂移版/分体滑板",
+      "brandName": "Freeline",
+      "totalGmv": "95294"
+    },
+    {
+      "thirdCategory": "漫步机",
+      "brandName": "其它",
+      "totalGmv": "1459047"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "牛霸道",
+      "totalGmv": "28791587"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "其它",
+      "totalGmv": "5441224"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "特丝丽她",
+      "totalGmv": "3929436"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "TIEJIAN/铁箭",
+      "totalGmv": "2897511"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "菲梵舞后",
+      "totalGmv": "1137127"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "SUPAFE/索帕菲",
+      "totalGmv": "1083986"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "SINYTY",
+      "totalGmv": "330393"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "CAPMECE/彩梦程",
+      "totalGmv": "238705"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "Xqwx",
+      "totalGmv": "206017"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "青青之舞",
+      "totalGmv": "133083"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "罩杯一体",
+      "totalGmv": "130479"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": " vonsu/梵舒",
+      "totalGmv": "78247"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "qiya/琪亚",
+      "totalGmv": "67023"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "衡美",
+      "totalGmv": "57383"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "吉特巴",
+      "totalGmv": "38585"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "金舞门",
+      "totalGmv": "34899"
+    },
+    {
+      "thirdCategory": "现代舞",
+      "brandName": "忻萦",
+      "totalGmv": "17757"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "KAYFORD",
+      "totalGmv": "26762375"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "聚星动力",
+      "totalGmv": "17561709"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "其它",
+      "totalGmv": "6549291"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "帕尼尼",
+      "totalGmv": "442197"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "QATAR 2022/2022卡塔尔世界杯",
+      "totalGmv": "410552"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "TLSS.",
+      "totalGmv": "83060"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "AC米兰",
+      "totalGmv": "78771"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "NIKE/耐克",
+      "totalGmv": "61545"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "IMM/尹默",
+      "totalGmv": "59227"
+    },
+    {
+      "thirdCategory": "球迷用品",
+      "brandName": "TOTTENHAM HOTSPUR",
+      "totalGmv": "34644"
+    },
+    {
+      "thirdCategory": "瑜伽中/短裤",
+      "brandName": "颂妃",
+      "totalGmv": "348279"
+    },
+    {
+      "thirdCategory": "瑜伽中/短裤",
+      "brandName": "简美健",
+      "totalGmv": "178732"
+    },
+    {
+      "thirdCategory": "瑜伽体位图靠垫",
+      "brandName": "Dream Room",
+      "totalGmv": "13653201"
+    },
+    {
+      "thirdCategory": "瑜伽体位图靠垫",
+      "brandName": "冰健",
+      "totalGmv": "10519828"
+    },
+    {
+      "thirdCategory": "瑜伽体位图靠垫",
+      "brandName": "其它",
+      "totalGmv": "947848"
+    },
+    {
+      "thirdCategory": "瑜伽体位图靠垫",
+      "brandName": "YINGBO/影帛",
+      "totalGmv": "176338"
+    },
+    {
+      "thirdCategory": "瑜伽包",
+      "brandName": "Keep",
+      "totalGmv": "4180062"
+    },
+    {
+      "thirdCategory": "瑜伽包",
+      "brandName": "劳拉之星",
+      "totalGmv": "2500088"
+    },
+    {
+      "thirdCategory": "瑜伽包",
+      "brandName": "GIDI BOHO/极地薄荷",
+      "totalGmv": "565308"
+    },
+    {
+      "thirdCategory": "瑜伽包",
+      "brandName": "魂跳",
+      "totalGmv": "218220"
+    },
+    {
+      "thirdCategory": "瑜伽包",
+      "brandName": "太匆匆",
+      "totalGmv": "168927"
+    },
+    {
+      "thirdCategory": "瑜伽包",
+      "brandName": "其它",
+      "totalGmv": "98976"
+    },
+    {
+      "thirdCategory": "瑜伽包",
+      "brandName": "中欧",
+      "totalGmv": "79683"
+    },
+    {
+      "thirdCategory": "瑜伽发带",
+      "brandName": "其它",
+      "totalGmv": "4326315"
+    },
+    {
+      "thirdCategory": "瑜伽发带",
+      "brandName": "乐卉",
+      "totalGmv": "348818"
+    },
+    {
+      "thirdCategory": "瑜伽发带",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "174880"
+    },
+    {
+      "thirdCategory": "瑜伽发带",
+      "brandName": "splan",
+      "totalGmv": "64724"
+    },
+    {
+      "thirdCategory": "瑜伽发带",
+      "brandName": "VEIDOORN/维动",
+      "totalGmv": "64062"
+    },
+    {
+      "thirdCategory": "瑜伽发带",
+      "brandName": "yottoy",
+      "totalGmv": "63094"
+    },
+    {
+      "thirdCategory": "瑜伽发带",
+      "brandName": "MEIYUN/美蕴",
+      "totalGmv": "56506"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "sugan/速感",
+      "totalGmv": "5926250"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "冰健",
+      "totalGmv": "5276348"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "ZIADORE",
+      "totalGmv": "1086661"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "吱慕",
+      "totalGmv": "611100"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "410594"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "其它",
+      "totalGmv": "338902"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "劳拉之星",
+      "totalGmv": "159280"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "Keep",
+      "totalGmv": "95272"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "麦瑞克",
+      "totalGmv": "89556"
+    },
+    {
+      "thirdCategory": "瑜伽圈/普拉提圈",
+      "brandName": "Dream Room",
+      "totalGmv": "66747"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "其它",
+      "totalGmv": "51023709"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "yottoy",
+      "totalGmv": "45519220"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "玥歌",
+      "totalGmv": "13099877"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "Keep",
+      "totalGmv": "12076156"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "中欧",
+      "totalGmv": "10564953"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "劳拉之星",
+      "totalGmv": "10330129"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "7291229"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "彩虹",
+      "totalGmv": "6252769"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "奥义",
+      "totalGmv": "6136950"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "峰燕",
+      "totalGmv": "5345520"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "TIEJIAN/铁箭",
+      "totalGmv": "2371158"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "JJYOGA",
+      "totalGmv": "2367354"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "SMOOKY",
+      "totalGmv": "2092777"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "魂跳",
+      "totalGmv": "1294134"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "BSELEON",
+      "totalGmv": "737186"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "PELPO/派普",
+      "totalGmv": "710742"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "波兰AA",
+      "totalGmv": "581369"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "冰健",
+      "totalGmv": "574582"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "我形我塑",
+      "totalGmv": "514331"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "Lukoufitness",
+      "totalGmv": "507289"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "Jea·Love/Jea·Love",
+      "totalGmv": "454279"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "446073"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "Alessandro Paccuci/亚历山德罗 帕库奇",
+      "totalGmv": "436727"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "英瑞特",
+      "totalGmv": "434911"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "施泰格",
+      "totalGmv": "408143"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "YOU MEI/佑美",
+      "totalGmv": "397027"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "remolati",
+      "totalGmv": "360501"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "YANXUAN/网易严选",
+      "totalGmv": "327500"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "KASADA/卡萨达",
+      "totalGmv": "252669"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "火帅",
+      "totalGmv": "247773"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "GUYUCHENGFENG/谷雨成风",
+      "totalGmv": "198377"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "X-IT",
+      "totalGmv": "187956"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "SEAN LEE",
+      "totalGmv": "186935"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "POSEZOO/甫士",
+      "totalGmv": "179115"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "innstar",
+      "totalGmv": "176033"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "173666"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "品健",
+      "totalGmv": "171149"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "Balanpie/平衡派",
+      "totalGmv": "168842"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "INZUO",
+      "totalGmv": "163441"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "361°",
+      "totalGmv": "142940"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "SUXU/索旭",
+      "totalGmv": "119007"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "纳古迪",
+      "totalGmv": "106599"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "韬威",
+      "totalGmv": "81239"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "瑜术",
+      "totalGmv": "66897"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "悠妍",
+      "totalGmv": "54970"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "BANGSHE/邦舍",
+      "totalGmv": "40618"
+    },
+    {
+      "thirdCategory": "瑜伽垫",
+      "brandName": "wxws",
+      "totalGmv": "39942"
+    },
+    {
+      "thirdCategory": "瑜伽工艺品",
+      "brandName": "其它",
+      "totalGmv": "10015306"
+    },
+    {
+      "thirdCategory": "瑜伽工艺品",
+      "brandName": "Lukoufitness",
+      "totalGmv": "9074815"
+    },
+    {
+      "thirdCategory": "瑜伽工艺品",
+      "brandName": "杉杉秀一榀",
+      "totalGmv": "163218"
+    },
+    {
+      "thirdCategory": "瑜伽手套",
+      "brandName": "其它",
+      "totalGmv": "595179"
+    },
+    {
+      "thirdCategory": "瑜伽披肩",
+      "brandName": "vvc",
+      "totalGmv": "2788579"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "其它",
+      "totalGmv": "18323840"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "爱喜健身",
+      "totalGmv": "8222041"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "echuang/鹅创",
+      "totalGmv": "1448395"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "魂跳",
+      "totalGmv": "1281461"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "力非凡",
+      "totalGmv": "984787"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "929843"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "冰健",
+      "totalGmv": "865717"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "PROIRON",
+      "totalGmv": "274094"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "捷英飞",
+      "totalGmv": "187381"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "yottoy",
+      "totalGmv": "160093"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "奥义",
+      "totalGmv": "146494"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "恋练严选",
+      "totalGmv": "101153"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "Airgoal/爱高",
+      "totalGmv": "91218"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "my fit my favorite/迈沸特",
+      "totalGmv": "86169"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "splan",
+      "totalGmv": "64582"
+    },
+    {
+      "thirdCategory": "瑜伽拉力带",
+      "brandName": "SO NICE/舒奈斯",
+      "totalGmv": "37178"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "其它",
+      "totalGmv": "416531328"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "cohituc/科途",
+      "totalGmv": "45744026"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "S&W",
+      "totalGmv": "37745195"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ARIA LEISURE",
+      "totalGmv": "22246597"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "-/千彩菲儿",
+      "totalGmv": "21249176"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Fieder/翡勒",
+      "totalGmv": "19883069"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "MOLYVIVI",
+      "totalGmv": "19627421"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Smoedod/水沐伊朵",
+      "totalGmv": "17557910"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "淘系",
+      "totalGmv": "15913519"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "范度妮",
+      "totalGmv": "15830339"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "殊瑜",
+      "totalGmv": "15388659"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": " Miiow/猫人",
+      "totalGmv": "12201480"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "OULLA/欧拉",
+      "totalGmv": "11451256"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "芭陛美颜",
+      "totalGmv": "11167902"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "佑游",
+      "totalGmv": "10437439"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "fashionyoga/凡圣瑜伽",
+      "totalGmv": "9938734"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YOGI XIAOXIONG/瑜伽小熊",
+      "totalGmv": "9867687"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "SoulSense",
+      "totalGmv": "9760731"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ICELAKEWHALE",
+      "totalGmv": "9210027"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "心悦",
+      "totalGmv": "8585478"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YuYaoXiuXiu/瑜妖秀秀",
+      "totalGmv": "8156190"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "361°",
+      "totalGmv": "7531098"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "MAIAACTIVE",
+      "totalGmv": "7023429"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "VNVX",
+      "totalGmv": "6529992"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "AxamAxon",
+      "totalGmv": "6051268"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "L RECNAVA/芮柯纳未",
+      "totalGmv": "6008511"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "splan",
+      "totalGmv": "5491899"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "卡瓦杰",
+      "totalGmv": "5366352"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "QRANE/QRANE",
+      "totalGmv": "5109079"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ACEMETTLE/爱致脉动",
+      "totalGmv": "5044961"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "TELLSOR",
+      "totalGmv": "5013189"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Langsha/浪莎",
+      "totalGmv": "4951624"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "VICTORIA’S SECRET/维多利亚的秘密",
+      "totalGmv": "4481529"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "GIDI BOHO/极地薄荷",
+      "totalGmv": "4475095"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ZAXU",
+      "totalGmv": "4437291"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "CHUNXIE/淳写",
+      "totalGmv": "4426718"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "美彤",
+      "totalGmv": "4408380"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "金铂喜",
+      "totalGmv": "4256754"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Domantas",
+      "totalGmv": "3804080"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "GOGOYOGA/GOGOYOGA",
+      "totalGmv": "3771648"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "annerun",
+      "totalGmv": "3691936"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "映缦",
+      "totalGmv": "3528099"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "diqueqi/的确奇",
+      "totalGmv": "3453094"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "RENATHING/娜美集雅",
+      "totalGmv": "3413244"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "RUNPAD",
+      "totalGmv": "3376692"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ISOBLOX/isoblox",
+      "totalGmv": "3345891"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "BBG",
+      "totalGmv": "3258610"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "HOdoSPORTS",
+      "totalGmv": "3240150"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Alessandro Paccuci/亚历山德罗 帕库奇",
+      "totalGmv": "2969271"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "DG",
+      "totalGmv": "2961709"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "DK",
+      "totalGmv": "2952713"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "氧咔",
+      "totalGmv": "2868975"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "gogoyaga/gogoyaga",
+      "totalGmv": "2548159"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "V.dolee",
+      "totalGmv": "2491930"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "yiqilian/依琦莲",
+      "totalGmv": "2486064"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ParticleFever/粒子狂热",
+      "totalGmv": "2386236"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "北北堇",
+      "totalGmv": "2353775"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "CAMEL/骆驼",
+      "totalGmv": "2278788"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Makebalancy/慕柏郦",
+      "totalGmv": "2250211"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "乐为·奇",
+      "totalGmv": "2245543"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "GAUENEEN/格宁",
+      "totalGmv": "2234156"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "heytopbbg",
+      "totalGmv": "2090171"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "NEI WAI/内外",
+      "totalGmv": "2017693"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "XIAXIYUE/夏熙悦",
+      "totalGmv": "1979294"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "北欧母婴",
+      "totalGmv": "1822132"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LUCKMEEY/幸棉",
+      "totalGmv": "1801764"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "OTSA",
+      "totalGmv": "1729880"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "justcc",
+      "totalGmv": "1693758"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "一汽-大众",
+      "totalGmv": "1686286"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "HOTALFA",
+      "totalGmv": "1676150"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YAOO",
+      "totalGmv": "1662798"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Keep",
+      "totalGmv": "1634646"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LUEDOU/略逗",
+      "totalGmv": "1622669"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "布米拉",
+      "totalGmv": "1594687"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Pinko/品高",
+      "totalGmv": "1347070"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "梦寰",
+      "totalGmv": "1327468"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "朴信惠",
+      "totalGmv": "1274735"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "I'd/爱帝",
+      "totalGmv": "1255682"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "oudike/欧迪克",
+      "totalGmv": "1184838"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "玫姬",
+      "totalGmv": "1140958"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "syllorita",
+      "totalGmv": "1129971"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "QCFEQIANCAIFEIER",
+      "totalGmv": "1116998"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "北旎",
+      "totalGmv": "1106601"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "SEV&EVE",
+      "totalGmv": "1097379"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "瑜呼瑜吸",
+      "totalGmv": "1078781"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "MD",
+      "totalGmv": "1073834"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "悠和",
+      "totalGmv": "1022540"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Rainboweran/彩虹衣然",
+      "totalGmv": "989973"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ROUNDOT",
+      "totalGmv": "910240"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "茵诗芙",
+      "totalGmv": "894489"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "cocofit",
+      "totalGmv": "808840"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "魁熙",
+      "totalGmv": "802787"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "WOLFCZUADLTE/狼爪布莱特",
+      "totalGmv": "791198"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "vicky",
+      "totalGmv": "762938"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "vfu",
+      "totalGmv": "760722"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Showcai",
+      "totalGmv": "753846"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "乎息",
+      "totalGmv": "736348"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "linannar/灵安娜",
+      "totalGmv": "716342"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "RUNA PULSE",
+      "totalGmv": "715293"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "HOTSUIT",
+      "totalGmv": "709586"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "伊品维",
+      "totalGmv": "708525"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "央紫",
+      "totalGmv": "701559"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "CU/西柚",
+      "totalGmv": "693929"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "华解语",
+      "totalGmv": "687313"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "梵美人",
+      "totalGmv": "638171"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "GYM.MINUTE",
+      "totalGmv": "636217"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "优米",
+      "totalGmv": "579870"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "TNA",
+      "totalGmv": "577530"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "DANQISEN/丹琪森",
+      "totalGmv": "567612"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "KEEXUENNL/珂宣尼",
+      "totalGmv": "564863"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LULULOWIN",
+      "totalGmv": "548177"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ORV",
+      "totalGmv": "542691"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "无线秘密",
+      "totalGmv": "528278"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "RONGFEIDI/蓉飞迪",
+      "totalGmv": "523917"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "素体",
+      "totalGmv": "522104"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "婉町蒂诺",
+      "totalGmv": "473544"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "歌姿羽",
+      "totalGmv": "454996"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "芭比",
+      "totalGmv": "445100"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "FENCHEN/芬辰",
+      "totalGmv": "440274"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "CHAOYANYU/潮颜玉",
+      "totalGmv": "422145"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LaNikar",
+      "totalGmv": "401909"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LULU CARROT",
+      "totalGmv": "383807"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "楷印",
+      "totalGmv": "375349"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "U.M AND YOU AND ME",
+      "totalGmv": "372002"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "氧气闺蜜——",
+      "totalGmv": "371936"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Micisty/密汐皙迪",
+      "totalGmv": "370874"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "MOYAOFANG/嫫腰妨",
+      "totalGmv": "370219"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "维维",
+      "totalGmv": "366721"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "GTTUO",
+      "totalGmv": "366107"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Tender Jinger",
+      "totalGmv": "365268"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "赛丽薇",
+      "totalGmv": "365152"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "BoK/博可",
+      "totalGmv": "364790"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "HOLF/哈夫",
+      "totalGmv": "364350"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "魔力薇薇",
+      "totalGmv": "359323"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ojaer/鸥纪儿",
+      "totalGmv": "353345"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ER",
+      "totalGmv": "346733"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "人鱼小姐",
+      "totalGmv": "346508"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YALU/雅鹿",
+      "totalGmv": "341690"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Ms.Qnn/其他",
+      "totalGmv": "339495"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "九麦一品",
+      "totalGmv": "329803"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "XVRV/XVRV",
+      "totalGmv": "316379"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "vincrox/唯卡洛",
+      "totalGmv": "305935"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "samyama/三雅玛",
+      "totalGmv": "305083"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "FIVEMETERS/五米",
+      "totalGmv": "288215"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "bootygirl",
+      "totalGmv": "288148"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "HAI LUN",
+      "totalGmv": "286019"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ORAINING",
+      "totalGmv": "278763"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ROBAM",
+      "totalGmv": "272024"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "MITAOGIRL/MITAOGIRL",
+      "totalGmv": "268651"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YOUWEI",
+      "totalGmv": "268527"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "VEVE",
+      "totalGmv": "267063"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "来米舍",
+      "totalGmv": "266058"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "nimonimo",
+      "totalGmv": "263695"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YOYOENNI",
+      "totalGmv": "252892"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "UM",
+      "totalGmv": "246591"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "蕊芽",
+      "totalGmv": "234740"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Lulla by Sea",
+      "totalGmv": "229379"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Kunli/群力",
+      "totalGmv": "229258"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "麦兰",
+      "totalGmv": "227894"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "身财有道",
+      "totalGmv": "220353"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "JOKHUE/槿俏狐",
+      "totalGmv": "207108"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Meesu/美愫",
+      "totalGmv": "191192"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "京抖派",
+      "totalGmv": "191179"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "活力哈达",
+      "totalGmv": "190975"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "DOSRFINI/杜莎菲尼",
+      "totalGmv": "190304"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "纤紫荷/qianzihe",
+      "totalGmv": "187975"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "honeyanchor/蜜主播",
+      "totalGmv": "187733"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LONSDALE/龙狮戴尔",
+      "totalGmv": "187115"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "XEXYMIX",
+      "totalGmv": "186380"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Theblender",
+      "totalGmv": "186276"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "linksky",
+      "totalGmv": "185364"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Crocodile/鳄鱼恤",
+      "totalGmv": "183024"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "三株梵花",
+      "totalGmv": "182195"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "AAAD",
+      "totalGmv": "181730"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Danforni/黛凡妮",
+      "totalGmv": "178235"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "迷悟",
+      "totalGmv": "177672"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "伽岚",
+      "totalGmv": "177277"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "seven polyphylla",
+      "totalGmv": "176568"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "一梦山月",
+      "totalGmv": "175259"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "kokoyaya",
+      "totalGmv": "173826"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "BILABO/彼拉博",
+      "totalGmv": "172879"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "BWELL",
+      "totalGmv": "172357"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "乾格",
+      "totalGmv": "172210"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "痕美",
+      "totalGmv": "171634"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "方晓夏",
+      "totalGmv": "164482"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "AARONTOMSON",
+      "totalGmv": "160494"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "宋一慧",
+      "totalGmv": "159110"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "肖基琼斯",
+      "totalGmv": "157534"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "林三益",
+      "totalGmv": "153314"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "VEDUI/VEDUI",
+      "totalGmv": "143232"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YAYA",
+      "totalGmv": "129013"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "liman/丽嫚",
+      "totalGmv": "124975"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "other/其他",
+      "totalGmv": "118848"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Gymazure",
+      "totalGmv": "105406"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "NEXTOUR/纳趣",
+      "totalGmv": "96307"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "susanny",
+      "totalGmv": "95201"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "vansydical/范斯蒂克",
+      "totalGmv": "94317"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Qiansilan/芊斯澜",
+      "totalGmv": "92270"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "hosa/浩沙",
+      "totalGmv": "87920"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "乙至",
+      "totalGmv": "87512"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "DIVINABLU",
+      "totalGmv": "86934"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "yourou/佑柔",
+      "totalGmv": "86702"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "skinofskin",
+      "totalGmv": "86366"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "remolati",
+      "totalGmv": "85797"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "艺博",
+      "totalGmv": "85592"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Decathlon/迪卡侬",
+      "totalGmv": "84911"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "kkc",
+      "totalGmv": "84814"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "守护龙",
+      "totalGmv": "80254"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "QUEENIEKE/QUEENIEKE",
+      "totalGmv": "72789"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "太阳花SUNFLOWER",
+      "totalGmv": "67564"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LILY/丽丽",
+      "totalGmv": "67211"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Hodo/红豆",
+      "totalGmv": "66670"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "阿妮丝",
+      "totalGmv": "66339"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "meroc/慕若芊",
+      "totalGmv": "65958"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "搭心机",
+      "totalGmv": "65221"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "PARSLEY",
+      "totalGmv": "63794"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "水之缘",
+      "totalGmv": "63237"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "哲棉",
+      "totalGmv": "61893"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "ZXUV",
+      "totalGmv": "61584"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LULI",
+      "totalGmv": "60441"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "YUZHAOLIN/俞兆林",
+      "totalGmv": "60416"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "衣时尚",
+      "totalGmv": "60272"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "susu",
+      "totalGmv": "59624"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "悠妍",
+      "totalGmv": "57970"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "哎呦家",
+      "totalGmv": "57937"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "奔跑吧卡卡",
+      "totalGmv": "41177"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "Moxianni/魔仙妮",
+      "totalGmv": "39649"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "FIZZCOCO/沸可",
+      "totalGmv": "39598"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "WECOLOR/微色彩",
+      "totalGmv": "37872"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "励志女孩",
+      "totalGmv": "37818"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LULANJI/路澜姬",
+      "totalGmv": "37534"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "beam boon/beam boon",
+      "totalGmv": "37389"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "LOVSPOOTS",
+      "totalGmv": "36699"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "娜布美",
+      "totalGmv": "34507"
+    },
+    {
+      "thirdCategory": "瑜伽服饰",
+      "brandName": "英佰罗",
+      "totalGmv": "17358"
+    },
+    {
+      "thirdCategory": "瑜伽椅",
+      "brandName": "魂跳",
+      "totalGmv": "1307203"
+    },
+    {
+      "thirdCategory": "瑜伽椅",
+      "brandName": "伊加",
+      "totalGmv": "63920"
+    },
+    {
+      "thirdCategory": "瑜伽清理鼻腔用具",
+      "brandName": "其它",
+      "totalGmv": "180129"
+    },
+    {
+      "thirdCategory": "瑜伽环",
+      "brandName": "其它",
+      "totalGmv": "5808926"
+    },
+    {
+      "thirdCategory": "瑜伽环",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "3438836"
+    },
+    {
+      "thirdCategory": "瑜伽环",
+      "brandName": "JJYOGA",
+      "totalGmv": "63881"
+    },
+    {
+      "thirdCategory": "瑜伽环",
+      "brandName": "冰健",
+      "totalGmv": "62230"
+    },
+    {
+      "thirdCategory": "瑜伽球",
+      "brandName": "其它",
+      "totalGmv": "7004549"
+    },
+    {
+      "thirdCategory": "瑜伽球",
+      "brandName": "yottoy",
+      "totalGmv": "2242484"
+    },
+    {
+      "thirdCategory": "瑜伽球",
+      "brandName": "动呗",
+      "totalGmv": "129231"
+    },
+    {
+      "thirdCategory": "瑜伽球",
+      "brandName": "冰健",
+      "totalGmv": "59620"
+    },
+    {
+      "thirdCategory": "瑜伽砖",
+      "brandName": "其它",
+      "totalGmv": "1633871"
+    },
+    {
+      "thirdCategory": "瑜伽砖",
+      "brandName": "JJYOGA",
+      "totalGmv": "1458216"
+    },
+    {
+      "thirdCategory": "瑜伽砖",
+      "brandName": "SMOOKY",
+      "totalGmv": "833599"
+    },
+    {
+      "thirdCategory": "瑜伽砖",
+      "brandName": "yottoy",
+      "totalGmv": "101926"
+    },
+    {
+      "thirdCategory": "瑜伽砖",
+      "brandName": "捷英飞",
+      "totalGmv": "84719"
+    },
+    {
+      "thirdCategory": "瑜伽砖",
+      "brandName": "remolati",
+      "totalGmv": "68088"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "其它",
+      "totalGmv": "153352671"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "冰健",
+      "totalGmv": "59995259"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "beimengna/贝梦娜",
+      "totalGmv": "23047812"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "17996409"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "Lukoufitness",
+      "totalGmv": "3981176"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "SMOOKY",
+      "totalGmv": "3979110"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "品健",
+      "totalGmv": "2702835"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "梒晶",
+      "totalGmv": "2125556"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "伽话",
+      "totalGmv": "1783828"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "Dream Room",
+      "totalGmv": "1220810"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "花之物语",
+      "totalGmv": "1055796"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "SALUKO",
+      "totalGmv": "828916"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "心悦",
+      "totalGmv": "555355"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "君育",
+      "totalGmv": "417340"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "美国MBA",
+      "totalGmv": "363812"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "JUNLAIKANG/君来康",
+      "totalGmv": "314550"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "捷英飞",
+      "totalGmv": "242373"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "PELPO/派普",
+      "totalGmv": "181210"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "浦蓝氏",
+      "totalGmv": "180712"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "奇零",
+      "totalGmv": "179865"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "中欧",
+      "totalGmv": "172066"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "166275"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "yottoy",
+      "totalGmv": "157776"
+    },
+    {
+      "thirdCategory": "瑜伽舒展器/健康架",
+      "brandName": "爱逸",
+      "totalGmv": "68817"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "其它",
+      "totalGmv": "52281622"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "YOGI XIAOXIONG/瑜伽小熊",
+      "totalGmv": "1726273"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "赛硕",
+      "totalGmv": "901939"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "SINSIN",
+      "totalGmv": "369983"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "SP-68",
+      "totalGmv": "246380"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "佑游",
+      "totalGmv": "214501"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "布迷小熊",
+      "totalGmv": "93374"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "cohituc/科途",
+      "totalGmv": "80702"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "梦妮",
+      "totalGmv": "79729"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "Rainboweran/彩虹衣然",
+      "totalGmv": "61198"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "Alessandro Paccuci/亚历山德罗 帕库奇",
+      "totalGmv": "35226"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "JJYOGA",
+      "totalGmv": "17941"
+    },
+    {
+      "thirdCategory": "瑜伽袜子",
+      "brandName": "SHEYIJUN/奢依君",
+      "totalGmv": "17587"
+    },
+    {
+      "thirdCategory": "瑜伽鞋",
+      "brandName": "其它",
+      "totalGmv": "9557985"
+    },
+    {
+      "thirdCategory": "瑜伽鞋",
+      "brandName": "晨升",
+      "totalGmv": "9007879"
+    },
+    {
+      "thirdCategory": "瑜伽鞋",
+      "brandName": "戈伦鲨",
+      "totalGmv": "4344772"
+    },
+    {
+      "thirdCategory": "瑜伽鞋",
+      "brandName": "Puma/彪马",
+      "totalGmv": "328472"
+    },
+    {
+      "thirdCategory": "瑜伽鞋",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "325613"
+    },
+    {
+      "thirdCategory": "瑜伽鞋",
+      "brandName": "Lukou/路口",
+      "totalGmv": "182693"
+    },
+    {
+      "thirdCategory": "瑜伽香薰精油",
+      "brandName": "其它",
+      "totalGmv": "5007455"
+    },
+    {
+      "thirdCategory": "甩脂机/律动机",
+      "brandName": "TriPollar/初普",
+      "totalGmv": "1011643"
+    },
+    {
+      "thirdCategory": "甩脂机/律动机",
+      "brandName": "初普",
+      "totalGmv": "520971"
+    },
+    {
+      "thirdCategory": "甩脂机/律动机",
+      "brandName": "Dr.Arrivo/宙斯",
+      "totalGmv": "60499"
+    },
+    {
+      "thirdCategory": "田径运动鞋",
+      "brandName": "其它",
+      "totalGmv": "1533932"
+    },
+    {
+      "thirdCategory": "田径运动鞋",
+      "brandName": "玫姬",
+      "totalGmv": "748437"
+    },
+    {
+      "thirdCategory": "田径运动鞋",
+      "brandName": "volantiTF/沃兰迪",
+      "totalGmv": "669781"
+    },
+    {
+      "thirdCategory": "田径运动鞋",
+      "brandName": "唯依",
+      "totalGmv": "179570"
+    },
+    {
+      "thirdCategory": "田径运动鞋",
+      "brandName": " HEALTH/海尔斯",
+      "totalGmv": "132562"
+    },
+    {
+      "thirdCategory": "田径运动鞋",
+      "brandName": "威量",
+      "totalGmv": "62588"
+    },
+    {
+      "thirdCategory": "田径运动鞋",
+      "brandName": "SUXU/索旭",
+      "totalGmv": "35805"
+    },
+    {
+      "thirdCategory": "电竞夹克/外套",
+      "brandName": "其它",
+      "totalGmv": "9226869"
+    },
+    {
+      "thirdCategory": "电竞夹克/外套",
+      "brandName": "SEPTWOLVES/七匹狼",
+      "totalGmv": "38463"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "361°",
+      "totalGmv": "8310336"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "7425382"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "2759225"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "佑游",
+      "totalGmv": "1190312"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "Keep",
+      "totalGmv": "774359"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "toswim/泳镜侠",
+      "totalGmv": "717961"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "味姿美",
+      "totalGmv": "401833"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "拓胜",
+      "totalGmv": "397921"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "Speedo/速比涛",
+      "totalGmv": "346276"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "XTEP/特步",
+      "totalGmv": "265859"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "josoyeon/俏姝妍",
+      "totalGmv": "172573"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "菲浪雨",
+      "totalGmv": "170307"
+    },
+    {
+      "thirdCategory": "男士泳衣/裤",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "162195"
+    },
+    {
+      "thirdCategory": "瘦小腿套",
+      "brandName": "其它",
+      "totalGmv": "3952365"
+    },
+    {
+      "thirdCategory": "登山机",
+      "brandName": "SEAN LEE",
+      "totalGmv": "604318"
+    },
+    {
+      "thirdCategory": "皮头/杆头",
+      "brandName": "其它",
+      "totalGmv": "1452653"
+    },
+    {
+      "thirdCategory": "皮头/杆头",
+      "brandName": "Mike_Wooldridge",
+      "totalGmv": "639446"
+    },
+    {
+      "thirdCategory": "皮头/杆头",
+      "brandName": "PERI/皮尔力",
+      "totalGmv": "182466"
+    },
+    {
+      "thirdCategory": "皮头/杆头",
+      "brandName": "赛睿",
+      "totalGmv": "163585"
+    },
+    {
+      "thirdCategory": "皮头/杆头",
+      "brandName": "碧恩",
+      "totalGmv": "84795"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "贵派仕",
+      "totalGmv": "17878605"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "小状元",
+      "totalGmv": "14029484"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "迪卡仕",
+      "totalGmv": "3173581"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "SWAY/斯威",
+      "totalGmv": "2033295"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "其它",
+      "totalGmv": "1790721"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "1607213"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "法拉利",
+      "totalGmv": "1208677"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "逍遥之星",
+      "totalGmv": "1198439"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "XTEP/特步",
+      "totalGmv": "645790"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "Disney/迪士尼",
+      "totalGmv": "304548"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "MIGAO/米高",
+      "totalGmv": "248011"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "百嘉",
+      "totalGmv": "93142"
+    },
+    {
+      "thirdCategory": "直排轮",
+      "brandName": "联昶",
+      "totalGmv": "56965"
+    },
+    {
+      "thirdCategory": "空中瑜伽吊床",
+      "brandName": "其它",
+      "totalGmv": "228692"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "其它",
+      "totalGmv": "48094349"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "KONKA/康佳",
+      "totalGmv": "44369487"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "康润平/康润平",
+      "totalGmv": "6826911"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "SMOOKY",
+      "totalGmv": "4899048"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "vtt",
+      "totalGmv": "3801444"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "beoka/倍益康",
+      "totalGmv": "3108785"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "神孩子",
+      "totalGmv": "2986389"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "VEIDOORN/维动",
+      "totalGmv": "2438279"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "AUX/奥克斯",
+      "totalGmv": "2022777"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "yolanda",
+      "totalGmv": "2015964"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "Theragun",
+      "totalGmv": "1809973"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "YAWHO/崖虎",
+      "totalGmv": "1429007"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "1346619"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "Urikar/Urikar",
+      "totalGmv": "1002242"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "Mory",
+      "totalGmv": "702452"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "向物",
+      "totalGmv": "647824"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "PHILIPS/飞利浦",
+      "totalGmv": "604051"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "迈普",
+      "totalGmv": "480491"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "安步",
+      "totalGmv": "426523"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "SUPOR/苏泊尔",
+      "totalGmv": "401940"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "宝马MINI",
+      "totalGmv": "365330"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "PINEYOUNG",
+      "totalGmv": "346141"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "WEIERJIAN/威尔健",
+      "totalGmv": "334004"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "麦瑞克",
+      "totalGmv": "293455"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "贝洛特",
+      "totalGmv": "279281"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "iMao",
+      "totalGmv": "203212"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "KASADA/卡萨达",
+      "totalGmv": "189798"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "捷斯力",
+      "totalGmv": "187014"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "奥克斯",
+      "totalGmv": "160609"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "特泽瓦",
+      "totalGmv": "160101"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "冰健",
+      "totalGmv": "141404"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "温雅",
+      "totalGmv": "93054"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "83130"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "DOOP",
+      "totalGmv": "66890"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "Keep",
+      "totalGmv": "64057"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "TaoTronics",
+      "totalGmv": "58738"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "有品",
+      "totalGmv": "58520"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "PI ROLLER",
+      "totalGmv": "53260"
+    },
+    {
+      "thirdCategory": "筋膜枪",
+      "brandName": "逸涵木业",
+      "totalGmv": "35247"
+    },
+    {
+      "thirdCategory": "筋膜柱",
+      "brandName": "其它",
+      "totalGmv": "3726594"
+    },
+    {
+      "thirdCategory": "筋膜柱",
+      "brandName": "Lukoufitness",
+      "totalGmv": "2010268"
+    },
+    {
+      "thirdCategory": "筋膜柱",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "86328"
+    },
+    {
+      "thirdCategory": "筋膜柱",
+      "brandName": "remolati",
+      "totalGmv": "79678"
+    },
+    {
+      "thirdCategory": "筋膜柱",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "79005"
+    },
+    {
+      "thirdCategory": "筋膜球",
+      "brandName": "Lukoufitness",
+      "totalGmv": "2237692"
+    },
+    {
+      "thirdCategory": "筋膜球",
+      "brandName": "其它",
+      "totalGmv": "528390"
+    },
+    {
+      "thirdCategory": "筋膜球",
+      "brandName": "Lukou/路口",
+      "totalGmv": "258934"
+    },
+    {
+      "thirdCategory": "筋膜球",
+      "brandName": "saisamorn/赛莎梦",
+      "totalGmv": "180593"
+    },
+    {
+      "thirdCategory": "筹码",
+      "brandName": "TREYO/雀友",
+      "totalGmv": "70194"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "THREEHUAN/三环",
+      "totalGmv": "30952677"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "其它",
+      "totalGmv": "17106265"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "Wilson/威尔胜",
+      "totalGmv": "15038387"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "斯伯丁",
+      "totalGmv": "10113639"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "BB-X SPECIAL",
+      "totalGmv": "9720641"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "VEIDOORN/维动",
+      "totalGmv": "6168789"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "Spalding/斯伯丁",
+      "totalGmv": "5718661"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "JGOVERHABIT",
+      "totalGmv": "4935875"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "EXCESS/爱可赛",
+      "totalGmv": "4920705"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "Psyche",
+      "totalGmv": "4122771"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "3201793"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "NYCO/奈酷",
+      "totalGmv": "2153016"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "anta kids/安踏儿童",
+      "totalGmv": "1803464"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "COURTMAN/野球帝",
+      "totalGmv": "1488692"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "ANTA/安踏",
+      "totalGmv": "1235739"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "NABOSTER/纳博斯特",
+      "totalGmv": "1068204"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "361°",
+      "totalGmv": "794449"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "WITESS",
+      "totalGmv": "529623"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "RIGORER/准者",
+      "totalGmv": "474347"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "447824"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "JRS",
+      "totalGmv": "338558"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "灌力",
+      "totalGmv": "288653"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "路人王(THE KING OF UNDERDOGS)",
+      "totalGmv": "250148"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "CBA",
+      "totalGmv": "248885"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "OVERHABIT",
+      "totalGmv": "226938"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "SIRDAR/萨达",
+      "totalGmv": "208001"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "TRAIN/火车",
+      "totalGmv": "185558"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "乔丹体育",
+      "totalGmv": "182805"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "BLACKMANBA",
+      "totalGmv": "165268"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "aibuni/爱布妮",
+      "totalGmv": "159876"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "FIZGTH/战飓",
+      "totalGmv": "92317"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "爱布妮(aibuni)",
+      "totalGmv": "86139"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "格朗",
+      "totalGmv": "82613"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "SAIYAWEI/赛亚威",
+      "totalGmv": "81450"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "80784"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "BLACK MAMBA",
+      "totalGmv": "64478"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "TESIEN/特斯恩",
+      "totalGmv": "64375"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "鸿克",
+      "totalGmv": "60545"
+    },
+    {
+      "thirdCategory": "篮球",
+      "brandName": "帕尼尼",
+      "totalGmv": "16214"
+    },
+    {
+      "thirdCategory": "篮球充气设备",
+      "brandName": "RIGORER/准者",
+      "totalGmv": "310554"
+    },
+    {
+      "thirdCategory": "篮球充气设备",
+      "brandName": "斯伯丁",
+      "totalGmv": "92078"
+    },
+    {
+      "thirdCategory": "篮球包/篮球袋",
+      "brandName": "斯伯丁",
+      "totalGmv": "75439"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "其它",
+      "totalGmv": "20909955"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "VEIDOORN/维动",
+      "totalGmv": "8133033"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "NBA",
+      "totalGmv": "3290422"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "1621602"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "RIGORER/准者",
+      "totalGmv": "1304779"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "Iverson/艾弗森",
+      "totalGmv": "1094466"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "球虫",
+      "totalGmv": "390064"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "衣萱柚",
+      "totalGmv": "285929"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "other",
+      "totalGmv": "182127"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "mitchell&ness",
+      "totalGmv": "173816"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "莱跑",
+      "totalGmv": "158444"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "60532"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "迅飞",
+      "totalGmv": "34630"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "路人王(THE KING OF UNDERDOGS)",
+      "totalGmv": "34518"
+    },
+    {
+      "thirdCategory": "篮球服",
+      "brandName": "凯尔特人",
+      "totalGmv": "33874"
+    },
+    {
+      "thirdCategory": "篮球架/篮球框",
+      "brandName": "其它",
+      "totalGmv": "5285575"
+    },
+    {
+      "thirdCategory": "篮球架/篮球框",
+      "brandName": "mysports",
+      "totalGmv": "38069"
+    },
+    {
+      "thirdCategory": "篮球球迷用品",
+      "brandName": "其它",
+      "totalGmv": "12986297"
+    },
+    {
+      "thirdCategory": "篮球球迷用品",
+      "brandName": "帕尼尼",
+      "totalGmv": "4015609"
+    },
+    {
+      "thirdCategory": "篮球球迷用品",
+      "brandName": "聚星动力",
+      "totalGmv": "673551"
+    },
+    {
+      "thirdCategory": "篮球球迷用品",
+      "brandName": "恩狄万",
+      "totalGmv": "372224"
+    },
+    {
+      "thirdCategory": "篮球球迷用品",
+      "brandName": "CBA",
+      "totalGmv": "90429"
+    },
+    {
+      "thirdCategory": "篮球球迷用品",
+      "brandName": "NBA",
+      "totalGmv": "81412"
+    },
+    {
+      "thirdCategory": "篮球球迷用品",
+      "brandName": "DOOPO",
+      "totalGmv": "58185"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "VEIDOORN/维动",
+      "totalGmv": "29558350"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "其它",
+      "totalGmv": "6279795"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "uzis/忧则生",
+      "totalGmv": "4236037"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "NBA",
+      "totalGmv": "1665205"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "Baotuman/宝图曼",
+      "totalGmv": "830773"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "朽忆",
+      "totalGmv": "187410"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "NICEID",
+      "totalGmv": "129079"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "AirPOP",
+      "totalGmv": "94129"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "LANQI/蓝奇",
+      "totalGmv": "80530"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "RIGORER/准者",
+      "totalGmv": "57504"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "NIKE/耐克",
+      "totalGmv": "40461"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "CTLR/左右力量",
+      "totalGmv": "38384"
+    },
+    {
+      "thirdCategory": "篮球袜",
+      "brandName": "JILUN/积仑",
+      "totalGmv": "19094"
+    },
+    {
+      "thirdCategory": "粘合剂/胶水",
+      "brandName": "其它",
+      "totalGmv": "7210883"
+    },
+    {
+      "thirdCategory": "粘合剂/胶水",
+      "brandName": "焕晨",
+      "totalGmv": "175845"
+    },
+    {
+      "thirdCategory": "网球",
+      "brandName": "其它",
+      "totalGmv": "7954920"
+    },
+    {
+      "thirdCategory": "网球",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "5177023"
+    },
+    {
+      "thirdCategory": "网球",
+      "brandName": "尚氧",
+      "totalGmv": "3150849"
+    },
+    {
+      "thirdCategory": "网球",
+      "brandName": "品健",
+      "totalGmv": "694903"
+    },
+    {
+      "thirdCategory": "网球",
+      "brandName": "昊权",
+      "totalGmv": "184758"
+    },
+    {
+      "thirdCategory": "网球",
+      "brandName": "KUS",
+      "totalGmv": "174337"
+    },
+    {
+      "thirdCategory": "网球帽",
+      "brandName": "NIKE/耐克",
+      "totalGmv": "162557"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "其它",
+      "totalGmv": "8579924"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "羽羽微龙",
+      "totalGmv": "3573451"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "HANJUE/汉崛",
+      "totalGmv": "1846890"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "1215889"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "705447"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "Wilson/威尔胜",
+      "totalGmv": "458322"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "BOSHILAI/博士来",
+      "totalGmv": "450527"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "冰健",
+      "totalGmv": "397908"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "361°",
+      "totalGmv": "303694"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "191516"
+    },
+    {
+      "thirdCategory": "网球拍",
+      "brandName": "Deerway/德尔惠",
+      "totalGmv": "181413"
+    },
+    {
+      "thirdCategory": "网球训练用品",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "89787287"
+    },
+    {
+      "thirdCategory": "网球训练用品",
+      "brandName": "其它",
+      "totalGmv": "47242589"
+    },
+    {
+      "thirdCategory": "网球训练用品",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "16723349"
+    },
+    {
+      "thirdCategory": "网球训练用品",
+      "brandName": "江欢喜",
+      "totalGmv": "814821"
+    },
+    {
+      "thirdCategory": "网球训练用品",
+      "brandName": "百嘉",
+      "totalGmv": "532086"
+    },
+    {
+      "thirdCategory": "网球训练用品",
+      "brandName": "跆彬",
+      "totalGmv": "252378"
+    },
+    {
+      "thirdCategory": "美腰机/挺腰器",
+      "brandName": "其它",
+      "totalGmv": "4595487"
+    },
+    {
+      "thirdCategory": "美腰机/挺腰器",
+      "brandName": "SEAN LEE",
+      "totalGmv": "3122944"
+    },
+    {
+      "thirdCategory": "美腰机/挺腰器",
+      "brandName": "SMOOKY",
+      "totalGmv": "178791"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "其它",
+      "totalGmv": "49168548"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "SEAN LEE",
+      "totalGmv": "16027759"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "14638477"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "Podeman",
+      "totalGmv": "9731424"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "HIYYIH",
+      "totalGmv": "8749352"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "Windstorm",
+      "totalGmv": "4379788"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "3513454"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "奥朗仕",
+      "totalGmv": "3127042"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "RALDEY",
+      "totalGmv": "2012034"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "品健",
+      "totalGmv": "1998420"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "COLORFIT",
+      "totalGmv": "1918919"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "HY3",
+      "totalGmv": "1761074"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "中欧",
+      "totalGmv": "1756253"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "FALAEN",
+      "totalGmv": "1394336"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "冰健",
+      "totalGmv": "1307711"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "零重力",
+      "totalGmv": "608284"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "FeiPao/飞跑",
+      "totalGmv": "449627"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "品奈",
+      "totalGmv": "433556"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "vtt",
+      "totalGmv": "377250"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "HOT KNEE",
+      "totalGmv": "357200"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "Nan ji ren/南极人",
+      "totalGmv": "322480"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "满毅",
+      "totalGmv": "319408"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "伽话",
+      "totalGmv": "281648"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "SMOOKY",
+      "totalGmv": "234899"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "施耐德",
+      "totalGmv": "212794"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "TXX",
+      "totalGmv": "191865"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "麦瑞克",
+      "totalGmv": "182030"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "晨升",
+      "totalGmv": "172710"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "昊权",
+      "totalGmv": "168541"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "品辰",
+      "totalGmv": "167447"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "yottoy",
+      "totalGmv": "165828"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "ADKING",
+      "totalGmv": "98637"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "爱喜健身",
+      "totalGmv": "76533"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "千芝叶",
+      "totalGmv": "64195"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "crystal/水晶",
+      "totalGmv": "58371"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "许沫",
+      "totalGmv": "52631"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "39423"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "JUNLAIKANG/君来康",
+      "totalGmv": "37649"
+    },
+    {
+      "thirdCategory": "美腿机/腿部训练器",
+      "brandName": "金瑜",
+      "totalGmv": "35670"
+    },
+    {
+      "thirdCategory": "美臀训练器",
+      "brandName": "其它",
+      "totalGmv": "355692"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "其它",
+      "totalGmv": "13212642"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "RSL/亚狮龙",
+      "totalGmv": "12677188"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "si zhuang ge/斯庄格",
+      "totalGmv": "3142385"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "DOOOT",
+      "totalGmv": "3041164"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "huamei/华美",
+      "totalGmv": "2715279"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "威羽斯",
+      "totalGmv": "1839699"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "克洛斯威",
+      "totalGmv": "1291821"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "威克多",
+      "totalGmv": "1128970"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "TKU/齐克努专注羽毛球运动",
+      "totalGmv": "820483"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "KUMPOO/薰风",
+      "totalGmv": "564161"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "CHAOPAI/超牌",
+      "totalGmv": "515358"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "EVERVON",
+      "totalGmv": "408258"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "A·HJ",
+      "totalGmv": "393475"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "闪电貂",
+      "totalGmv": "262968"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "P.R IND",
+      "totalGmv": "249689"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "乔丹体育",
+      "totalGmv": "224710"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "剑羽",
+      "totalGmv": "180272"
+    },
+    {
+      "thirdCategory": "羽毛球",
+      "brandName": "KAWASAKI",
+      "totalGmv": "94200"
+    },
+    {
+      "thirdCategory": "羽毛球包",
+      "brandName": "其它",
+      "totalGmv": "4517379"
+    },
+    {
+      "thirdCategory": "羽毛球包",
+      "brandName": "YONEX/尤尼克斯",
+      "totalGmv": "418949"
+    },
+    {
+      "thirdCategory": "羽毛球包",
+      "brandName": "威克多",
+      "totalGmv": "181054"
+    },
+    {
+      "thirdCategory": "羽毛球发球机",
+      "brandName": "Dracaena/的幸",
+      "totalGmv": "665299"
+    },
+    {
+      "thirdCategory": "羽毛球发球机",
+      "brandName": "其它",
+      "totalGmv": "404457"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "其它",
+      "totalGmv": "59221564"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "YONEX/尤尼克斯",
+      "totalGmv": "19149216"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "zhanyu/战羽",
+      "totalGmv": "14258818"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "13378825"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "KUMPOO/薰风",
+      "totalGmv": "13248347"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "威克多",
+      "totalGmv": "11868793"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Dracaena/的幸",
+      "totalGmv": "9805522"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "361°",
+      "totalGmv": "7432804"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "浦锐",
+      "totalGmv": "5363854"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "克洛斯威",
+      "totalGmv": "4204887"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "DOOOT",
+      "totalGmv": "3858035"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "FINGER TIP FT/指尚尖",
+      "totalGmv": "2453256"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "YOU MEI/佑美",
+      "totalGmv": "1787068"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "KAWASAKI",
+      "totalGmv": "1659816"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Conga/战甲奇出",
+      "totalGmv": "1403759"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "amawey/艾瑪威",
+      "totalGmv": "1378507"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Oreide/欧雷德",
+      "totalGmv": "1356351"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Deerway/德尔惠",
+      "totalGmv": "871061"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "方天画戟",
+      "totalGmv": "787691"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Senston/圣斯顿",
+      "totalGmv": "569168"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "XIEYU/蟹羽",
+      "totalGmv": "541995"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "541774"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "OGKILS",
+      "totalGmv": "534587"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "亚之羽",
+      "totalGmv": "442574"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "JNM/JNM",
+      "totalGmv": "422545"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "JMGPRO",
+      "totalGmv": "346128"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "SIRDAR/萨达",
+      "totalGmv": "344652"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "306042"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Mizuno/美津浓",
+      "totalGmv": "273544"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "乔丹体育",
+      "totalGmv": "265116"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "wushamao/乌纱帽",
+      "totalGmv": "250299"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "VenSon/威臣",
+      "totalGmv": "229604"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "凯胜",
+      "totalGmv": "229452"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "红双喜",
+      "totalGmv": "203082"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "VENSON",
+      "totalGmv": "188676"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "mbfish",
+      "totalGmv": "179673"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "M＆G/晨光",
+      "totalGmv": "167287"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "P.R IND",
+      "totalGmv": "141026"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "双骄",
+      "totalGmv": "116669"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "SOTX",
+      "totalGmv": "115861"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "恒博",
+      "totalGmv": "96857"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Decathlon/迪卡侬",
+      "totalGmv": "89869"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "Nan ji ren/南极人",
+      "totalGmv": "84668"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "ROCKET/火箭石碱",
+      "totalGmv": "80094"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "adidas/阿迪达斯",
+      "totalGmv": "67144"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "兄弟捷登",
+      "totalGmv": "60914"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "宁卿",
+      "totalGmv": "58484"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "羽达人",
+      "totalGmv": "57950"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "FZ FORZA",
+      "totalGmv": "40608"
+    },
+    {
+      "thirdCategory": "羽毛球拍",
+      "brandName": "狂神",
+      "totalGmv": "17677"
+    },
+    {
+      "thirdCategory": "羽毛球拍线",
+      "brandName": "威克多",
+      "totalGmv": "3632386"
+    },
+    {
+      "thirdCategory": "羽毛球拍线",
+      "brandName": "其它",
+      "totalGmv": "452444"
+    },
+    {
+      "thirdCategory": "羽毛球服",
+      "brandName": "YONEX/尤尼克斯",
+      "totalGmv": "3934061"
+    },
+    {
+      "thirdCategory": "羽毛球服",
+      "brandName": "其它",
+      "totalGmv": "1800540"
+    },
+    {
+      "thirdCategory": "羽毛球服",
+      "brandName": "威克多",
+      "totalGmv": "1322813"
+    },
+    {
+      "thirdCategory": "羽毛球服",
+      "brandName": "浦锐",
+      "totalGmv": "348823"
+    },
+    {
+      "thirdCategory": "羽毛球服",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "296677"
+    },
+    {
+      "thirdCategory": "羽毛球服",
+      "brandName": "KAWASAKI",
+      "totalGmv": "171264"
+    },
+    {
+      "thirdCategory": "羽毛球服",
+      "brandName": "ENPEX",
+      "totalGmv": "95075"
+    },
+    {
+      "thirdCategory": "羽毛球训练器",
+      "brandName": "其它",
+      "totalGmv": "805090"
+    },
+    {
+      "thirdCategory": "肩颈辅助训练器械",
+      "brandName": "SEAN LEE",
+      "totalGmv": "4398109"
+    },
+    {
+      "thirdCategory": "肩颈辅助训练器械",
+      "brandName": "其它",
+      "totalGmv": "2211391"
+    },
+    {
+      "thirdCategory": "肩颈辅助训练器械",
+      "brandName": "JUNLAIKANG/君来康",
+      "totalGmv": "1693503"
+    },
+    {
+      "thirdCategory": "肩颈辅助训练器械",
+      "brandName": "KONKA/康佳",
+      "totalGmv": "762594"
+    },
+    {
+      "thirdCategory": "脸部肌肉训练器",
+      "brandName": "其它",
+      "totalGmv": "11000429"
+    },
+    {
+      "thirdCategory": "脸部肌肉训练器",
+      "brandName": "冰健",
+      "totalGmv": "590726"
+    },
+    {
+      "thirdCategory": "脸部肌肉训练器",
+      "brandName": "品奈",
+      "totalGmv": "315965"
+    },
+    {
+      "thirdCategory": "腕力器/腕力球",
+      "brandName": "其它",
+      "totalGmv": "3098853"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "其它",
+      "totalGmv": "7686224"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "热炼",
+      "totalGmv": "877904"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "PROIRON",
+      "totalGmv": "412126"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "爱喜健身",
+      "totalGmv": "397189"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "Windstorm",
+      "totalGmv": "171628"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "AIMEISHI/艾美仕",
+      "totalGmv": "79028"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "QiangJie/强杰户外运动",
+      "totalGmv": "61175"
+    },
+    {
+      "thirdCategory": "臂力器",
+      "brandName": "无/无",
+      "totalGmv": "39405"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "其它",
+      "totalGmv": "4639528"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "GINWOODY",
+      "totalGmv": "3298499"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "MooleDance/小茉莉舞蹈",
+      "totalGmv": "805001"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "艾舞戈",
+      "totalGmv": "520636"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "E.Dance/舞 舞东方",
+      "totalGmv": "396371"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "青青之舞",
+      "totalGmv": "212403"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "素白",
+      "totalGmv": "186872"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "qiya/琪亚",
+      "totalGmv": "96819"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "NEI WAI/内外",
+      "totalGmv": "80760"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "TIEJIAN/铁箭",
+      "totalGmv": "65734"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "LOVE FOR DANCE/舞之恋",
+      "totalGmv": "63417"
+    },
+    {
+      "thirdCategory": "芭蕾舞",
+      "brandName": "Sansha/三沙",
+      "totalGmv": "60135"
+    },
+    {
+      "thirdCategory": "藏族舞",
+      "brandName": "其它",
+      "totalGmv": "209683"
+    },
+    {
+      "thirdCategory": "街舞",
+      "brandName": "PINPINPLUS",
+      "totalGmv": "1734295"
+    },
+    {
+      "thirdCategory": "街舞",
+      "brandName": "忻萦",
+      "totalGmv": "613927"
+    },
+    {
+      "thirdCategory": "街舞",
+      "brandName": "其它",
+      "totalGmv": "79241"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "concept king/concept king",
+      "totalGmv": "9952981"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "其它",
+      "totalGmv": "3033561"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "宜肤",
+      "totalGmv": "1817525"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "XTEP/特步",
+      "totalGmv": "1466410"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "ZOGGS",
+      "totalGmv": "709623"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "粒智",
+      "totalGmv": "405984"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "昕兰妮",
+      "totalGmv": "252110"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "OMOM",
+      "totalGmv": "194996"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "yonggeer/泳歌儿",
+      "totalGmv": "79606"
+    },
+    {
+      "thirdCategory": "裹裙/披纱",
+      "brandName": "奢亦璐",
+      "totalGmv": "37395"
+    },
+    {
+      "thirdCategory": "训练背心(分组对抗)",
+      "brandName": "KELME/卡尔美",
+      "totalGmv": "166562"
+    },
+    {
+      "thirdCategory": "训练辅助用具",
+      "brandName": "其它",
+      "totalGmv": "1721998"
+    },
+    {
+      "thirdCategory": "训练辅助用具",
+      "brandName": "蝴蝶",
+      "totalGmv": "191639"
+    },
+    {
+      "thirdCategory": "训练辅助用具",
+      "brandName": "Airgoal",
+      "totalGmv": "106137"
+    },
+    {
+      "thirdCategory": "负重装备",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "1620765"
+    },
+    {
+      "thirdCategory": "负重装备",
+      "brandName": "其它",
+      "totalGmv": "544478"
+    },
+    {
+      "thirdCategory": "负重装备",
+      "brandName": "重沙",
+      "totalGmv": "186119"
+    },
+    {
+      "thirdCategory": "负重装备",
+      "brandName": "PROIRON",
+      "totalGmv": "87516"
+    },
+    {
+      "thirdCategory": "负重设备",
+      "brandName": "其它",
+      "totalGmv": "1635529"
+    },
+    {
+      "thirdCategory": "赛车服",
+      "brandName": "其它",
+      "totalGmv": "618335"
+    },
+    {
+      "thirdCategory": "赛车球迷用品",
+      "brandName": "其它",
+      "totalGmv": "190339"
+    },
+    {
+      "thirdCategory": "走步机",
+      "brandName": "AijianS",
+      "totalGmv": "3320657"
+    },
+    {
+      "thirdCategory": "走步机",
+      "brandName": "其它",
+      "totalGmv": "2561063"
+    },
+    {
+      "thirdCategory": "走步机",
+      "brandName": "DOOP",
+      "totalGmv": "1669418"
+    },
+    {
+      "thirdCategory": "走步机",
+      "brandName": "HSM/海斯曼",
+      "totalGmv": "574877"
+    },
+    {
+      "thirdCategory": "走步机",
+      "brandName": "RHFITNESS/任和",
+      "totalGmv": "287512"
+    },
+    {
+      "thirdCategory": "足底按摩垫",
+      "brandName": "其它",
+      "totalGmv": "54546920"
+    },
+    {
+      "thirdCategory": "足底按摩垫",
+      "brandName": "HAOMIJIA/豪米佳",
+      "totalGmv": "4255771"
+    },
+    {
+      "thirdCategory": "足底按摩垫",
+      "brandName": "西域胖墩儿",
+      "totalGmv": "1371705"
+    },
+    {
+      "thirdCategory": "足底按摩垫",
+      "brandName": "亿美家品",
+      "totalGmv": "272022"
+    },
+    {
+      "thirdCategory": "足底按摩垫",
+      "brandName": "LANNA/兰纳",
+      "totalGmv": "169766"
+    },
+    {
+      "thirdCategory": "足底按摩垫",
+      "brandName": "白云山",
+      "totalGmv": "149864"
+    },
+    {
+      "thirdCategory": "足底按摩垫",
+      "brandName": "雅琴",
+      "totalGmv": "62060"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "其它",
+      "totalGmv": "2709563"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "361°",
+      "totalGmv": "1444919"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "剑南春",
+      "totalGmv": "886772"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "KELME/卡尔美",
+      "totalGmv": "851367"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "adidas/阿迪达斯",
+      "totalGmv": "825536"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "IDEA PIG/创意猪",
+      "totalGmv": "429902"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "354025"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "聚星动力",
+      "totalGmv": "282232"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "崂山啤酒",
+      "totalGmv": "165823"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "琉缘",
+      "totalGmv": "130450"
+    },
+    {
+      "thirdCategory": "足球",
+      "brandName": "INRA/茵浪",
+      "totalGmv": "96311"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "其它",
+      "totalGmv": "18736248"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "KELME/卡尔美",
+      "totalGmv": "2615265"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "聚星动力",
+      "totalGmv": "1524828"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "meixi/梅西",
+      "totalGmv": "1013577"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "Champion/冠军",
+      "totalGmv": "918620"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "adidas/阿迪达斯",
+      "totalGmv": "834871"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "NIKE/耐克",
+      "totalGmv": "603438"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "小李子",
+      "totalGmv": "192644"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "LIVERPOOL FC",
+      "totalGmv": "178817"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "AC MILAN AMC 1899",
+      "totalGmv": "95145"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "TIDEN & IDEA/潮设",
+      "totalGmv": "58553"
+    },
+    {
+      "thirdCategory": "足球服",
+      "brandName": "cg/其他",
+      "totalGmv": "56412"
+    },
+    {
+      "thirdCategory": "足球球迷用品",
+      "brandName": "其它",
+      "totalGmv": "930122"
+    },
+    {
+      "thirdCategory": "足球球迷用品",
+      "brandName": "聚星动力",
+      "totalGmv": "161513"
+    },
+    {
+      "thirdCategory": "足球袜",
+      "brandName": "其它",
+      "totalGmv": "95542"
+    },
+    {
+      "thirdCategory": "足球袜",
+      "brandName": "蜂锐",
+      "totalGmv": "37221"
+    },
+    {
+      "thirdCategory": "足球袜",
+      "brandName": "聚星动力",
+      "totalGmv": "16183"
+    },
+    {
+      "thirdCategory": "足球鞋钉",
+      "brandName": "NIKE/耐克",
+      "totalGmv": "173064"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "其它",
+      "totalGmv": "9617847"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "吉米兔",
+      "totalGmv": "5540345"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "索维尔",
+      "totalGmv": "801606"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "361°",
+      "totalGmv": "715127"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "罗跃飞",
+      "totalGmv": "668609"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "莫状元",
+      "totalGmv": "625008"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "林中鸟",
+      "totalGmv": "71533"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "捷英飞",
+      "totalGmv": "70541"
+    },
+    {
+      "thirdCategory": "跆拳道",
+      "brandName": "PROIRON",
+      "totalGmv": "67250"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "易跑",
+      "totalGmv": "43211830"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "SHUA/舒华",
+      "totalGmv": "15764093"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "亿健",
+      "totalGmv": "6601084"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "LIJIUJIA/立久佳",
+      "totalGmv": "5646235"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "HSM/海斯曼",
+      "totalGmv": "4793470"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "YOU MEI/佑美",
+      "totalGmv": "3477495"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "lanying/蓝鹰",
+      "totalGmv": "3423297"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "8",
+      "totalGmv": "1869283"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "其它",
+      "totalGmv": "1857509"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "KING SMITH/金史密斯",
+      "totalGmv": "1830806"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "Keep",
+      "totalGmv": "1687825"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "LDIWEI LDIWEI FITNESS EQUPIMENT/勒德威",
+      "totalGmv": "1533154"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "麦瑞克",
+      "totalGmv": "872966"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "立久佳",
+      "totalGmv": "860110"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "677215"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "SOLE/速尔",
+      "totalGmv": "350891"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "HUAWEI/华为",
+      "totalGmv": "311703"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "CHANGPAO/畅跑",
+      "totalGmv": "173312"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "ELBOO/益步",
+      "totalGmv": "114623"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "ZHUOPAI/卓牌",
+      "totalGmv": "96154"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "小金跑步机",
+      "totalGmv": "93795"
+    },
+    {
+      "thirdCategory": "跑步机",
+      "brandName": "jican/吉灿",
+      "totalGmv": "64502"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "其它",
+      "totalGmv": "85593483"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "69018474"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "75派",
+      "totalGmv": "29123818"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "361°",
+      "totalGmv": "18886669"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "MOGOLD",
+      "totalGmv": "12396261"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "SMOOKY",
+      "totalGmv": "12387008"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "YOU MEI/佑美",
+      "totalGmv": "12017647"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "浙份爱",
+      "totalGmv": "7842381"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "麦瑞克",
+      "totalGmv": "7635310"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "PEAK/匹克",
+      "totalGmv": "7360521"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "Keep",
+      "totalGmv": "4267391"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "佐健",
+      "totalGmv": "4186372"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "HongTai/宏太",
+      "totalGmv": "2967743"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "夺冠",
+      "totalGmv": "2555263"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "猛焰",
+      "totalGmv": "2421412"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "JUSAI/聚赛",
+      "totalGmv": "2277430"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "yaobao/妍宝",
+      "totalGmv": "1855526"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "欧梵达",
+      "totalGmv": "1301526"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "晨升",
+      "totalGmv": "1270138"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "1129443"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "斯迪讴特",
+      "totalGmv": "1127473"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "骐骏",
+      "totalGmv": "1121564"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "伽话",
+      "totalGmv": "1078987"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "米客",
+      "totalGmv": "1044134"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "innstar",
+      "totalGmv": "1009119"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "YESOUL/野小兽",
+      "totalGmv": "649071"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "XTEP/特步",
+      "totalGmv": "559791"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "满毅",
+      "totalGmv": "541450"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "Lukoufitness",
+      "totalGmv": "491337"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "UMAYFREE/由媄",
+      "totalGmv": "403829"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "炫光",
+      "totalGmv": "363692"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "YUEFANG/悦放",
+      "totalGmv": "317316"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "优宁",
+      "totalGmv": "270822"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "tmt",
+      "totalGmv": "220466"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "天扬(TIANYANG)",
+      "totalGmv": "191456"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "方鱼·至臻",
+      "totalGmv": "162598"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "悦绳",
+      "totalGmv": "157664"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "大V店",
+      "totalGmv": "95678"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "Mesuca/麦斯卡",
+      "totalGmv": "94076"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "Mdikawe/曼迪卡威",
+      "totalGmv": "68046"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "京东旅行",
+      "totalGmv": "66654"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "健焰",
+      "totalGmv": "62105"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "SILITE/斯立特",
+      "totalGmv": "56420"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "KASADA/卡萨达",
+      "totalGmv": "56376"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "Kansoon/凯速",
+      "totalGmv": "41072"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "faaodoen/梵匣",
+      "totalGmv": "37954"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "JUNSHUO/君硕",
+      "totalGmv": "36300"
+    },
+    {
+      "thirdCategory": "跳绳",
+      "brandName": "多锐",
+      "totalGmv": "35324"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "HongTai/宏太",
+      "totalGmv": "9806794"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "宁鼎",
+      "totalGmv": "7672080"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "DONGQILAI",
+      "totalGmv": "6420581"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "Miss You/米修",
+      "totalGmv": "3196398"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "其它",
+      "totalGmv": "2993769"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "一达康",
+      "totalGmv": "2534369"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "萨诺歌",
+      "totalGmv": "1649220"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "石光猫",
+      "totalGmv": "892955"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "蹦蹦",
+      "totalGmv": "883136"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "凌韬蹦床",
+      "totalGmv": "868877"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "Mdikawe/曼迪卡威",
+      "totalGmv": "192862"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "飞凡猫",
+      "totalGmv": "173519"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "Decathlon/迪卡侬",
+      "totalGmv": "162429"
+    },
+    {
+      "thirdCategory": "跳跳床/蹦蹦床",
+      "brandName": "邦怡",
+      "totalGmv": "67045"
+    },
+    {
+      "thirdCategory": "跳跳环/闪光跳",
+      "brandName": "其它",
+      "totalGmv": "1656052"
+    },
+    {
+      "thirdCategory": "跳跳环/闪光跳",
+      "brandName": "Windstorm",
+      "totalGmv": "882454"
+    },
+    {
+      "thirdCategory": "跳跳环/闪光跳",
+      "brandName": "奥朗仕",
+      "totalGmv": "566926"
+    },
+    {
+      "thirdCategory": "跳跳环/闪光跳",
+      "brandName": "NEW POWER SPORTS",
+      "totalGmv": "180648"
+    },
+    {
+      "thirdCategory": "跳跳球/蹦蹦球",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "3228176"
+    },
+    {
+      "thirdCategory": "跳跳球/蹦蹦球",
+      "brandName": "其它",
+      "totalGmv": "2083563"
+    },
+    {
+      "thirdCategory": "跳跳球/蹦蹦球",
+      "brandName": "青蛙",
+      "totalGmv": "1198330"
+    },
+    {
+      "thirdCategory": "跳跳球/蹦蹦球",
+      "brandName": "ZhongSanqing/中三清",
+      "totalGmv": "85879"
+    },
+    {
+      "thirdCategory": "跳高架",
+      "brandName": "其它",
+      "totalGmv": "807873"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "汗马",
+      "totalGmv": "159411490"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "其它",
+      "totalGmv": "51313143"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "BESSGYM/必动",
+      "totalGmv": "41510644"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "DOOP",
+      "totalGmv": "32019318"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "PROIRON",
+      "totalGmv": "12746535"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "niceme",
+      "totalGmv": "10468241"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "JUFIT/居康",
+      "totalGmv": "766484"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "LINKY",
+      "totalGmv": "699915"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "RUNWE/朗威",
+      "totalGmv": "543697"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "美人魚",
+      "totalGmv": "419209"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "LDIWEI LDIWEI FITNESS EQUPIMENT/勒德威",
+      "totalGmv": "357956"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "DVP",
+      "totalGmv": "162221"
+    },
+    {
+      "thirdCategory": "踏步机",
+      "brandName": "预思",
+      "totalGmv": "60615"
+    },
+    {
+      "thirdCategory": "转盘",
+      "brandName": "其它",
+      "totalGmv": "1447703"
+    },
+    {
+      "thirdCategory": "转盘",
+      "brandName": "乐透",
+      "totalGmv": "191041"
+    },
+    {
+      "thirdCategory": "运动帽",
+      "brandName": "其它",
+      "totalGmv": "6238708"
+    },
+    {
+      "thirdCategory": "运动帽",
+      "brandName": "TRACYCHU",
+      "totalGmv": "904669"
+    },
+    {
+      "thirdCategory": "运动帽",
+      "brandName": "vvc",
+      "totalGmv": "604066"
+    },
+    {
+      "thirdCategory": "运动帽",
       "brandName": "MLB/美国职棒大联盟",
-      "totalGmv": "825250"
+      "totalGmv": "558541"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "拜里朵",
-      "totalGmv": "822500"
+      "thirdCategory": "运动帽",
+      "brandName": "NERDY",
+      "totalGmv": "481974"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "诗黛尔",
-      "totalGmv": "816000"
+      "thirdCategory": "运动帽",
+      "brandName": "Semir/森马",
+      "totalGmv": "397615"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "里季",
-      "totalGmv": "811250"
+      "thirdCategory": "运动帽",
+      "brandName": "DLMY",
+      "totalGmv": "379364"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "ROOS&ROOS/如斯如斯",
-      "totalGmv": "807000"
+      "thirdCategory": "运动帽",
+      "brandName": "引擎鸟",
+      "totalGmv": "277861"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "MY WAY",
-      "totalGmv": "799500"
+      "thirdCategory": "运动帽",
+      "brandName": "DOKKY",
+      "totalGmv": "259894"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "法颂",
-      "totalGmv": "799000"
+      "thirdCategory": "运动帽",
+      "brandName": "蔻驰",
+      "totalGmv": "245447"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "LONKOOM/朗金",
-      "totalGmv": "791750"
+      "thirdCategory": "运动帽",
+      "brandName": "Under Armour/安德玛",
+      "totalGmv": "190993"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "isgoogol/古蔻",
-      "totalGmv": "789000"
+      "thirdCategory": "运动帽",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "190937"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "迪奥诗丹",
-      "totalGmv": "785000"
+      "thirdCategory": "运动帽",
+      "brandName": "大头星球",
+      "totalGmv": "189662"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "MYSTERY AROMA/未知气味",
-      "totalGmv": "767000"
+      "thirdCategory": "运动帽",
+      "brandName": "pelliot/伯希和",
+      "totalGmv": "181254"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "叹个香",
-      "totalGmv": "763750"
+      "thirdCategory": "运动帽",
+      "brandName": "uMinifier/明霓菲",
+      "totalGmv": "172667"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "BOLONZI",
-      "totalGmv": "747000"
+      "thirdCategory": "运动帽",
+      "brandName": "adidas/阿迪达斯",
+      "totalGmv": "93664"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "DWN",
-      "totalGmv": "736500"
+      "thirdCategory": "运动帽",
+      "brandName": "New Era",
+      "totalGmv": "65860"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "七寸九",
-      "totalGmv": "704500"
+      "thirdCategory": "运动帽",
+      "brandName": " TEENIE WEENIE/维尼熊",
+      "totalGmv": "64460"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "chun lian",
-      "totalGmv": "447500"
+      "thirdCategory": "运动帽",
+      "brandName": "MONAITTE/蒙奈特",
+      "totalGmv": "57277"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "KARLLAGERFELD/卡尔拉格斐",
-      "totalGmv": "442250"
+      "thirdCategory": "运动手套",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "175334"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "LANCÔME/兰蔻",
-      "totalGmv": "438000"
+      "thirdCategory": "运动护腰",
+      "brandName": "其它",
+      "totalGmv": "1165394"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "浪凡",
-      "totalGmv": "436250"
+      "thirdCategory": "运动护腰",
+      "brandName": "潮点",
+      "totalGmv": "331819"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "PA pase/派雪",
-      "totalGmv": "434500"
+      "thirdCategory": "运动护腰",
+      "brandName": "INNSTAR POWER",
+      "totalGmv": "163846"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "okayisyo/桜花抄",
-      "totalGmv": "422750"
+      "thirdCategory": "运动护腰",
+      "brandName": "Micisty/密汐皙迪",
+      "totalGmv": "159292"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "PRIME BLUE/尊蓝",
-      "totalGmv": "418250"
+      "thirdCategory": "运动护膝/髌骨带",
+      "brandName": "BOSHUJIAN/博舒健",
+      "totalGmv": "954211"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "adopt/阿多普特",
-      "totalGmv": "417500"
+      "thirdCategory": "运动护膝/髌骨带",
+      "brandName": "其它",
+      "totalGmv": "263166"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "JEANNEENPROVENCE",
-      "totalGmv": "416500"
+      "thirdCategory": "运动护踝",
+      "brandName": "其它",
+      "totalGmv": "269956"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "yinghuangjia/英皇家",
-      "totalGmv": "415000"
+      "thirdCategory": "运动毛巾",
+      "brandName": "其它",
+      "totalGmv": "1799023"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "梵克雅宝",
-      "totalGmv": "410000"
+      "thirdCategory": "运动毛巾",
+      "brandName": "浦锐",
+      "totalGmv": "1388733"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "罗意威",
-      "totalGmv": "406500"
+      "thirdCategory": "运动紧急用品",
+      "brandName": "Plameca",
+      "totalGmv": "16504573"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Marc Jacobs/莫杰",
-      "totalGmv": "403250"
+      "thirdCategory": "运动紧急用品",
+      "brandName": "其它",
+      "totalGmv": "959123"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "EOEKKY",
-      "totalGmv": "402000"
+      "thirdCategory": "运动紧急用品",
+      "brandName": "蓓盾",
+      "totalGmv": "908895"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "PA/派雪优品",
-      "totalGmv": "400000"
+      "thirdCategory": "运动紧急用品",
+      "brandName": "汉年堂",
+      "totalGmv": "317950"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "SISLEY/希思黎",
-      "totalGmv": "399750"
+      "thirdCategory": "运动紧急用品",
+      "brandName": "MOLISO",
+      "totalGmv": "66643"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "本几",
-      "totalGmv": "395750"
+      "thirdCategory": "运动紧急用品",
+      "brandName": "迈倍力",
+      "totalGmv": "62884"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Flower Knows/花知晓",
-      "totalGmv": "389000"
+      "thirdCategory": "运动肌肉贴/绷带",
+      "brandName": "其它",
+      "totalGmv": "585150"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "TJE",
-      "totalGmv": "389000"
+      "thirdCategory": "运动肌肉贴/绷带",
+      "brandName": "亚丽",
+      "totalGmv": "161982"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "舒耐",
-      "totalGmv": "388000"
+      "thirdCategory": "运动袜",
+      "brandName": "JILUN/积仑",
+      "totalGmv": "8437493"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "小城伊香",
-      "totalGmv": "382000"
+      "thirdCategory": "运动袜",
+      "brandName": "其它",
+      "totalGmv": "5979074"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "LOVE DE JO.M",
-      "totalGmv": "378750"
+      "thirdCategory": "运动袜",
+      "brandName": "莱安凯安",
+      "totalGmv": "665041"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "ReviPure",
-      "totalGmv": "376500"
+      "thirdCategory": "运动袜",
+      "brandName": "NIKE/耐克",
+      "totalGmv": "347760"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "MERYAM FRAGRANCE",
-      "totalGmv": "368000"
+      "thirdCategory": "运动袜",
+      "brandName": "朗祺",
+      "totalGmv": "151423"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "寻香之旅",
-      "totalGmv": "368000"
+      "thirdCategory": "运动袜",
+      "brandName": "YONEX/尤尼克斯",
+      "totalGmv": "80094"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Crown QunFang/冠群芳",
-      "totalGmv": "366000"
+      "thirdCategory": "运动袜",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "68343"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "PMPM/环球配方",
-      "totalGmv": "362000"
+      "thirdCategory": "运动袜",
+      "brandName": "FILA/斐乐",
+      "totalGmv": "65582"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "拾清欢",
-      "totalGmv": "356500"
+      "thirdCategory": "连体泳衣",
+      "brandName": "宜肤",
+      "totalGmv": "23075815"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Pino Silvestre",
-      "totalGmv": "355500"
+      "thirdCategory": "连体泳衣",
+      "brandName": "OMOM",
+      "totalGmv": "19432666"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "BEAST/野兽派",
-      "totalGmv": "354750"
+      "thirdCategory": "连体泳衣",
+      "brandName": "奥思鸟",
+      "totalGmv": "13604863"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "Banana Republic",
-      "totalGmv": "354500"
+      "thirdCategory": "连体泳衣",
+      "brandName": "BUNNYBUMS",
+      "totalGmv": "11146795"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "薇安琪",
-      "totalGmv": "353500"
+      "thirdCategory": "连体泳衣",
+      "brandName": "Balneaire/范德安",
+      "totalGmv": "9723663"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "升哥",
-      "totalGmv": "353250"
+      "thirdCategory": "连体泳衣",
+      "brandName": "沐赛伊",
+      "totalGmv": "8533676"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "欧珑",
-      "totalGmv": "159800"
+      "thirdCategory": "连体泳衣",
+      "brandName": "toswim/拓胜",
+      "totalGmv": "8190517"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "莱俪",
-      "totalGmv": "154700"
+      "thirdCategory": "连体泳衣",
+      "brandName": "Kim Mumy",
+      "totalGmv": "7256359"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "cocosiliya",
-      "totalGmv": "146900"
+      "thirdCategory": "连体泳衣",
+      "brandName": "其它",
+      "totalGmv": "7025702"
     },
     {
-      "thirdCategory": "香水/香膏",
-      "brandName": "迪奥亚菲",
-      "totalGmv": "141900"
+      "thirdCategory": "连体泳衣",
+      "brandName": "breeze holiday",
+      "totalGmv": "6870642"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "佑游",
+      "totalGmv": "5741321"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "美亦舒",
+      "totalGmv": "5429587"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "toswim/泳镜侠",
+      "totalGmv": "5417273"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "汐歌儿",
+      "totalGmv": "5324475"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "罗十安",
+      "totalGmv": "4596244"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "韩衍",
+      "totalGmv": "4534456"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "WaterTime",
+      "totalGmv": "4179428"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "YIYAN/以嫣",
+      "totalGmv": "4070436"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "VSHA",
+      "totalGmv": "3791983"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "蓓迩优品",
+      "totalGmv": "3266702"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "宜肤家",
+      "totalGmv": "2930616"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "萱调",
+      "totalGmv": "2719399"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Zoke/洲克",
+      "totalGmv": "2554717"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "LI-NING/李宁",
+      "totalGmv": "2513883"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "诺叙笛",
+      "totalGmv": "2513598"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "BESWAN",
+      "totalGmv": "2301731"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "金格尔",
+      "totalGmv": "2257031"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "翔微儿",
+      "totalGmv": "2213930"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "ICELAKEWHALE",
+      "totalGmv": "2084620"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "依莎韦尔",
+      "totalGmv": "1686606"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "赖皮虎",
+      "totalGmv": "1597070"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "hainisha/海妮莎",
+      "totalGmv": "1227621"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "艾沫薇",
+      "totalGmv": "1188555"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "PULASSI/普拉施",
+      "totalGmv": "1139385"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "XTEP/特步",
+      "totalGmv": "900669"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "海波特",
+      "totalGmv": "793595"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "华解语",
+      "totalGmv": "780731"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "墨佳琪",
+      "totalGmv": "708490"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "demonlolita",
+      "totalGmv": "707727"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "RNOEMI",
+      "totalGmv": "608277"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "羽岐美",
+      "totalGmv": "549170"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "昊之浪",
+      "totalGmv": "525076"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "米诺涛",
+      "totalGmv": "516411"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "泳之潮",
+      "totalGmv": "515407"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "亦美珊",
+      "totalGmv": "506524"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "huayiyan/花依妍",
+      "totalGmv": "478247"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Arena/阿瑞娜",
+      "totalGmv": "454698"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "xinghuaerte/兴.华尔特",
+      "totalGmv": "436022"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "般沐",
+      "totalGmv": "383122"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "MAN WEI DUO/蔓薇朵",
+      "totalGmv": "369927"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "MsShe/慕姗诗怡",
+      "totalGmv": "352214"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "KULUNHAI/库伦海",
+      "totalGmv": "340404"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "柏梦丝",
+      "totalGmv": "280166"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "笑兮兮",
+      "totalGmv": "262928"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Speedo/速比涛",
+      "totalGmv": "252121"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "B.DUCK",
+      "totalGmv": "250580"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "羽克",
+      "totalGmv": "248344"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "CYOGOK",
+      "totalGmv": "245794"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "UNION SHAQ/联合鲨鱼",
+      "totalGmv": "190625"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "海韵韩",
+      "totalGmv": "190051"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "汐考斯",
+      "totalGmv": "184480"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "奥菲奢",
+      "totalGmv": "184027"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "红袖萝",
+      "totalGmv": "179201"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "AEEROHMA/安逸曼",
+      "totalGmv": "173504"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Crouse Gean",
+      "totalGmv": "167772"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "艾慕狐",
+      "totalGmv": "163850"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "林梵妮",
+      "totalGmv": "163383"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "笙造",
+      "totalGmv": "162704"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "佰轩唯",
+      "totalGmv": "161533"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "刘小鱼",
+      "totalGmv": "159880"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Momasong/木马谣",
+      "totalGmv": "158330"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Theblender",
+      "totalGmv": "137509"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "CROUSE DEAN/卡洛诗丹",
+      "totalGmv": "121298"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "古浪鱼",
+      "totalGmv": "105272"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "周熙儿",
+      "totalGmv": "101586"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Keep",
+      "totalGmv": "93050"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "安秦•风",
+      "totalGmv": "88449"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "josoyeon/俏姝妍",
+      "totalGmv": "87063"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "Nazal",
+      "totalGmv": "86304"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "水星说",
+      "totalGmv": "83300"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "木清清",
+      "totalGmv": "82023"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "爱琦琳",
+      "totalGmv": "80922"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "范美意",
+      "totalGmv": "64379"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "蝶云格",
+      "totalGmv": "62444"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "奢亦璐",
+      "totalGmv": "62070"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "yonggeer/泳歌儿",
+      "totalGmv": "40407"
+    },
+    {
+      "thirdCategory": "连体泳衣",
+      "brandName": "VICTORIA’S SECRET/维多利亚的秘密",
+      "totalGmv": "34737"
+    },
+    {
+      "thirdCategory": "避震器",
+      "brandName": "其它",
+      "totalGmv": "40408"
+    },
+    {
+      "thirdCategory": "门球",
+      "brandName": "淘不淘器",
+      "totalGmv": "95570"
+    },
+    {
+      "thirdCategory": "陀螺",
+      "brandName": "其它",
+      "totalGmv": "132676"
+    },
+    {
+      "thirdCategory": "鞍具系列",
+      "brandName": "其它",
+      "totalGmv": "837344"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "其它",
+      "totalGmv": "19334454"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "筝乐",
+      "totalGmv": "2996004"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "YJ/永健",
+      "totalGmv": "2336988"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "陶趣居",
+      "totalGmv": "1790166"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "意诚",
+      "totalGmv": "800032"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "老大昌",
+      "totalGmv": "749950"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "kongzhongwuzhe/空中舞者",
+      "totalGmv": "742791"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "FENGZHENG LEE/风筝李",
+      "totalGmv": "589125"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "奇帝",
+      "totalGmv": "411459"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "fireball",
+      "totalGmv": "258870"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "FED/飞尔顿",
+      "totalGmv": "191241"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "大V店",
+      "totalGmv": "181257"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "华蚁",
+      "totalGmv": "146471"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "SUFEIYA",
+      "totalGmv": "127493"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "MERMAID/美人鱼",
+      "totalGmv": "120673"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "鸢友",
+      "totalGmv": "38559"
+    },
+    {
+      "thirdCategory": "风筝",
+      "brandName": "大宗",
+      "totalGmv": "34403"
+    },
+    {
+      "thirdCategory": "飞行棋",
+      "brandName": "学而思",
+      "totalGmv": "95024"
+    },
+    {
+      "thirdCategory": "飞镖",
+      "brandName": "其它",
+      "totalGmv": "140700"
+    },
+    {
+      "thirdCategory": "马匹装备",
+      "brandName": "Keep",
+      "totalGmv": "38409"
+    },
+    {
+      "thirdCategory": "马球用品",
+      "brandName": "其它",
+      "totalGmv": "257745"
+    },
+    {
+      "thirdCategory": "马球用品",
+      "brandName": "小芈",
+      "totalGmv": "17983"
+    },
+    {
+      "thirdCategory": "骑士装备",
+      "brandName": "忻萦",
+      "totalGmv": "181947"
+    },
+    {
+      "thirdCategory": "高尔夫伞",
+      "brandName": "其它",
+      "totalGmv": "8919818"
+    },
+    {
+      "thirdCategory": "高尔夫伞",
+      "brandName": "RAINSHOW/雨秀",
+      "totalGmv": "3681522"
+    },
+    {
+      "thirdCategory": "高尔夫手套",
+      "brandName": "GOLF",
+      "totalGmv": "34003"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "pgm",
+      "totalGmv": "2707691"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "HONMA",
+      "totalGmv": "2623335"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "其它",
+      "totalGmv": "1039043"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "EUROPEAN TOUR",
+      "totalGmv": "682858"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "DEX GOLF",
+      "totalGmv": "266177"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "CASTELBAJAC",
+      "totalGmv": "247770"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "T/欧巡赛",
+      "totalGmv": "156162"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "RYDER CUP",
+      "totalGmv": "123280"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "KOLFGALAXY/科耳吉",
+      "totalGmv": "115312"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "GOLF",
+      "totalGmv": "67168"
+    },
+    {
+      "thirdCategory": "高尔夫服装",
+      "brandName": "王",
+      "totalGmv": "61376"
+    },
+    {
+      "thirdCategory": "高尔夫球",
+      "brandName": "Callaway/卡拉威",
+      "totalGmv": "1284854"
+    },
+    {
+      "thirdCategory": "高尔夫球",
+      "brandName": "HONMA",
+      "totalGmv": "1166584"
+    },
+    {
+      "thirdCategory": "高尔夫球",
+      "brandName": "pgm",
+      "totalGmv": "395966"
+    },
+    {
+      "thirdCategory": "高尔夫球",
+      "brandName": "其它",
+      "totalGmv": "228899"
+    },
+    {
+      "thirdCategory": "高尔夫球",
+      "brandName": "MEASHINE/美晟",
+      "totalGmv": "38575"
+    },
+    {
+      "thirdCategory": "高尔夫球杆",
+      "brandName": "其它",
+      "totalGmv": "4410495"
+    },
+    {
+      "thirdCategory": "高尔夫球杆",
+      "brandName": "HONMA",
+      "totalGmv": "3884629"
+    },
+    {
+      "thirdCategory": "高尔夫球杆",
+      "brandName": "Callaway/卡拉威",
+      "totalGmv": "521240"
+    },
+    {
+      "thirdCategory": "高尔夫球杆",
+      "brandName": "pgm",
+      "totalGmv": "237631"
+    },
+    {
+      "thirdCategory": "高尔夫球杆",
+      "brandName": "金之铸",
+      "totalGmv": "97419"
+    },
+    {
+      "thirdCategory": "高尔夫球杆",
+      "brandName": "GOLF",
+      "totalGmv": "40937"
+    },
+    {
+      "thirdCategory": "高尔夫球迷用品",
+      "brandName": "其它",
+      "totalGmv": "781283"
+    },
+    {
+      "thirdCategory": "高尔夫球钉",
+      "brandName": "其它",
+      "totalGmv": "68068"
+    },
+    {
+      "thirdCategory": "高尔夫练习网",
+      "brandName": "pgm",
+      "totalGmv": "291229"
+    },
+    {
+      "thirdCategory": "高尔夫装备包",
+      "brandName": "HONMA",
+      "totalGmv": "375644"
+    },
+    {
+      "thirdCategory": "高尔夫装备包",
+      "brandName": "pgm",
+      "totalGmv": "68673"
+    },
+    {
+      "thirdCategory": "高尔夫装备包",
+      "brandName": "其它",
+      "totalGmv": "38417"
+    },
+    {
+      "thirdCategory": "高尔夫鞋",
+      "brandName": "GOLF",
+      "totalGmv": "583438"
+    },
+    {
+      "thirdCategory": "高尔夫鞋",
+      "brandName": "其它",
+      "totalGmv": "95663"
+    },
+    {
+      "thirdCategory": "高尔夫鞋",
+      "brandName": "NIKE/耐克",
+      "totalGmv": "89956"
+    },
+    {
+      "thirdCategory": "高尔夫鞋",
+      "brandName": "QIANGREN/强人",
+      "totalGmv": "39695"
+    },
+    {
+      "thirdCategory": "魔方/3D魔方",
+      "brandName": "其它",
+      "totalGmv": "1699140"
+    },
+    {
+      "thirdCategory": "魔方/3D魔方",
+      "brandName": "晨升",
+      "totalGmv": "240755"
+    },
+    {
+      "thirdCategory": "麻将",
+      "brandName": "其它",
+      "totalGmv": "4215901"
+    },
+    {
+      "thirdCategory": "麻将",
+      "brandName": "弘科",
+      "totalGmv": "239084"
     }
   ]
 }

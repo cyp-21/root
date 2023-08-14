@@ -8,7 +8,7 @@ function barLinePieMixLeft(data,dataB,domId,charttitle) {
       left:'0%',
       top:'0%',
       textStyle:{
-        fontSize:16,
+        fontSize:14,
         fontWeight:'bolder'
       }
     },
@@ -123,24 +123,26 @@ function barLinePieMixLeft(data,dataB,domId,charttitle) {
   }
   const optionB = {
     title:{
-      text:'▍2023-05-01',
+      text:'▍2023-07-01',
       left:'0%',
       top:'0%',
       textStyle:{
-        fontSize:16,
+        fontSize:14,
         fontWeight:'bolder'
       }
     },
     legend: {
-      left: 'right',
-      top:'middle',
-      orient:'ertical'
+      right: 10,
+      top: 20,
+      bottom: 20,
+      type: 'scroll',
+      orient:'vertical'
     },
     toolbox: {
       show: true,
       feature: {
         mark: { show: true },
-        dataView: { show: true, readOnly: false },
+        // dataView: { show: true, readOnly: false },
         restore: { show: true },
         saveAsImage: { show: true }
       }
@@ -169,17 +171,17 @@ function barLinePieMixLeft(data,dataB,domId,charttitle) {
         itemStyle: {
           borderRadius: 8
         },
-        data: pieUseData('2023-05-01')
+        data: pieUseData('2023-07-01')
       }
     ]
   };
   const optionC = {
     title:{
-      text:'▍美容护肤',
+      text:'▍踏步机/中小型健身器材',
       left:'0%',
       top:'0%',
       textStyle:{
-        fontSize:16,
+        fontSize:14,
         fontWeight:'bolder'
       }
     },
@@ -213,7 +215,7 @@ function barLinePieMixLeft(data,dataB,domId,charttitle) {
     },
     xAxis: {
       type: 'category',
-      data: dataB.filter(item=>item.secondCategory == '美容护肤').map(item=>item.date)
+      data: dataB.filter(item=>item.secondCategory == '踏步机/中小型健身器材').map(item=>item.date)
     },
     yAxis: [
       {
@@ -269,13 +271,13 @@ function barLinePieMixLeft(data,dataB,domId,charttitle) {
           ]),
           borderRadius:[33,33,0,0]
         },
-        data:dataB.filter(item=>item.secondCategory == '美容护肤').map(item=>Number(item.totalGmv))
+        data:dataB.filter(item=>item.secondCategory == '踏步机/中小型健身器材').map(item=>Number(item.totalGmv))
       },
       {
         name:'gmvRatio',
         type: 'line',
         yAxisIndex:1,
-        data:dataB.filter(item=>item.secondCategory == '美容护肤').map(item=>Number(item.gmvRatio)),
+        data:dataB.filter(item=>item.secondCategory == '踏步机/中小型健身器材').map(item=>Number(item.gmvRatio)),
         smooth:true
       },
     ]
